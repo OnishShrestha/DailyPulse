@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 97.2 °F |
-| Feels Like | 91.1 °F |
-| Humidity | 13% |
-| Wind | 7.7 mph |
+| Temperature | 84.6 °F |
+| Feels Like | 80.6 °F |
+| Humidity | 22% |
+| Wind | 4.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -143,11 +143,46 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**Dallas Cowboys** vs **Arizona Cardinals**  
-Status: In Progress  
-Time: 2026-08-23T02:00Z  
-Venue: State Farm Stadium  
-Location: Glendale, AZ  
+**Seattle Seahawks** vs **Tennessee Titans**  
+Status: Scheduled  
+Time: 2026-08-24T00:00Z  
+Venue: Nissan Stadium  
+Location: Nashville, TN  
+
+---
+**Las Vegas Raiders** vs **Houston Texans**  
+Status: Final  
+Time: 2026-08-21T00:00Z  
+Venue: Reliant Stadium  
+Location: Houston, TX  
+
+---
+**San Francisco 49ers** vs **Los Angeles Chargers**  
+Status: Final  
+Time: 2026-08-21T02:00Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
+**New York Jets** vs **Pittsburgh Steelers**  
+Status: Final  
+Time: 2026-08-21T23:00Z  
+Venue: Acrisure Stadium  
+Location: Pittsburgh, PA  
+
+---
+**Carolina Panthers** vs **Jacksonville Jaguars**  
+Status: Final  
+Time: 2026-08-21T23:30Z  
+Venue: EverBank Stadium  
+Location: Jacksonville, FL  
+
+---
+**Green Bay Packers** vs **Denver Broncos**  
+Status: Final  
+Time: 2026-08-22T01:00Z  
+Venue: Empower Field at Mile High  
+Location: Denver, CO  
 
 ---
 **Washington Commanders** vs **Detroit Lions**  
@@ -213,46 +248,11 @@ Venue: Raymond James Stadium
 Location: Tampa, FL  
 
 ---
-**Las Vegas Raiders** vs **Houston Texans**  
+**Dallas Cowboys** vs **Arizona Cardinals**  
 Status: Final  
-Time: 2026-08-21T00:00Z  
-Venue: Reliant Stadium  
-Location: Houston, TX  
-
----
-**San Francisco 49ers** vs **Los Angeles Chargers**  
-Status: Final  
-Time: 2026-08-21T02:00Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
-
----
-**New York Jets** vs **Pittsburgh Steelers**  
-Status: Final  
-Time: 2026-08-21T23:00Z  
-Venue: Acrisure Stadium  
-Location: Pittsburgh, PA  
-
----
-**Carolina Panthers** vs **Jacksonville Jaguars**  
-Status: Final  
-Time: 2026-08-21T23:30Z  
-Venue: EverBank Stadium  
-Location: Jacksonville, FL  
-
----
-**Green Bay Packers** vs **Denver Broncos**  
-Status: Final  
-Time: 2026-08-22T01:00Z  
-Venue: Empower Field at Mile High  
-Location: Denver, CO  
-
----
-**Seattle Seahawks** vs **Tennessee Titans**  
-Status: Scheduled  
-Time: 2026-08-24T00:00Z  
-Venue: Nissan Stadium  
-Location: Nashville, TN  
+Time: 2026-08-23T02:00Z  
+Venue: State Farm Stadium  
+Location: Glendale, AZ  
 
 ---
 
@@ -262,7 +262,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 23, 2026 at 03:51 AM |
+| Last update | August 23, 2026 at 01:26 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

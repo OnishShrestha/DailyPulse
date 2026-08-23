@@ -1,0 +1,68 @@
+name: DailyPulse
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 13 * * *"
+    - cron: "0 19 * * *"
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-dailypulse:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run DailyPulse
+        run: |
+          python src/main.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "OnishShrestha"
+          git config user.email "163622584+OnishShrestha@users.noreply.github.com"
+
+      - name: Commit DailyPulse update
+        run: |
+
+          git add README.md
+          git add data/
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          HOUR=$(date -u +"%H")
+
+          if [ "$HOUR" -lt 16 ]; then
+            MESSAGE="🌅 DailyPulse morning update"
+          elif [ "$HOUR" -lt 22 ]; then
+            MESSAGE="☀️ DailyPulse afternoon update"
+          else
+            MESSAGE="🌙 DailyPulse evening update"
+          fi
+
+          git commit -m "$MESSAGE"
+
+          git push

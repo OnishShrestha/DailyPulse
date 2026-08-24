@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-24T02:15:09.363676",
+    "timestamp": "2026-08-24T13:43:23.218557",
     "location": {
         "city": "Phoenix",
         "state": "Arizona",
@@ -287,23 +287,6 @@
         ],
         "NFL": [
             {
-                "id": "401873297",
-                "name": "Seattle Seahawks at Tennessee Titans",
-                "short_name": "SEA @ TEN",
-                "date": "2026-08-24T00:00Z",
-                "status": "In Progress",
-                "state": "TN",
-                "detail": "5:06 - 3rd Quarter",
-                "home_team": "Tennessee Titans",
-                "home_abbreviation": "TEN",
-                "home_score": "9",
-                "away_team": "Seattle Seahawks",
-                "away_abbreviation": "SEA",
-                "away_score": "16",
-                "venue": "Nissan Stadium",
-                "city": "Nashville"
-            },
-            {
                 "id": "401873286",
                 "name": "Las Vegas Raiders at Houston Texans",
                 "short_name": "LV @ HOU",
@@ -557,6 +540,23 @@
                 "away_score": "34",
                 "venue": "State Farm Stadium",
                 "city": "Glendale"
+            },
+            {
+                "id": "401873297",
+                "name": "Seattle Seahawks at Tennessee Titans",
+                "short_name": "SEA @ TEN",
+                "date": "2026-08-24T00:00Z",
+                "status": "Final",
+                "state": "TN",
+                "detail": "Final",
+                "home_team": "Tennessee Titans",
+                "home_abbreviation": "TEN",
+                "home_score": "19",
+                "away_team": "Seattle Seahawks",
+                "away_abbreviation": "SEA",
+                "away_score": "16",
+                "venue": "Nissan Stadium",
+                "city": "Nashville"
             }
         ]
     }

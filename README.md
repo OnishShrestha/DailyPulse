@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 101.8 °F |
-| Feels Like | 100.9 °F |
-| Humidity | 22% |
-| Wind | 6.5 mph |
+| Temperature | 87.1 °F |
+| Feels Like | 90.0 °F |
+| Humidity | 44% |
+| Wind | 3.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -143,13 +143,6 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**Seattle Seahawks** vs **Tennessee Titans**  
-Status: In Progress  
-Time: 2026-08-24T00:00Z  
-Venue: Nissan Stadium  
-Location: Nashville, TN  
-
----
 **Las Vegas Raiders** vs **Houston Texans**  
 Status: Final  
 Time: 2026-08-21T00:00Z  
@@ -255,6 +248,13 @@ Venue: State Farm Stadium
 Location: Glendale, AZ  
 
 ---
+**Seattle Seahawks** vs **Tennessee Titans**  
+Status: Final  
+Time: 2026-08-24T00:00Z  
+Venue: Nissan Stadium  
+Location: Nashville, TN  
+
+---
 
 ---
 
@@ -262,7 +262,7 @@ Location: Glendale, AZ
 
 | Item | Value |
 |---|---|
-| Last update | August 24, 2026 at 02:15 AM |
+| Last update | August 24, 2026 at 01:43 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

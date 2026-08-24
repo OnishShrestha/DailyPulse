@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 87.1 °F |
-| Feels Like | 90.0 °F |
-| Humidity | 44% |
-| Wind | 3.6 mph |
+| Temperature | 101.4 °F |
+| Feels Like | 106.6 °F |
+| Humidity | 23% |
+| Wind | 3.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,109 +27,74 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**St. Louis Cardinals** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-08-23T17:35Z  
-Venue: Citizens Bank Park  
-Location: Philadelphia, Pennsylvania  
-
----
-**Tampa Bay Rays** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-08-23T17:35Z  
-Venue: Oriole Park at Camden Yards  
-Location: Baltimore, Maryland  
-
----
-**Toronto Blue Jays** vs **New York Yankees**  
-Status: Final  
-Time: 2026-08-23T17:35Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Washington Nationals** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-08-23T17:40Z  
+**Boston Red Sox** vs **Miami Marlins**  
+Status: Scheduled  
+Time: 2026-08-24T22:40Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
-**Athletics** vs **Houston Astros**  
-Status: Final  
-Time: 2026-08-23T18:10Z  
-Venue: Daikin Park  
-Location: Houston, Texas  
+**Tampa Bay Rays** vs **Detroit Tigers**  
+Status: Scheduled  
+Time: 2026-08-24T22:40Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
 
 ---
-**Detroit Tigers** vs **Kansas City Royals**  
-Status: Final  
-Time: 2026-08-23T18:10Z  
-Venue: Kauffman Stadium  
-Location: Kansas City, Missouri  
+**Colorado Rockies** vs **Washington Nationals**  
+Status: Scheduled  
+Time: 2026-08-24T22:45Z  
+Venue: Nationals Park  
+Location: Washington, District of Columbia  
 
 ---
-**New York Mets** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-08-23T18:10Z  
+**Texas Rangers** vs **Chicago White Sox**  
+Status: Scheduled  
+Time: 2026-08-24T23:40Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
-**Los Angeles Angels** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-08-23T18:35Z  
-Venue: Globe Life Field  
-Location: Arlington, Texas  
+**Cleveland Guardians** vs **Los Angeles Angels**  
+Status: Scheduled  
+Time: 2026-08-25T01:38Z  
+Venue: Angel Stadium  
+Location: Anaheim, California  
 
 ---
-**Cleveland Guardians** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-08-23T19:10Z  
-Venue: Coors Field  
-Location: Denver, Colorado  
-
----
-**San Francisco Giants** vs **Boston Red Sox**  
-Status: Final  
-Time: 2026-08-23T19:15Z  
-Venue: Fenway Park  
-Location: Boston, Massachusetts  
-
----
-**Chicago Cubs** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-08-23T20:10Z  
-Venue: T-Mobile Park  
-Location: Seattle, Washington  
-
----
-**Minnesota Twins** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-08-23T20:10Z  
-Venue: Petco Park  
-Location: San Diego, California  
-
----
-**Pittsburgh Pirates** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-08-23T20:10Z  
-Venue: Dodger Stadium  
-Location: Los Angeles, California  
-
----
-**Cincinnati Reds** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-08-23T20:15Z  
+**Chicago Cubs** vs **Arizona Diamondbacks**  
+Status: Scheduled  
+Time: 2026-08-25T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
-**Atlanta Braves** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-08-23T23:00Z  
-Venue: Journey Bank Ballpark at Historic Bowman Field  
-Location: Williamsport, Pennsylvania  
+**Minnesota Twins** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-08-25T01:40Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
+
+---
+**Philadelphia Phillies** vs **Seattle Mariners**  
+Status: Scheduled  
+Time: 2026-08-25T01:40Z  
+Venue: T-Mobile Park  
+Location: Seattle, Washington  
+
+---
+**Pittsburgh Pirates** vs **San Diego Padres**  
+Status: Scheduled  
+Time: 2026-08-25T01:40Z  
+Venue: Petco Park  
+Location: San Diego, California  
+
+---
+**Cincinnati Reds** vs **San Francisco Giants**  
+Status: Scheduled  
+Time: 2026-08-25T01:45Z  
+Venue: Oracle Park  
+Location: San Francisco, California  
 
 ---
 
@@ -262,7 +227,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 24, 2026 at 01:43 PM |
+| Last update | August 24, 2026 at 07:26 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

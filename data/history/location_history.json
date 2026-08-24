@@ -14,5 +14,13 @@
         "latitude": 36.1699,
         "longitude": -115.1398,
         "timezone": "America/Los_Angeles"
+    },
+    "2026-08-24": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "USA",
+        "latitude": 33.4484,
+        "longitude": -112.074,
+        "timezone": "America/Phoenix"
     }
 }

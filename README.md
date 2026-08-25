@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 67.2 °F |
-| Feels Like | 66.7 °F |
-| Humidity | 67% |
-| Wind | 5.8 mph |
+| Temperature | 68.9 °F |
+| Feels Like | 69.4 °F |
+| Humidity | 72% |
+| Wind | 6.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -49,49 +49,49 @@ Location: Washington, District of Columbia
 
 ---
 **Texas Rangers** vs **Chicago White Sox**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-24T23:40Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **Cleveland Guardians** vs **Los Angeles Angels**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Chicago Cubs** vs **Arizona Diamondbacks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
 **Minnesota Twins** vs **Athletics**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T01:40Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **Philadelphia Phillies** vs **Seattle Mariners**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T01:40Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
 **Pittsburgh Pirates** vs **San Diego Padres**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T01:40Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
 **Cincinnati Reds** vs **San Francisco Giants**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T01:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -227,7 +227,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 25, 2026 at 02:10 AM |
+| Last update | August 25, 2026 at 01:41 PM |
 | Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

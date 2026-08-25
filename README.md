@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Phoenix, Arizona
+### New York, New York
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 101.4 °F |
-| Feels Like | 106.6 °F |
-| Humidity | 23% |
-| Wind | 3.0 mph |
+| Temperature | 67.2 °F |
+| Feels Like | 66.7 °F |
+| Humidity | 67% |
+| Wind | 5.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,70 +28,70 @@
 
 ## ⚾ MLB
 **Boston Red Sox** vs **Miami Marlins**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-24T22:40Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **Tampa Bay Rays** vs **Detroit Tigers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-24T22:40Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **Colorado Rockies** vs **Washington Nationals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-24T22:45Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **Texas Rangers** vs **Chicago White Sox**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-24T23:40Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **Cleveland Guardians** vs **Los Angeles Angels**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-25T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Chicago Cubs** vs **Arizona Diamondbacks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-25T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
 **Minnesota Twins** vs **Athletics**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-25T01:40Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **Philadelphia Phillies** vs **Seattle Mariners**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-25T01:40Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
 **Pittsburgh Pirates** vs **San Diego Padres**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-25T01:40Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
 **Cincinnati Reds** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-25T01:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -227,8 +227,8 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 24, 2026 at 07:26 PM |
-| Daily location | Phoenix |
+| Last update | August 25, 2026 at 02:10 AM |
+| Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

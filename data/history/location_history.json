@@ -22,5 +22,13 @@
         "latitude": 33.4484,
         "longitude": -112.074,
         "timezone": "America/Phoenix"
+    },
+    "2026-08-25": {
+        "city": "New York",
+        "state": "New York",
+        "country": "USA",
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "timezone": "America/New_York"
     }
 }

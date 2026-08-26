@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 56.8 °F |
-| Feels Like | 57.0 °F |
-| Humidity | 93% |
-| Wind | 3.1 mph |
+| Temperature | 69.5 °F |
+| Feels Like | 73.1 °F |
+| Humidity | 69% |
+| Wind | 2.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,109 +27,109 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Boston Red Sox** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-08-25T22:40Z  
-Venue: loanDepot park  
-Location: Miami, Florida  
-
----
 **Tampa Bay Rays** vs **Detroit Tigers**  
 Status: Final  
-Time: 2026-08-25T22:40Z  
+Time: 2026-08-26T17:10Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
-**Colorado Rockies** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-08-25T22:45Z  
-Venue: Nationals Park  
-Location: Washington, District of Columbia  
-
----
-**Houston Astros** vs **New York Yankees**  
-Status: Final  
-Time: 2026-08-25T23:05Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Kansas City Royals** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-08-25T23:07Z  
-Venue: Rogers Centre  
-Location: Toronto, Ontario  
-
----
-**Milwaukee Brewers** vs **New York Mets**  
-Status: Final  
-Time: 2026-08-25T23:10Z  
-Venue: Citi Field  
-Location: Queens, New York  
-
----
-**Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-08-25T23:15Z  
-Venue: Truist Park  
-Location: Atlanta, Georgia  
-
----
-**Texas Rangers** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-08-25T23:40Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
-
----
-**Baltimore Orioles** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-08-25T23:45Z  
-Venue: Busch Stadium  
-Location: St. Louis, Missouri  
-
----
-**Cleveland Guardians** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-08-26T01:38Z  
-Venue: Angel Stadium  
-Location: Anaheim, California  
-
----
 **Chicago Cubs** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-08-26T01:40Z  
+Status: In Progress  
+Time: 2026-08-26T19:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
-**Minnesota Twins** vs **Athletics**  
-Status: Final  
-Time: 2026-08-26T01:40Z  
-Venue: Sutter Health Park  
-Location: Sacramento, California  
+**Cincinnati Reds** vs **San Francisco Giants**  
+Status: In Progress  
+Time: 2026-08-26T19:45Z  
+Venue: Oracle Park  
+Location: San Francisco, California  
+
+---
+**Cleveland Guardians** vs **Los Angeles Angels**  
+Status: In Progress  
+Time: 2026-08-26T20:07Z  
+Venue: Angel Stadium  
+Location: Anaheim, California  
 
 ---
 **Philadelphia Phillies** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-08-26T01:40Z  
+Status: In Progress  
+Time: 2026-08-26T20:10Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
 **Pittsburgh Pirates** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-08-26T01:40Z  
+Status: In Progress  
+Time: 2026-08-26T20:10Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
-**Cincinnati Reds** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-08-26T01:45Z  
-Venue: Oracle Park  
-Location: San Francisco, California  
+**Boston Red Sox** vs **Miami Marlins**  
+Status: Scheduled  
+Time: 2026-08-26T22:40Z  
+Venue: loanDepot park  
+Location: Miami, Florida  
+
+---
+**Colorado Rockies** vs **Washington Nationals**  
+Status: Scheduled  
+Time: 2026-08-26T22:45Z  
+Venue: Nationals Park  
+Location: Washington, District of Columbia  
+
+---
+**Houston Astros** vs **New York Yankees**  
+Status: Scheduled  
+Time: 2026-08-26T23:05Z  
+Venue: Yankee Stadium  
+Location: Bronx, New York  
+
+---
+**Kansas City Royals** vs **Toronto Blue Jays**  
+Status: Scheduled  
+Time: 2026-08-26T23:07Z  
+Venue: Rogers Centre  
+Location: Toronto, Ontario  
+
+---
+**Milwaukee Brewers** vs **New York Mets**  
+Status: Scheduled  
+Time: 2026-08-26T23:10Z  
+Venue: Citi Field  
+Location: Queens, New York  
+
+---
+**Los Angeles Dodgers** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-08-26T23:15Z  
+Venue: Truist Park  
+Location: Atlanta, Georgia  
+
+---
+**Texas Rangers** vs **Chicago White Sox**  
+Status: Scheduled  
+Time: 2026-08-26T23:40Z  
+Venue: Rate Field  
+Location: Chicago, Illinois  
+
+---
+**Baltimore Orioles** vs **St. Louis Cardinals**  
+Status: Scheduled  
+Time: 2026-08-26T23:45Z  
+Venue: Busch Stadium  
+Location: St. Louis, Missouri  
+
+---
+**Minnesota Twins** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-08-27T01:05Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
 
 ---
 
@@ -262,7 +262,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 26, 2026 at 01:47 PM |
+| Last update | August 26, 2026 at 09:37 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

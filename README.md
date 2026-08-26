@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 73.0 °F |
-| Feels Like | 72.6 °F |
-| Humidity | 58% |
-| Wind | 6.6 mph |
+| Temperature | 56.8 °F |
+| Feels Like | 57.0 °F |
+| Humidity | 93% |
+| Wind | 3.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -77,56 +77,56 @@ Location: Atlanta, Georgia
 
 ---
 **Texas Rangers** vs **Chicago White Sox**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T23:40Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **Baltimore Orioles** vs **St. Louis Cardinals**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-25T23:45Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
 **Cleveland Guardians** vs **Los Angeles Angels**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-26T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Chicago Cubs** vs **Arizona Diamondbacks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-26T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
 **Minnesota Twins** vs **Athletics**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-26T01:40Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **Philadelphia Phillies** vs **Seattle Mariners**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-26T01:40Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
 **Pittsburgh Pirates** vs **San Diego Padres**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-26T01:40Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
 **Cincinnati Reds** vs **San Francisco Giants**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-26T01:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -262,7 +262,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 26, 2026 at 02:17 AM |
+| Last update | August 26, 2026 at 01:47 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

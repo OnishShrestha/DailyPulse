@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Chicago, Illinois
+### Dallas, Texas
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 75.0 °F |
-| Feels Like | 76.7 °F |
-| Humidity | 64% |
-| Wind | 5.9 mph |
+| Temperature | 91.8 °F |
+| Feels Like | 92.5 °F |
+| Humidity | 36% |
+| Wind | 7.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -42,35 +42,35 @@ Location: St. Louis, Missouri
 
 ---
 **Houston Astros** vs **New York Yankees**  
-Status: Rain Delay  
+Status: Final  
 Time: 2026-08-27T23:05Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Kansas City Royals** vs **Toronto Blue Jays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-27T23:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
 **Milwaukee Brewers** vs **New York Mets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-27T23:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-27T23:15Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Arizona Diamondbacks** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-28T01:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -87,32 +87,32 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**Pittsburgh Steelers** vs **Buffalo Bills**  
-Status: Scheduled  
-Time: 2026-08-27T23:00Z  
-Venue: Highmark Stadium  
-Location: Orchard Park, NY  
-
----
 **New England Patriots** vs **Cleveland Browns**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-28T00:00Z  
 Venue: Huntington Bank Field  
 Location: Cleveland, OH  
 
 ---
 **San Francisco 49ers** vs **Las Vegas Raiders**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-28T00:00Z  
 Venue: Allegiant Stadium  
 Location: Las Vegas, NV  
 
 ---
 **Los Angeles Rams** vs **Los Angeles Chargers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-28T02:00Z  
 Venue: SoFi Stadium  
 Location: Inglewood, CA  
+
+---
+**Pittsburgh Steelers** vs **Buffalo Bills**  
+Status: Final  
+Time: 2026-08-27T23:00Z  
+Venue: Highmark Stadium  
+Location: Orchard Park, NY  
 
 ---
 **Washington Commanders** vs **Baltimore Ravens**  
@@ -206,8 +206,8 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 27, 2026 at 10:42 PM |
-| Daily location | Chicago |
+| Last update | August 28, 2026 at 02:25 AM |
+| Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

@@ -46,5 +46,13 @@
         "latitude": 41.8781,
         "longitude": -87.6298,
         "timezone": "America/Chicago"
+    },
+    "2026-08-28": {
+        "city": "Dallas",
+        "state": "Texas",
+        "country": "USA",
+        "latitude": 32.7767,
+        "longitude": -96.797,
+        "timezone": "America/Chicago"
     }
 }

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 78.9 °F |
-| Feels Like | 85.0 °F |
-| Humidity | 72% |
-| Wind | 3.3 mph |
+| Temperature | 100.6 °F |
+| Feels Like | 97.2 °F |
+| Humidity | 18% |
+| Wind | 7.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,51 +27,107 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Colorado Rockies** vs **Washington Nationals**  
+**Cincinnati Reds** vs **Chicago Cubs**  
 Status: Final  
-Time: 2026-08-27T17:05Z  
+Time: 2026-08-28T18:20Z  
+Venue: Wrigley Field  
+Location: Chicago, Illinois  
+
+---
+**Los Angeles Dodgers** vs **Detroit Tigers**  
+Status: In Progress  
+Time: 2026-08-28T22:40Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
+
+---
+**Miami Marlins** vs **Washington Nationals**  
+Status: In Progress  
+Time: 2026-08-28T22:45Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
-**Baltimore Orioles** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-08-27T18:15Z  
-Venue: Busch Stadium  
-Location: St. Louis, Missouri  
-
----
-**Houston Astros** vs **New York Yankees**  
-Status: Final  
-Time: 2026-08-27T23:05Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Kansas City Royals** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-08-27T23:07Z  
-Venue: Rogers Centre  
-Location: Toronto, Ontario  
-
----
-**Milwaukee Brewers** vs **New York Mets**  
-Status: Final  
-Time: 2026-08-27T23:10Z  
+**Houston Astros** vs **New York Mets**  
+Status: Scheduled  
+Time: 2026-08-28T23:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
-**Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-08-27T23:15Z  
+**Kansas City Royals** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-08-28T23:10Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
+
+---
+**San Diego Padres** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-08-28T23:10Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
+**Boston Red Sox** vs **New York Yankees**  
+Status: Scheduled  
+Time: 2026-08-28T23:15Z  
+Venue: Yankee Stadium  
+Location: Bronx, New York  
+
+---
+**Colorado Rockies** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-08-28T23:15Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
+**Seattle Mariners** vs **Toronto Blue Jays**  
+Status: Scheduled  
+Time: 2026-08-28T23:15Z  
+Venue: Rogers Centre  
+Location: Toronto, Ontario  
+
+---
+**Texas Rangers** vs **Milwaukee Brewers**  
+Status: Scheduled  
+Time: 2026-08-28T23:40Z  
+Venue: American Family Field  
+Location: Milwaukee, Wisconsin  
+
+---
+**Chicago White Sox** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-08-29T00:10Z  
+Venue: Target Field  
+Location: Minneapolis, Minnesota  
+
+---
+**Pittsburgh Pirates** vs **St. Louis Cardinals**  
+Status: Scheduled  
+Time: 2026-08-29T00:15Z  
+Venue: Busch Stadium  
+Location: St. Louis, Missouri  
+
+---
+**Philadelphia Phillies** vs **Los Angeles Angels**  
+Status: Scheduled  
+Time: 2026-08-29T01:38Z  
+Venue: Angel Stadium  
+Location: Anaheim, California  
+
+---
+**Baltimore Orioles** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-08-29T01:40Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
+
+---
 **Arizona Diamondbacks** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-08-28T01:45Z  
+Status: Scheduled  
+Time: 2026-08-29T02:15Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
 
@@ -88,7 +144,7 @@ Location: Quebec City, PQ
 
 ## 🏈 NFL
 **Washington Commanders** vs **Baltimore Ravens**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-28T22:00Z  
 Venue: M&T Bank Stadium  
 Location: Baltimore, MD  
@@ -206,7 +262,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 28, 2026 at 12:20 PM |
+| Last update | August 28, 2026 at 10:49 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

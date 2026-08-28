@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 91.8 °F |
-| Feels Like | 92.5 °F |
-| Humidity | 36% |
-| Wind | 7.2 mph |
+| Temperature | 78.9 °F |
+| Feels Like | 85.0 °F |
+| Humidity | 72% |
+| Wind | 3.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -70,7 +70,7 @@ Location: Atlanta, Georgia
 
 ---
 **Arizona Diamondbacks** vs **San Francisco Giants**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-28T01:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -87,34 +87,6 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**New England Patriots** vs **Cleveland Browns**  
-Status: In Progress  
-Time: 2026-08-28T00:00Z  
-Venue: Huntington Bank Field  
-Location: Cleveland, OH  
-
----
-**San Francisco 49ers** vs **Las Vegas Raiders**  
-Status: In Progress  
-Time: 2026-08-28T00:00Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
-
----
-**Los Angeles Rams** vs **Los Angeles Chargers**  
-Status: In Progress  
-Time: 2026-08-28T02:00Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
-
----
-**Pittsburgh Steelers** vs **Buffalo Bills**  
-Status: Final  
-Time: 2026-08-27T23:00Z  
-Venue: Highmark Stadium  
-Location: Orchard Park, NY  
-
----
 **Washington Commanders** vs **Baltimore Ravens**  
 Status: Scheduled  
 Time: 2026-08-28T22:00Z  
@@ -185,6 +157,34 @@ Venue: Empower Field at Mile High
 Location: Denver, CO  
 
 ---
+**Pittsburgh Steelers** vs **Buffalo Bills**  
+Status: Final  
+Time: 2026-08-27T23:00Z  
+Venue: Highmark Stadium  
+Location: Orchard Park, NY  
+
+---
+**New England Patriots** vs **Cleveland Browns**  
+Status: Final  
+Time: 2026-08-28T00:00Z  
+Venue: Huntington Bank Field  
+Location: Cleveland, OH  
+
+---
+**San Francisco 49ers** vs **Las Vegas Raiders**  
+Status: Final  
+Time: 2026-08-28T00:00Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
+**Los Angeles Rams** vs **Los Angeles Chargers**  
+Status: Final  
+Time: 2026-08-28T02:00Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
 **Detroit Lions** vs **Indianapolis Colts**  
 Status: Scheduled  
 Time: 2026-08-29T17:00Z  
@@ -206,7 +206,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 28, 2026 at 02:25 AM |
+| Last update | August 28, 2026 at 12:20 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

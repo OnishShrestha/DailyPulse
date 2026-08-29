@@ -54,5 +54,13 @@
         "latitude": 32.7767,
         "longitude": -96.797,
         "timezone": "America/Chicago"
+    },
+    "2026-08-29": {
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "USA",
+        "latitude": 39.9526,
+        "longitude": -75.1652,
+        "timezone": "America/New_York"
     }
 }

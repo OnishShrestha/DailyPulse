@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 75.8 °F |
-| Feels Like | 83.2 °F |
-| Humidity | 82% |
-| Wind | 1.1 mph |
+| Temperature | 64.2 °F |
+| Feels Like | 66.1 °F |
+| Humidity | 83% |
+| Wind | 2.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -70,14 +70,14 @@ Location: St. Petersburg, Florida
 
 ---
 **Boston Red Sox** vs **New York Yankees**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-28T23:15Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Colorado Rockies** vs **Atlanta Braves**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-28T23:15Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
@@ -91,42 +91,42 @@ Location: Toronto, Ontario
 
 ---
 **Texas Rangers** vs **Milwaukee Brewers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-28T23:40Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
 **Chicago White Sox** vs **Minnesota Twins**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-29T00:10Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
 
 ---
 **Pittsburgh Pirates** vs **St. Louis Cardinals**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-29T00:15Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
 **Philadelphia Phillies** vs **Los Angeles Angels**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-29T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Baltimore Orioles** vs **Athletics**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-29T01:40Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **Arizona Diamondbacks** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-29T02:15Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -143,74 +143,18 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**Atlanta Falcons** vs **Miami Dolphins**  
-Status: In Progress  
-Time: 2026-08-28T23:00Z  
-Venue: Hard Rock Stadium  
-Location: Miami Gardens, FL  
+**Detroit Lions** vs **Indianapolis Colts**  
+Status: Scheduled  
+Time: 2026-08-29T17:00Z  
+Venue: Lucas Oil Stadium  
+Location: Indianapolis, IN  
 
 ---
-**Houston Texans** vs **Carolina Panthers**  
-Status: In Progress  
-Time: 2026-08-28T23:00Z  
-Venue: Bank of America Stadium  
-Location: Charlotte, NC  
-
----
-**New York Giants** vs **New York Jets**  
-Status: In Progress  
-Time: 2026-08-28T23:30Z  
-Venue: MetLife Stadium  
-Location: East Rutherford, NJ  
-
----
-**Tampa Bay Buccaneers** vs **Jacksonville Jaguars**  
-Status: In Progress  
-Time: 2026-08-28T23:30Z  
-Venue: EverBank Stadium  
-Location: Jacksonville, FL  
-
----
-**New Orleans Saints** vs **Dallas Cowboys**  
-Status: In Progress  
-Time: 2026-08-29T00:00Z  
-Venue: AT&T Stadium  
-Location: Arlington, TX  
-
----
-**Arizona Cardinals** vs **Green Bay Packers**  
-Status: In Progress  
-Time: 2026-08-29T00:00Z  
-Venue: Lambeau Field  
-Location: Green Bay, WI  
-
----
-**Seattle Seahawks** vs **Kansas City Chiefs**  
-Status: In Progress  
-Time: 2026-08-29T00:00Z  
-Venue: Arrowhead Stadium  
-Location: Kansas City, MO  
-
----
-**Cincinnati Bengals** vs **Philadelphia Eagles**  
-Status: In Progress  
-Time: 2026-08-29T00:00Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
-
----
-**Minnesota Vikings** vs **Denver Broncos**  
-Status: In Progress  
-Time: 2026-08-29T01:00Z  
-Venue: Empower Field at Mile High  
-Location: Denver, CO  
-
----
-**Washington Commanders** vs **Baltimore Ravens**  
-Status: Final  
-Time: 2026-08-28T22:00Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
+**Chicago Bears** vs **Tennessee Titans**  
+Status: Scheduled  
+Time: 2026-08-29T22:00Z  
+Venue: Nissan Stadium  
+Location: Nashville, TN  
 
 ---
 **Pittsburgh Steelers** vs **Buffalo Bills**  
@@ -241,18 +185,74 @@ Venue: SoFi Stadium
 Location: Inglewood, CA  
 
 ---
-**Detroit Lions** vs **Indianapolis Colts**  
-Status: Scheduled  
-Time: 2026-08-29T17:00Z  
-Venue: Lucas Oil Stadium  
-Location: Indianapolis, IN  
+**Washington Commanders** vs **Baltimore Ravens**  
+Status: Final  
+Time: 2026-08-28T22:00Z  
+Venue: M&T Bank Stadium  
+Location: Baltimore, MD  
 
 ---
-**Chicago Bears** vs **Tennessee Titans**  
-Status: Scheduled  
-Time: 2026-08-29T22:00Z  
-Venue: Nissan Stadium  
-Location: Nashville, TN  
+**Atlanta Falcons** vs **Miami Dolphins**  
+Status: Final  
+Time: 2026-08-28T23:00Z  
+Venue: Hard Rock Stadium  
+Location: Miami Gardens, FL  
+
+---
+**Houston Texans** vs **Carolina Panthers**  
+Status: Final  
+Time: 2026-08-28T23:00Z  
+Venue: Bank of America Stadium  
+Location: Charlotte, NC  
+
+---
+**New York Giants** vs **New York Jets**  
+Status: Final  
+Time: 2026-08-28T23:30Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
+
+---
+**Tampa Bay Buccaneers** vs **Jacksonville Jaguars**  
+Status: Final  
+Time: 2026-08-28T23:30Z  
+Venue: EverBank Stadium  
+Location: Jacksonville, FL  
+
+---
+**New Orleans Saints** vs **Dallas Cowboys**  
+Status: Final  
+Time: 2026-08-29T00:00Z  
+Venue: AT&T Stadium  
+Location: Arlington, TX  
+
+---
+**Arizona Cardinals** vs **Green Bay Packers**  
+Status: Final  
+Time: 2026-08-29T00:00Z  
+Venue: Lambeau Field  
+Location: Green Bay, WI  
+
+---
+**Seattle Seahawks** vs **Kansas City Chiefs**  
+Status: Final  
+Time: 2026-08-29T00:00Z  
+Venue: Arrowhead Stadium  
+Location: Kansas City, MO  
+
+---
+**Cincinnati Bengals** vs **Philadelphia Eagles**  
+Status: Final  
+Time: 2026-08-29T00:00Z  
+Venue: Lincoln Financial Field  
+Location: Philadelphia, PA  
+
+---
+**Minnesota Vikings** vs **Denver Broncos**  
+Status: Final  
+Time: 2026-08-29T01:00Z  
+Venue: Empower Field at Mile High  
+Location: Denver, CO  
 
 ---
 
@@ -262,7 +262,7 @@ Location: Nashville, TN
 
 | Item | Value |
 |---|---|
-| Last update | August 29, 2026 at 01:58 AM |
+| Last update | August 29, 2026 at 07:30 AM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

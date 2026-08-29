@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 72.8 °F |
-| Feels Like | 77.5 °F |
-| Humidity | 58% |
-| Wind | 3.4 mph |
+| Temperature | 76.8 °F |
+| Feels Like | 75.8 °F |
+| Humidity | 42% |
+| Wind | 3.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,84 +28,84 @@
 
 ## ⚾ MLB
 **Boston Red Sox** vs **New York Yankees**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-29T17:05Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Los Angeles Dodgers** vs **Detroit Tigers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-29T17:10Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **Chicago White Sox** vs **Minnesota Twins**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-29T18:10Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
 
 ---
 **Pittsburgh Pirates** vs **St. Louis Cardinals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-29T18:15Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
 **Cincinnati Reds** vs **Chicago Cubs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-29T18:20Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
 **Seattle Mariners** vs **Toronto Blue Jays**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-29T19:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
 **Miami Marlins** vs **Washington Nationals**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-29T20:05Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **Arizona Diamondbacks** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-29T20:05Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
 
 ---
 **Colorado Rockies** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-29T20:10Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Houston Astros** vs **New York Mets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-29T20:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Kansas City Royals** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-29T20:10Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **San Diego Padres** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-29T20:10Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
@@ -158,7 +158,7 @@ Location: Quebec City, PQ
 
 ## 🏈 NFL
 **Detroit Lions** vs **Indianapolis Colts**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-29T17:00Z  
 Venue: Lucas Oil Stadium  
 Location: Indianapolis, IN  
@@ -276,7 +276,7 @@ Location: Denver, CO
 
 | Item | Value |
 |---|---|
-| Last update | August 29, 2026 at 04:55 PM |
+| Last update | August 29, 2026 at 09:29 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

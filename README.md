@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 72.6 °F |
-| Feels Like | 76.8 °F |
-| Humidity | 78% |
-| Wind | 3.5 mph |
+| Temperature | 81.7 °F |
+| Feels Like | 87.8 °F |
+| Humidity | 64% |
+| Wind | 3.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,123 +27,102 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Boston Red Sox** vs **New York Yankees**  
-Status: Final  
-Time: 2026-08-29T17:05Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Los Angeles Dodgers** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-08-29T17:10Z  
-Venue: Comerica Park  
-Location: Detroit, Michigan  
-
----
-**Chicago White Sox** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-08-29T18:10Z  
-Venue: Target Field  
-Location: Minneapolis, Minnesota  
-
----
-**Pittsburgh Pirates** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-08-29T18:15Z  
-Venue: Busch Stadium  
-Location: St. Louis, Missouri  
-
----
-**Cincinnati Reds** vs **Chicago Cubs**  
-Status: Final  
-Time: 2026-08-29T18:20Z  
-Venue: Wrigley Field  
-Location: Chicago, Illinois  
-
----
-**Seattle Mariners** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-08-29T19:07Z  
-Venue: Rogers Centre  
-Location: Toronto, Ontario  
-
----
 **Miami Marlins** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-08-29T20:05Z  
+Status: In Progress  
+Time: 2026-08-30T16:15Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
-**Arizona Diamondbacks** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-08-29T20:05Z  
-Venue: Oracle Park  
-Location: San Francisco, California  
-
----
-**Colorado Rockies** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-08-29T20:10Z  
-Venue: Truist Park  
-Location: Atlanta, Georgia  
-
----
-**Houston Astros** vs **New York Mets**  
-Status: Final  
-Time: 2026-08-29T20:10Z  
-Venue: Citi Field  
-Location: Queens, New York  
-
----
-**Kansas City Royals** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-08-29T20:10Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
-
----
-**San Diego Padres** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-08-29T20:10Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
-
----
 **Boston Red Sox** vs **New York Yankees**  
-Status: Final  
-Time: 2026-08-29T23:15Z  
+Status: Scheduled  
+Time: 2026-08-30T17:35Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
+**Colorado Rockies** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-08-30T17:35Z  
+Venue: Truist Park  
+Location: Atlanta, Georgia  
+
+---
+**Seattle Mariners** vs **Toronto Blue Jays**  
+Status: Scheduled  
+Time: 2026-08-30T17:37Z  
+Venue: Rogers Centre  
+Location: Toronto, Ontario  
+
+---
+**Kansas City Royals** vs **Cleveland Guardians**  
+Status: Rain Delay  
+Time: 2026-08-30T17:40Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
+
+---
+**Los Angeles Dodgers** vs **Detroit Tigers**  
+Status: Scheduled  
+Time: 2026-08-30T17:40Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
+
+---
+**San Diego Padres** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-08-30T17:40Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
+**Chicago White Sox** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-08-30T18:10Z  
+Venue: Target Field  
+Location: Minneapolis, Minnesota  
+
+---
 **Texas Rangers** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-08-29T23:15Z  
+Status: Scheduled  
+Time: 2026-08-30T18:10Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
-**Arizona Diamondbacks** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-08-30T02:05Z  
-Venue: Oracle Park  
-Location: San Francisco, California  
+**Pittsburgh Pirates** vs **St. Louis Cardinals**  
+Status: Scheduled  
+Time: 2026-08-30T18:15Z  
+Venue: Busch Stadium  
+Location: St. Louis, Missouri  
+
+---
+**Houston Astros** vs **New York Mets**  
+Status: Scheduled  
+Time: 2026-08-30T19:10Z  
+Venue: Citi Field  
+Location: Queens, New York  
 
 ---
 **Baltimore Orioles** vs **Athletics**  
-Status: Final  
-Time: 2026-08-30T02:05Z  
+Status: Scheduled  
+Time: 2026-08-30T20:05Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **Philadelphia Phillies** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-08-30T02:07Z  
+Status: Scheduled  
+Time: 2026-08-30T20:07Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
+
+---
+**Cincinnati Reds** vs **Chicago Cubs**  
+Status: Scheduled  
+Time: 2026-08-30T23:20Z  
+Venue: Wrigley Field  
+Location: Chicago, Illinois  
 
 ---
 
@@ -276,7 +255,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | August 30, 2026 at 06:00 AM |
+| Last update | August 30, 2026 at 05:05 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

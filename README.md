@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 81.7 °F |
-| Feels Like | 87.8 °F |
-| Humidity | 64% |
-| Wind | 3.7 mph |
+| Temperature | 90.2 °F |
+| Feels Like | 96.5 °F |
+| Humidity | 50% |
+| Wind | 9.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,91 +28,91 @@
 
 ## ⚾ MLB
 **Miami Marlins** vs **Washington Nationals**  
-Status: In Progress  
+Status: Final  
 Time: 2026-08-30T16:15Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **Boston Red Sox** vs **New York Yankees**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T17:35Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Colorado Rockies** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T17:35Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Seattle Mariners** vs **Toronto Blue Jays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T17:37Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
 **Kansas City Royals** vs **Cleveland Guardians**  
-Status: Rain Delay  
+Status: Final  
 Time: 2026-08-30T17:40Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **Los Angeles Dodgers** vs **Detroit Tigers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T17:40Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **San Diego Padres** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T17:40Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **Chicago White Sox** vs **Minnesota Twins**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T18:10Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
 
 ---
 **Texas Rangers** vs **Milwaukee Brewers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T18:10Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
 **Pittsburgh Pirates** vs **St. Louis Cardinals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-08-30T18:15Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
 **Houston Astros** vs **New York Mets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-30T19:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Baltimore Orioles** vs **Athletics**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-30T20:05Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **Philadelphia Phillies** vs **Los Angeles Angels**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-30T20:07Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
@@ -255,7 +255,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | August 30, 2026 at 05:05 PM |
+| Last update | August 30, 2026 at 09:49 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

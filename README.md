@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 61.6 °F |
-| Feels Like | 59.2 °F |
-| Humidity | 83% |
-| Wind | 10.6 mph |
+| Temperature | 61.5 °F |
+| Feels Like | 59.4 °F |
+| Humidity | 82% |
+| Wind | 9.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,35 +28,35 @@
 
 ## ⚾ MLB
 **San Francisco Giants** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-31T22:05Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **New York Mets** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-31T22:40Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **San Diego Padres** vs **Cincinnati Reds**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-31T22:40Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
 **Miami Marlins** vs **Washington Nationals**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-31T22:45Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **Seattle Mariners** vs **Boston Red Sox**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-08-31T22:45Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
@@ -241,7 +241,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | August 31, 2026 at 07:19 PM |
+| Last update | August 31, 2026 at 11:05 PM |
 | Daily location | San Francisco |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 55.1 °F |
-| Feels Like | 52.1 °F |
-| Humidity | 94% |
-| Wind | 9.8 mph |
+| Temperature | 61.6 °F |
+| Feels Like | 59.2 °F |
+| Humidity | 83% |
+| Wind | 10.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,102 +27,88 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Miami Marlins** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-08-30T16:15Z  
-Venue: Nationals Park  
-Location: Washington, District of Columbia  
-
----
-**Boston Red Sox** vs **New York Yankees**  
-Status: Final  
-Time: 2026-08-30T17:35Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Colorado Rockies** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-08-30T17:35Z  
+**San Francisco Giants** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-08-31T22:05Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
-**Seattle Mariners** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-08-30T17:37Z  
-Venue: Rogers Centre  
-Location: Toronto, Ontario  
-
----
-**Kansas City Royals** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-08-30T17:40Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
-
----
-**Los Angeles Dodgers** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-08-30T17:40Z  
-Venue: Comerica Park  
-Location: Detroit, Michigan  
-
----
-**San Diego Padres** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-08-30T17:40Z  
+**New York Mets** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-08-31T22:40Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
-**Chicago White Sox** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-08-30T18:10Z  
+**San Diego Padres** vs **Cincinnati Reds**  
+Status: Scheduled  
+Time: 2026-08-31T22:40Z  
+Venue: Great American Ball Park  
+Location: Cincinnati, Ohio  
+
+---
+**Miami Marlins** vs **Washington Nationals**  
+Status: Scheduled  
+Time: 2026-08-31T22:45Z  
+Venue: Nationals Park  
+Location: Washington, District of Columbia  
+
+---
+**Seattle Mariners** vs **Boston Red Sox**  
+Status: Scheduled  
+Time: 2026-08-31T22:45Z  
+Venue: Fenway Park  
+Location: Boston, Massachusetts  
+
+---
+**Detroit Tigers** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-08-31T23:40Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
 
 ---
-**Texas Rangers** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-08-30T18:10Z  
-Venue: American Family Field  
-Location: Milwaukee, Wisconsin  
+**Milwaukee Brewers** vs **Chicago Cubs**  
+Status: Scheduled  
+Time: 2026-08-31T23:40Z  
+Venue: Wrigley Field  
+Location: Chicago, Illinois  
 
 ---
-**Pittsburgh Pirates** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-08-30T18:15Z  
-Venue: Busch Stadium  
-Location: St. Louis, Missouri  
+**Athletics** vs **Texas Rangers**  
+Status: Scheduled  
+Time: 2026-09-01T00:05Z  
+Venue: Globe Life Field  
+Location: Arlington, Texas  
 
 ---
-**Houston Astros** vs **New York Mets**  
-Status: Final  
-Time: 2026-08-30T19:10Z  
-Venue: Citi Field  
-Location: Queens, New York  
+**Chicago White Sox** vs **Houston Astros**  
+Status: Scheduled  
+Time: 2026-09-01T00:10Z  
+Venue: Daikin Park  
+Location: Houston, Texas  
 
 ---
-**Baltimore Orioles** vs **Athletics**  
-Status: Final  
-Time: 2026-08-30T20:05Z  
-Venue: Sutter Health Park  
-Location: Sacramento, California  
+**Baltimore Orioles** vs **Colorado Rockies**  
+Status: Scheduled  
+Time: 2026-09-01T00:40Z  
+Venue: Coors Field  
+Location: Denver, Colorado  
 
 ---
-**Philadelphia Phillies** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-08-30T20:07Z  
+**New York Yankees** vs **Los Angeles Angels**  
+Status: Scheduled  
+Time: 2026-09-01T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
-**Cincinnati Reds** vs **Chicago Cubs**  
-Status: Final  
-Time: 2026-08-30T23:20Z  
-Venue: Wrigley Field  
-Location: Chicago, Illinois  
+**Philadelphia Phillies** vs **Arizona Diamondbacks**  
+Status: Scheduled  
+Time: 2026-09-01T01:40Z  
+Venue: Chase Field  
+Location: Phoenix, Arizona  
 
 ---
 
@@ -255,7 +241,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | August 31, 2026 at 06:21 AM |
+| Last update | August 31, 2026 at 07:19 PM |
 | Daily location | San Francisco |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

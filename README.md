@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 65.9 °F |
-| Feels Like | 68.4 °F |
-| Humidity | 95% |
-| Wind | 6.4 mph |
+| Temperature | 65.2 °F |
+| Feels Like | 67.4 °F |
+| Humidity | 87% |
+| Wind | 4.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 01, 2026 at 05:04 PM |
+| Last update | September 01, 2026 at 09:34 PM |
 | Daily location | Boston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

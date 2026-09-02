@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 86.8 °F |
-| Feels Like | 102.1 °F |
-| Humidity | 82% |
-| Wind | 5.2 mph |
+| Temperature | 85.0 °F |
+| Feels Like | 95.9 °F |
+| Humidity | 81% |
+| Wind | 5.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,42 +28,42 @@
 
 ## ⚾ MLB
 **San Diego Padres** vs **Cincinnati Reds**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-02T16:40Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
 **Atlanta Braves** vs **Washington Nationals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T17:05Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **Athletics** vs **Texas Rangers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T18:35Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Baltimore Orioles** vs **Colorado Rockies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-02T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Philadelphia Phillies** vs **Arizona Diamondbacks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-02T19:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
 **Seattle Mariners** vs **Boston Red Sox**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-02T20:10Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 02, 2026 at 04:56 PM |
+| Last update | September 02, 2026 at 09:34 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

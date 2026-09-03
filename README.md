@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Miami, Florida
+### Denver, Colorado
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 85.0 °F |
-| Feels Like | 95.9 °F |
-| Humidity | 81% |
-| Wind | 5.1 mph |
+| Temperature | 69.6 °F |
+| Feels Like | 68.6 °F |
+| Humidity | 51% |
+| Wind | 2.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -49,84 +49,84 @@ Location: Arlington, Texas
 
 ---
 **Baltimore Orioles** vs **Colorado Rockies**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-02T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Philadelphia Phillies** vs **Arizona Diamondbacks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-02T19:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
 **Seattle Mariners** vs **Boston Red Sox**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-02T20:10Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
 
 ---
 **New York Mets** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T22:40Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **San Francisco Giants** vs **Pittsburgh Pirates**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T22:40Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Toronto Blue Jays** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T22:40Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **Detroit Tigers** vs **Minnesota Twins**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T23:40Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
 
 ---
 **Miami Marlins** vs **Kansas City Royals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T23:40Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Milwaukee Brewers** vs **Chicago Cubs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-02T23:40Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
 **Chicago White Sox** vs **Houston Astros**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-03T00:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
 **New York Yankees** vs **Los Angeles Angels**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-03T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **St. Louis Cardinals** vs **Los Angeles Dodgers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-03T02:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
@@ -262,8 +262,8 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 02, 2026 at 09:34 PM |
-| Daily location | Miami |
+| Last update | September 03, 2026 at 05:16 AM |
+| Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

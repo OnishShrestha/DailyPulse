@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 82.8 °F |
-| Feels Like | 81.5 °F |
-| Humidity | 22% |
-| Wind | 2.5 mph |
+| Temperature | 91.6 °F |
+| Feels Like | 85.9 °F |
+| Humidity | 13% |
+| Wind | 9.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,21 +28,21 @@
 
 ## ⚾ MLB
 **San Francisco Giants** vs **Pittsburgh Pirates**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-03T16:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Toronto Blue Jays** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-03T17:10Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **Chicago White Sox** vs **Houston Astros**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-03T18:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
@@ -220,7 +220,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 03, 2026 at 04:47 PM |
+| Last update | September 03, 2026 at 09:33 PM |
 | Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

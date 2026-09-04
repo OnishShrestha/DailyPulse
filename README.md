@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 89.4 °F |
-| Feels Like | 97.9 °F |
-| Humidity | 55% |
-| Wind | 4.5 mph |
+| Temperature | 94.5 °F |
+| Feels Like | 98.2 °F |
+| Humidity | 40% |
+| Wind | 5.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Detroit Tigers** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-04T18:10Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
@@ -269,7 +269,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 04, 2026 at 04:40 PM |
+| Last update | September 04, 2026 at 09:12 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

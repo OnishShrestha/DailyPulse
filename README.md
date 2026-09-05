@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 67.5 °F |
-| Feels Like | 70.0 °F |
-| Humidity | 92% |
-| Wind | 7.1 mph |
+| Temperature | 72.1 °F |
+| Feels Like | 79.2 °F |
+| Humidity | 91% |
+| Wind | 1.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,116 +27,109 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Detroit Tigers** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-04T18:10Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
-
----
-**Milwaukee Brewers** vs **Cincinnati Reds**  
-Status: Final  
-Time: 2026-09-04T22:10Z  
-Venue: Great American Ball Park  
-Location: Cincinnati, Ohio  
-
----
-**Los Angeles Angels** vs **Pittsburgh Pirates**  
-Status: Final  
-Time: 2026-09-04T22:40Z  
-Venue: PNC Park  
-Location: Pittsburgh, Pennsylvania  
-
----
-**Atlanta Braves** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-09-04T22:40Z  
-Venue: Citizens Bank Park  
-Location: Philadelphia, Pennsylvania  
-
----
-**Boston Red Sox** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-04T23:05Z  
-Venue: Oriole Park at Camden Yards  
-Location: Baltimore, Maryland  
-
----
 **Chicago Cubs** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-09-04T23:10Z  
+Status: Scheduled  
+Time: 2026-09-05T20:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **San Francisco Giants** vs **New York Mets**  
-Status: Final  
-Time: 2026-09-04T23:10Z  
+Status: Scheduled  
+Time: 2026-09-05T20:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
-**Minnesota Twins** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-04T23:40Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
+**Atlanta Braves** vs **Philadelphia Phillies**  
+Status: Scheduled  
+Time: 2026-09-05T22:05Z  
+Venue: Citizens Bank Park  
+Location: Philadelphia, Pennsylvania  
 
 ---
 **Detroit Tigers** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-04T23:45Z  
+Status: Scheduled  
+Time: 2026-09-05T22:10Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
+**Los Angeles Angels** vs **Pittsburgh Pirates**  
+Status: Scheduled  
+Time: 2026-09-05T22:40Z  
+Venue: PNC Park  
+Location: Pittsburgh, Pennsylvania  
+
+---
+**Milwaukee Brewers** vs **Cincinnati Reds**  
+Status: Scheduled  
+Time: 2026-09-05T22:40Z  
+Venue: Great American Ball Park  
+Location: Cincinnati, Ohio  
+
+---
+**Boston Red Sox** vs **Baltimore Orioles**  
+Status: Scheduled  
+Time: 2026-09-05T23:05Z  
+Venue: Oriole Park at Camden Yards  
+Location: Baltimore, Maryland  
+
+---
 **Tampa Bay Rays** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-09-05T00:05Z  
+Status: Scheduled  
+Time: 2026-09-05T23:05Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
-**Arizona Diamondbacks** vs **Houston Astros**  
-Status: Final  
-Time: 2026-09-05T00:10Z  
-Venue: Daikin Park  
-Location: Houston, Texas  
+**Minnesota Twins** vs **Chicago White Sox**  
+Status: Scheduled  
+Time: 2026-09-05T23:10Z  
+Venue: Rate Field  
+Location: Chicago, Illinois  
 
 ---
 **Toronto Blue Jays** vs **Kansas City Royals**  
-Status: Final  
-Time: 2026-09-05T00:10Z  
+Status: Scheduled  
+Time: 2026-09-05T23:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
-**St. Louis Cardinals** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-05T00:40Z  
-Venue: Coors Field  
-Location: Denver, Colorado  
+**Arizona Diamondbacks** vs **Houston Astros**  
+Status: Scheduled  
+Time: 2026-09-05T23:15Z  
+Venue: Daikin Park  
+Location: Houston, Texas  
 
 ---
 **New York Yankees** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-05T01:40Z  
+Status: Scheduled  
+Time: 2026-09-05T23:15Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
-**Athletics** vs **Seattle Mariners**  
-Status: In Progress  
-Time: 2026-09-05T02:10Z  
-Venue: T-Mobile Park  
-Location: Seattle, Washington  
+**St. Louis Cardinals** vs **Colorado Rockies**  
+Status: Scheduled  
+Time: 2026-09-06T00:10Z  
+Venue: Coors Field  
+Location: Denver, Colorado  
 
 ---
 **Washington Nationals** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-09-05T02:10Z  
+Status: Scheduled  
+Time: 2026-09-06T01:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
+
+---
+**Athletics** vs **Seattle Mariners**  
+Status: Scheduled  
+Time: 2026-09-06T01:40Z  
+Venue: T-Mobile Park  
+Location: Seattle, Washington  
 
 ---
 
@@ -269,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 05, 2026 at 05:01 AM |
+| Last update | September 05, 2026 at 03:43 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

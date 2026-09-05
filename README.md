@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 72.1 °F |
-| Feels Like | 79.2 °F |
-| Humidity | 91% |
-| Wind | 1.2 mph |
+| Temperature | 85.1 °F |
+| Feels Like | 89.2 °F |
+| Humidity | 51% |
+| Wind | 5.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Chicago Cubs** vs **Miami Marlins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-05T20:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **San Francisco Giants** vs **New York Mets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-05T20:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 05, 2026 at 03:43 PM |
+| Last update | September 05, 2026 at 08:55 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

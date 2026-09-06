@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 70.8 °F |
-| Feels Like | 73.2 °F |
-| Humidity | 76% |
-| Wind | 5.0 mph |
+| Temperature | 71.4 °F |
+| Feels Like | 75.1 °F |
+| Humidity | 77% |
+| Wind | 2.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,91 +28,91 @@
 
 ## ⚾ MLB
 **Milwaukee Brewers** vs **Cincinnati Reds**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T16:10Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
 **Atlanta Braves** vs **Philadelphia Phillies**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T17:10Z  
 Venue: Citizens Bank Park  
 Location: Philadelphia, Pennsylvania  
 
 ---
 **Los Angeles Angels** vs **Pittsburgh Pirates**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T17:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Boston Red Sox** vs **Baltimore Orioles**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T17:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
 **Chicago Cubs** vs **Miami Marlins**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T17:40Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **Detroit Tigers** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T17:40Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **San Francisco Giants** vs **New York Mets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T17:40Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Arizona Diamondbacks** vs **Houston Astros**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-06T18:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
 **Toronto Blue Jays** vs **Kansas City Royals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-06T18:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Tampa Bay Rays** vs **Texas Rangers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-06T18:35Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **St. Louis Cardinals** vs **Colorado Rockies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-06T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Athletics** vs **Seattle Mariners**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-06T20:10Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
 **New York Yankees** vs **San Diego Padres**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-06T20:10Z  
 Venue: Petco Park  
 Location: San Diego, California  
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 06, 2026 at 03:54 PM |
+| Last update | September 06, 2026 at 09:01 PM |
 | Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 60.3 °F |
-| Feels Like | 58.3 °F |
-| Humidity | 70% |
-| Wind | 5.0 mph |
+| Temperature | 60.7 °F |
+| Feels Like | 61.4 °F |
+| Humidity | 83% |
+| Wind | 2.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,109 +27,81 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Milwaukee Brewers** vs **Cincinnati Reds**  
-Status: Final  
-Time: 2026-09-06T16:10Z  
-Venue: Great American Ball Park  
-Location: Cincinnati, Ohio  
-
----
 **Atlanta Braves** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-09-06T17:10Z  
+Status: In Progress  
+Time: 2026-09-07T17:05Z  
 Venue: Citizens Bank Park  
 Location: Philadelphia, Pennsylvania  
 
 ---
-**Los Angeles Angels** vs **Pittsburgh Pirates**  
-Status: Final  
-Time: 2026-09-06T17:35Z  
-Venue: PNC Park  
-Location: Pittsburgh, Pennsylvania  
-
----
-**Boston Red Sox** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-06T17:35Z  
-Venue: Oriole Park at Camden Yards  
-Location: Baltimore, Maryland  
-
----
-**Chicago Cubs** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-09-06T17:40Z  
+**New York Mets** vs **Miami Marlins**  
+Status: In Progress  
+Time: 2026-09-07T17:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
-**Detroit Tigers** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-06T17:40Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
+**Los Angeles Angels** vs **Boston Red Sox**  
+Status: In Progress  
+Time: 2026-09-07T17:35Z  
+Venue: Fenway Park  
+Location: Boston, Massachusetts  
 
 ---
-**San Francisco Giants** vs **New York Mets**  
-Status: Final  
-Time: 2026-09-06T17:40Z  
-Venue: Citi Field  
-Location: Queens, New York  
+**Cleveland Guardians** vs **Baltimore Orioles**  
+Status: In Progress  
+Time: 2026-09-07T17:35Z  
+Venue: Oriole Park at Camden Yards  
+Location: Baltimore, Maryland  
 
 ---
-**Arizona Diamondbacks** vs **Houston Astros**  
-Status: Final  
-Time: 2026-09-06T18:10Z  
-Venue: Daikin Park  
-Location: Houston, Texas  
-
----
-**Toronto Blue Jays** vs **Kansas City Royals**  
-Status: Final  
-Time: 2026-09-06T18:10Z  
+**Arizona Diamondbacks** vs **Kansas City Royals**  
+Status: Scheduled  
+Time: 2026-09-07T18:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
-**Tampa Bay Rays** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-09-06T18:35Z  
-Venue: Globe Life Field  
-Location: Arlington, Texas  
+**Chicago Cubs** vs **Milwaukee Brewers**  
+Status: Scheduled  
+Time: 2026-09-07T18:10Z  
+Venue: American Family Field  
+Location: Milwaukee, Wisconsin  
 
 ---
-**St. Louis Cardinals** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-06T19:10Z  
-Venue: Coors Field  
-Location: Denver, Colorado  
+**Minnesota Twins** vs **Detroit Tigers**  
+Status: Scheduled  
+Time: 2026-09-07T19:10Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
 
 ---
-**Athletics** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-09-06T20:10Z  
-Venue: T-Mobile Park  
-Location: Seattle, Washington  
-
----
-**New York Yankees** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-06T20:10Z  
+**Washington Nationals** vs **San Diego Padres**  
+Status: Scheduled  
+Time: 2026-09-07T21:10Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
-**Minnesota Twins** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-06T22:20Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
+**St. Louis Cardinals** vs **San Francisco Giants**  
+Status: Scheduled  
+Time: 2026-09-08T00:10Z  
+Venue: Oracle Park  
+Location: San Francisco, California  
 
 ---
-**Washington Nationals** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-09-07T02:10Z  
+**Cincinnati Reds** vs **Los Angeles Dodgers**  
+Status: Scheduled  
+Time: 2026-09-08T01:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
+
+---
+**Toronto Blue Jays** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-09-08T02:05Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
 
 ---
 
@@ -262,7 +234,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 07, 2026 at 05:23 AM |
+| Last update | September 07, 2026 at 06:00 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 60.7 °F |
-| Feels Like | 61.4 °F |
-| Humidity | 83% |
-| Wind | 2.6 mph |
+| Temperature | 64.7 °F |
+| Feels Like | 67.2 °F |
+| Humidity | 75% |
+| Wind | 2.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,56 +28,56 @@
 
 ## ⚾ MLB
 **Atlanta Braves** vs **Philadelphia Phillies**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-07T17:05Z  
 Venue: Citizens Bank Park  
 Location: Philadelphia, Pennsylvania  
 
 ---
 **New York Mets** vs **Miami Marlins**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-07T17:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **Los Angeles Angels** vs **Boston Red Sox**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-07T17:35Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
 
 ---
 **Cleveland Guardians** vs **Baltimore Orioles**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-07T17:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
 **Arizona Diamondbacks** vs **Kansas City Royals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-07T18:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Chicago Cubs** vs **Milwaukee Brewers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-07T18:10Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
 **Minnesota Twins** vs **Detroit Tigers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-07T19:10Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **Washington Nationals** vs **San Diego Padres**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-07T21:10Z  
 Venue: Petco Park  
 Location: San Diego, California  
@@ -234,7 +234,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 07, 2026 at 06:00 PM |
+| Last update | September 07, 2026 at 09:54 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

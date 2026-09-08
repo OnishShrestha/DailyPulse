@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 88.9 °F |
-| Feels Like | 86.6 °F |
+| Temperature | 98.3 °F |
+| Feels Like | 101.5 °F |
 | Humidity | 24% |
-| Wind | 5.3 mph |
+| Wind | 2.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 08, 2026 at 04:57 PM |
+| Last update | September 08, 2026 at 09:32 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

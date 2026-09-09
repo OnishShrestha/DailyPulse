@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 85.5 °F |
-| Feels Like | 92.6 °F |
-| Humidity | 53% |
-| Wind | 5.6 mph |
+| Temperature | 89.8 °F |
+| Feels Like | 92.5 °F |
+| Humidity | 40% |
+| Wind | 3.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,35 +28,35 @@
 
 ## ⚾ MLB
 **Minnesota Twins** vs **Detroit Tigers**  
-Status: Delayed  
+Status: In Progress  
 Time: 2026-09-09T17:10Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **Toronto Blue Jays** vs **Athletics**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-09T19:05Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **St. Louis Cardinals** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-09T19:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
 
 ---
 **Texas Rangers** vs **Seattle Mariners**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-09T20:10Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
 **Washington Nationals** vs **San Diego Padres**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-09T20:10Z  
 Venue: Petco Park  
 Location: San Diego, California  
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 09, 2026 at 04:57 PM |
+| Last update | September 09, 2026 at 09:29 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

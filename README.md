@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 73.8 °F |
-| Feels Like | 76.2 °F |
-| Humidity | 77% |
-| Wind | 8.6 mph |
+| Temperature | 85.5 °F |
+| Feels Like | 92.6 °F |
+| Humidity | 53% |
+| Wind | 5.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,107 +27,107 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
+**Minnesota Twins** vs **Detroit Tigers**  
+Status: Delayed  
+Time: 2026-09-09T17:10Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
+
+---
+**Toronto Blue Jays** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-09-09T19:05Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
+
+---
+**St. Louis Cardinals** vs **San Francisco Giants**  
+Status: Scheduled  
+Time: 2026-09-09T19:45Z  
+Venue: Oracle Park  
+Location: San Francisco, California  
+
+---
+**Texas Rangers** vs **Seattle Mariners**  
+Status: Scheduled  
+Time: 2026-09-09T20:10Z  
+Venue: T-Mobile Park  
+Location: Seattle, Washington  
+
+---
+**Washington Nationals** vs **San Diego Padres**  
+Status: Scheduled  
+Time: 2026-09-09T20:10Z  
+Venue: Petco Park  
+Location: San Diego, California  
+
+---
 **Cleveland Guardians** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-08T22:35Z  
+Status: Scheduled  
+Time: 2026-09-09T22:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
 **Houston Astros** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-09-08T22:40Z  
+Status: Scheduled  
+Time: 2026-09-09T22:40Z  
 Venue: Citizens Bank Park  
 Location: Philadelphia, Pennsylvania  
 
 ---
-**Minnesota Twins** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-09-08T22:40Z  
-Venue: Comerica Park  
-Location: Detroit, Michigan  
-
----
 **New York Mets** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-09-08T22:40Z  
+Status: Scheduled  
+Time: 2026-09-09T22:40Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **Los Angeles Angels** vs **Boston Red Sox**  
-Status: Final  
-Time: 2026-09-08T22:45Z  
+Status: Scheduled  
+Time: 2026-09-09T22:45Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
 
 ---
 **Colorado Rockies** vs **New York Yankees**  
-Status: Final  
-Time: 2026-09-08T23:05Z  
+Status: Scheduled  
+Time: 2026-09-09T23:05Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Tampa Bay Rays** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-09-08T23:15Z  
+Status: Scheduled  
+Time: 2026-09-09T23:15Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Arizona Diamondbacks** vs **Kansas City Royals**  
-Status: Final  
-Time: 2026-09-08T23:40Z  
+Status: Scheduled  
+Time: 2026-09-09T23:40Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Chicago Cubs** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-09-08T23:40Z  
+Status: Scheduled  
+Time: 2026-09-09T23:40Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
 **Pittsburgh Pirates** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-08T23:40Z  
+Status: Scheduled  
+Time: 2026-09-09T23:40Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
-**Texas Rangers** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-09-09T01:40Z  
-Venue: T-Mobile Park  
-Location: Seattle, Washington  
-
----
-**Toronto Blue Jays** vs **Athletics**  
-Status: Final  
-Time: 2026-09-09T01:40Z  
-Venue: Sutter Health Park  
-Location: Sacramento, California  
-
----
-**Washington Nationals** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-09T01:40Z  
-Venue: Petco Park  
-Location: San Diego, California  
-
----
-**St. Louis Cardinals** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-09-09T01:45Z  
-Venue: Oracle Park  
-Location: San Francisco, California  
-
----
 **Cincinnati Reds** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-09-09T02:10Z  
+Status: Scheduled  
+Time: 2026-09-10T02:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
 
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 09, 2026 at 05:28 AM |
+| Last update | September 09, 2026 at 04:57 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

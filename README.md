@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 86.2 °F |
-| Feels Like | 90.0 °F |
-| Humidity | 52% |
-| Wind | 11.2 mph |
+| Temperature | 87.2 °F |
+| Feels Like | 87.2 °F |
+| Humidity | 43% |
+| Wind | 10.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,21 +28,21 @@
 
 ## ⚾ MLB
 **Tampa Bay Rays** vs **Atlanta Braves**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-10T16:15Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Houston Astros** vs **Philadelphia Phillies**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-10T17:05Z  
 Venue: Citizens Bank Park  
 Location: Philadelphia, Pennsylvania  
 
 ---
 **Texas Rangers** vs **Seattle Mariners**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-10T20:10Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
@@ -192,7 +192,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 10, 2026 at 04:47 PM |
+| Last update | September 10, 2026 at 09:22 PM |
 | Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

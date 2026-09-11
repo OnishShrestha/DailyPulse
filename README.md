@@ -16,50 +16,120 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 76.1 °F |
-| Feels Like | 83.2 °F |
-| Humidity | 88% |
-| Wind | 5.0 mph |
-| Precipitation | 0.0 in |
+| Temperature | 85.8 °F |
+| Feels Like | 89.2 °F |
+| Humidity | 57% |
+| Wind | 9.3 mph |
+| Precipitation | 0.012 in |
 
 ---
 
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Tampa Bay Rays** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-09-10T16:15Z  
-Venue: Truist Park  
-Location: Atlanta, Georgia  
+**Pittsburgh Pirates** vs **Chicago Cubs**  
+Status: Scheduled  
+Time: 2026-09-11T18:20Z  
+Venue: Wrigley Field  
+Location: Chicago, Illinois  
 
 ---
-**Houston Astros** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-09-10T17:05Z  
-Venue: Citizens Bank Park  
-Location: Philadelphia, Pennsylvania  
+**Colorado Rockies** vs **Detroit Tigers**  
+Status: Scheduled  
+Time: 2026-09-11T22:40Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
 
 ---
-**Texas Rangers** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-09-10T20:10Z  
-Venue: T-Mobile Park  
-Location: Seattle, Washington  
+**Los Angeles Angels** vs **Washington Nationals**  
+Status: Scheduled  
+Time: 2026-09-11T22:45Z  
+Venue: Nationals Park  
+Location: Washington, District of Columbia  
 
 ---
-**Colorado Rockies** vs **New York Yankees**  
-Status: Final  
-Time: 2026-09-10T23:05Z  
+**New York Mets** vs **New York Yankees**  
+Status: Scheduled  
+Time: 2026-09-11T23:05Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
-**Pittsburgh Pirates** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-10T23:40Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
+**Baltimore Orioles** vs **Toronto Blue Jays**  
+Status: Scheduled  
+Time: 2026-09-11T23:07Z  
+Venue: Rogers Centre  
+Location: Toronto, Ontario  
+
+---
+**Houston Astros** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-09-11T23:10Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
+**Kansas City Royals** vs **Boston Red Sox**  
+Status: Scheduled  
+Time: 2026-09-11T23:10Z  
+Venue: Fenway Park  
+Location: Boston, Massachusetts  
+
+---
+**Los Angeles Dodgers** vs **Miami Marlins**  
+Status: Scheduled  
+Time: 2026-09-11T23:10Z  
+Venue: loanDepot park  
+Location: Miami, Florida  
+
+---
+**Philadelphia Phillies** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-09-11T23:15Z  
+Venue: Truist Park  
+Location: Atlanta, Georgia  
+
+---
+**Cincinnati Reds** vs **Milwaukee Brewers**  
+Status: Scheduled  
+Time: 2026-09-11T23:40Z  
+Venue: American Family Field  
+Location: Milwaukee, Wisconsin  
+
+---
+**Cleveland Guardians** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-09-12T00:10Z  
+Venue: Target Field  
+Location: Minneapolis, Minnesota  
+
+---
+**Chicago White Sox** vs **St. Louis Cardinals**  
+Status: Scheduled  
+Time: 2026-09-12T00:15Z  
+Venue: Busch Stadium  
+Location: St. Louis, Missouri  
+
+---
+**Seattle Mariners** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-09-12T01:40Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
+
+---
+**Texas Rangers** vs **Arizona Diamondbacks**  
+Status: Scheduled  
+Time: 2026-09-12T01:40Z  
+Venue: Chase Field  
+Location: Phoenix, Arizona  
+
+---
+**San Diego Padres** vs **San Francisco Giants**  
+Status: Scheduled  
+Time: 2026-09-12T02:15Z  
+Venue: Oracle Park  
+Location: San Francisco, California  
 
 ---
 
@@ -192,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 11, 2026 at 05:22 AM |
+| Last update | September 11, 2026 at 04:50 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,11 +16,11 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 85.8 °F |
-| Feels Like | 89.2 °F |
-| Humidity | 57% |
-| Wind | 9.3 mph |
-| Precipitation | 0.012 in |
+| Temperature | 87.4 °F |
+| Feels Like | 92.0 °F |
+| Humidity | 55% |
+| Wind | 7.3 mph |
+| Precipitation | 0.0 in |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Pittsburgh Pirates** vs **Chicago Cubs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-11T18:20Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 11, 2026 at 04:50 PM |
+| Last update | September 11, 2026 at 09:32 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

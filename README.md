@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 92.9 °F |
-| Feels Like | 83.3 °F |
-| Humidity | 13% |
-| Wind | 14.9 mph |
+| Temperature | 102.4 °F |
+| Feels Like | 93.7 °F |
+| Humidity | 12% |
+| Wind | 20.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,63 +28,63 @@
 
 ## ⚾ MLB
 **Colorado Rockies** vs **Detroit Tigers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-12T17:10Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **New York Mets** vs **New York Yankees**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-12T17:35Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Pittsburgh Pirates** vs **Chicago Cubs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-12T18:20Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
 **Baltimore Orioles** vs **Toronto Blue Jays**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-12T19:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
 **Los Angeles Angels** vs **Washington Nationals**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-12T20:05Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **San Diego Padres** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-12T20:05Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
 
 ---
 **Kansas City Royals** vs **Boston Red Sox**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-12T20:10Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
 
 ---
 **Los Angeles Dodgers** vs **Miami Marlins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-12T20:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **Cleveland Guardians** vs **Minnesota Twins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-12T20:10Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 12, 2026 at 03:56 PM |
+| Last update | September 12, 2026 at 09:11 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

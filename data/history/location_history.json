@@ -166,5 +166,13 @@
         "latitude": 33.749,
         "longitude": -84.388,
         "timezone": "America/New_York"
+    },
+    "2026-09-12": {
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "country": "USA",
+        "latitude": 36.1699,
+        "longitude": -115.1398,
+        "timezone": "America/Los_Angeles"
     }
 }

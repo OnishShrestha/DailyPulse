@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 77.0 °F |
-| Feels Like | 86.6 °F |
-| Humidity | 89% |
-| Wind | 0.6 mph |
+| Temperature | 85.6 °F |
+| Feels Like | 98.7 °F |
+| Humidity | 77% |
+| Wind | 7.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,109 +27,74 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Colorado Rockies** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-09-13T16:10Z  
-Venue: Comerica Park  
-Location: Detroit, Michigan  
+**Chicago White Sox** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-09-14T22:40Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
 
 ---
-**Los Angeles Angels** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-09-13T17:35Z  
-Venue: Nationals Park  
-Location: Washington, District of Columbia  
+**Los Angeles Dodgers** vs **Cincinnati Reds**  
+Status: Scheduled  
+Time: 2026-09-14T22:40Z  
+Venue: Great American Ball Park  
+Location: Cincinnati, Ohio  
 
 ---
-**New York Mets** vs **New York Yankees**  
-Status: Final  
-Time: 2026-09-13T17:35Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Philadelphia Phillies** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-09-13T17:35Z  
-Venue: Truist Park  
-Location: Atlanta, Georgia  
-
----
-**Baltimore Orioles** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-09-13T17:37Z  
+**Detroit Tigers** vs **Toronto Blue Jays**  
+Status: Scheduled  
+Time: 2026-09-14T23:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
-**Houston Astros** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-09-13T17:40Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
+**Baltimore Orioles** vs **New York Mets**  
+Status: Scheduled  
+Time: 2026-09-14T23:10Z  
+Venue: Citi Field  
+Location: Queens, New York  
 
 ---
-**Los Angeles Dodgers** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-09-13T17:40Z  
-Venue: loanDepot park  
-Location: Miami, Florida  
-
----
-**Cincinnati Reds** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-09-13T18:10Z  
-Venue: American Family Field  
-Location: Milwaukee, Wisconsin  
-
----
-**Cleveland Guardians** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-09-13T18:10Z  
-Venue: Target Field  
-Location: Minneapolis, Minnesota  
-
----
-**Chicago White Sox** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-09-13T18:15Z  
-Venue: Busch Stadium  
-Location: St. Louis, Missouri  
-
----
-**Pittsburgh Pirates** vs **Chicago Cubs**  
-Status: Final  
-Time: 2026-09-13T18:20Z  
+**Atlanta Braves** vs **Chicago Cubs**  
+Status: Scheduled  
+Time: 2026-09-14T23:40Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
-**Kansas City Royals** vs **Boston Red Sox**  
-Status: Final  
-Time: 2026-09-13T19:05Z  
-Venue: Fenway Park  
-Location: Boston, Massachusetts  
+**New York Yankees** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-09-14T23:40Z  
+Venue: Target Field  
+Location: Minneapolis, Minnesota  
 
 ---
-**Seattle Mariners** vs **Athletics**  
-Status: Final  
-Time: 2026-09-13T20:05Z  
-Venue: Sutter Health Park  
-Location: Sacramento, California  
+**San Francisco Giants** vs **St. Louis Cardinals**  
+Status: Scheduled  
+Time: 2026-09-14T23:45Z  
+Venue: Busch Stadium  
+Location: St. Louis, Missouri  
 
 ---
-**Texas Rangers** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-09-13T20:10Z  
+**San Diego Padres** vs **Colorado Rockies**  
+Status: Scheduled  
+Time: 2026-09-15T00:40Z  
+Venue: Coors Field  
+Location: Denver, Colorado  
+
+---
+**Seattle Mariners** vs **Los Angeles Angels**  
+Status: Scheduled  
+Time: 2026-09-15T01:38Z  
+Venue: Angel Stadium  
+Location: Anaheim, California  
+
+---
+**Miami Marlins** vs **Arizona Diamondbacks**  
+Status: Scheduled  
+Time: 2026-09-15T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
-
----
-**San Diego Padres** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-09-13T23:20Z  
-Venue: Oracle Park  
-Location: San Francisco, California  
 
 ---
 
@@ -262,7 +227,7 @@ Location: East Rutherford, NJ
 
 | Item | Value |
 |---|---|
-| Last update | September 14, 2026 at 05:32 AM |
+| Last update | September 14, 2026 at 06:17 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

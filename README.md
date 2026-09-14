@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 85.6 °F |
-| Feels Like | 98.7 °F |
+| Temperature | 84.3 °F |
+| Feels Like | 94.1 °F |
 | Humidity | 77% |
-| Wind | 7.2 mph |
+| Wind | 4.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -227,7 +227,7 @@ Location: East Rutherford, NJ
 
 | Item | Value |
 |---|---|
-| Last update | September 14, 2026 at 06:17 PM |
+| Last update | September 14, 2026 at 10:15 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

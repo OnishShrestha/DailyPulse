@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Atlanta, Georgia
+### Miami, Florida
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 88.6 °F |
-| Feels Like | 89.0 °F |
-| Humidity | 41% |
-| Wind | 8.9 mph |
+| Temperature | 77.0 °F |
+| Feels Like | 86.6 °F |
+| Humidity | 89% |
+| Wind | 0.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -105,28 +105,28 @@ Location: Chicago, Illinois
 
 ---
 **Kansas City Royals** vs **Boston Red Sox**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-13T19:05Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
 
 ---
 **Seattle Mariners** vs **Athletics**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-13T20:05Z  
 Venue: Sutter Health Park  
 Location: Sacramento, California  
 
 ---
 **Texas Rangers** vs **Arizona Diamondbacks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-13T20:10Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
 **San Diego Padres** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-13T23:20Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -143,32 +143,25 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**Miami Dolphins** vs **Las Vegas Raiders**  
-Status: In Progress  
-Time: 2026-09-13T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
+**Denver Broncos** vs **Kansas City Chiefs**  
+Status: Scheduled  
+Time: 2026-09-15T00:15Z  
+Venue: Arrowhead Stadium  
+Location: Kansas City, MO  
 
 ---
-**Green Bay Packers** vs **Minnesota Vikings**  
-Status: In Progress  
-Time: 2026-09-13T20:25Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
+**New England Patriots** vs **Seattle Seahawks**  
+Status: Final  
+Time: 2026-09-10T00:20Z  
+Venue: Lumen Field  
+Location: Seattle, WA  
 
 ---
-**Washington Commanders** vs **Philadelphia Eagles**  
-Status: In Progress  
-Time: 2026-09-13T20:25Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
-
----
-**Arizona Cardinals** vs **Los Angeles Chargers**  
-Status: In Progress  
-Time: 2026-09-13T20:25Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
+**San Francisco 49ers** vs **Los Angeles Rams**  
+Status: Final  
+Time: 2026-09-11T00:35Z  
+Venue: Melbourne Cricket Ground  
+Location: Melbourne, VIC  
 
 ---
 **Tampa Bay Buccaneers** vs **Cincinnati Bengals**  
@@ -227,32 +220,39 @@ Venue: Reliant Stadium
 Location: Houston, TX  
 
 ---
+**Miami Dolphins** vs **Las Vegas Raiders**  
+Status: Final  
+Time: 2026-09-13T20:25Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
+**Green Bay Packers** vs **Minnesota Vikings**  
+Status: Final  
+Time: 2026-09-13T20:25Z  
+Venue: U.S. Bank Stadium  
+Location: Minneapolis, MN  
+
+---
+**Washington Commanders** vs **Philadelphia Eagles**  
+Status: Final  
+Time: 2026-09-13T20:25Z  
+Venue: Lincoln Financial Field  
+Location: Philadelphia, PA  
+
+---
+**Arizona Cardinals** vs **Los Angeles Chargers**  
+Status: Final  
+Time: 2026-09-13T20:25Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
 **Dallas Cowboys** vs **New York Giants**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-14T00:20Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
-
----
-**New England Patriots** vs **Seattle Seahawks**  
-Status: Final  
-Time: 2026-09-10T00:20Z  
-Venue: Lumen Field  
-Location: Seattle, WA  
-
----
-**San Francisco 49ers** vs **Los Angeles Rams**  
-Status: Final  
-Time: 2026-09-11T00:35Z  
-Venue: Melbourne Cricket Ground  
-Location: Melbourne, VIC  
-
----
-**Denver Broncos** vs **Kansas City Chiefs**  
-Status: Scheduled  
-Time: 2026-09-15T00:15Z  
-Venue: Arrowhead Stadium  
-Location: Kansas City, MO  
 
 ---
 
@@ -262,8 +262,8 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 13, 2026 at 09:14 PM |
-| Daily location | Atlanta |
+| Last update | September 14, 2026 at 05:32 AM |
+| Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

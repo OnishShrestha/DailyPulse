@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 72.6 °F |
-| Feels Like | 74.9 °F |
-| Humidity | 54% |
-| Wind | 5.0 mph |
+| Temperature | 75.1 °F |
+| Feels Like | 73.2 °F |
+| Humidity | 43% |
+| Wind | 5.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -262,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 15, 2026 at 05:24 PM |
+| Last update | September 15, 2026 at 09:54 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

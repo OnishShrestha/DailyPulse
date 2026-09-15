@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 58.1 °F |
-| Feels Like | 55.3 °F |
-| Humidity | 71% |
-| Wind | 6.0 mph |
+| Temperature | 72.6 °F |
+| Feels Like | 74.9 °F |
+| Humidity | 54% |
+| Wind | 5.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,72 +27,107 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
+**Athletics** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-09-15T22:40Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
 **Chicago White Sox** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-14T22:40Z  
+Status: Scheduled  
+Time: 2026-09-15T22:40Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **Los Angeles Dodgers** vs **Cincinnati Reds**  
-Status: Final  
-Time: 2026-09-14T22:40Z  
+Status: Scheduled  
+Time: 2026-09-15T22:40Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
+**Milwaukee Brewers** vs **Pittsburgh Pirates**  
+Status: Scheduled  
+Time: 2026-09-15T22:40Z  
+Venue: PNC Park  
+Location: Pittsburgh, Pennsylvania  
+
+---
+**Philadelphia Phillies** vs **Washington Nationals**  
+Status: Scheduled  
+Time: 2026-09-15T22:45Z  
+Venue: Nationals Park  
+Location: Washington, District of Columbia  
+
+---
 **Detroit Tigers** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-09-14T23:07Z  
+Status: Scheduled  
+Time: 2026-09-15T23:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
 **Baltimore Orioles** vs **New York Mets**  
-Status: Final  
-Time: 2026-09-14T23:10Z  
+Status: Scheduled  
+Time: 2026-09-15T23:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Atlanta Braves** vs **Chicago Cubs**  
-Status: Final  
-Time: 2026-09-14T23:40Z  
+Status: Scheduled  
+Time: 2026-09-15T23:40Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
 **New York Yankees** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-09-14T23:40Z  
+Status: Scheduled  
+Time: 2026-09-15T23:40Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
 
 ---
 **San Francisco Giants** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-09-14T23:45Z  
+Status: Scheduled  
+Time: 2026-09-15T23:45Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
+**Boston Red Sox** vs **Texas Rangers**  
+Status: Scheduled  
+Time: 2026-09-16T00:05Z  
+Venue: Globe Life Field  
+Location: Arlington, Texas  
+
+---
+**Kansas City Royals** vs **Houston Astros**  
+Status: Scheduled  
+Time: 2026-09-16T00:10Z  
+Venue: Daikin Park  
+Location: Houston, Texas  
+
+---
 **San Diego Padres** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-15T00:40Z  
+Status: Scheduled  
+Time: 2026-09-16T00:40Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Seattle Mariners** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-09-15T01:38Z  
+Status: Scheduled  
+Time: 2026-09-16T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Miami Marlins** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-09-15T01:40Z  
+Status: Scheduled  
+Time: 2026-09-16T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
@@ -227,7 +262,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 15, 2026 at 05:32 AM |
+| Last update | September 15, 2026 at 05:24 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

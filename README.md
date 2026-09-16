@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 94.9 °F |
-| Feels Like | 101.8 °F |
-| Humidity | 44% |
-| Wind | 8.2 mph |
+| Temperature | 99.2 °F |
+| Feels Like | 102.2 °F |
+| Humidity | 34% |
+| Wind | 6.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,28 +28,28 @@
 
 ## ⚾ MLB
 **Chicago White Sox** vs **Cleveland Guardians**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-16T17:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **San Francisco Giants** vs **St. Louis Cardinals**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-16T17:15Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
 **New York Yankees** vs **Minnesota Twins**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T17:40Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
 
 ---
 **Detroit Tigers** vs **Toronto Blue Jays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T19:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
@@ -262,7 +262,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 16, 2026 at 05:23 PM |
+| Last update | September 16, 2026 at 09:51 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

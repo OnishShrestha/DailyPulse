@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 88.7 °F |
-| Feels Like | 93.1 °F |
-| Humidity | 53% |
-| Wind | 7.6 mph |
+| Temperature | 94.9 °F |
+| Feels Like | 101.8 °F |
+| Humidity | 44% |
+| Wind | 8.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,107 +27,107 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Athletics** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-09-15T22:40Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
-
----
 **Chicago White Sox** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-15T22:40Z  
+Status: In Progress  
+Time: 2026-09-16T17:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
+**San Francisco Giants** vs **St. Louis Cardinals**  
+Status: In Progress  
+Time: 2026-09-16T17:15Z  
+Venue: Busch Stadium  
+Location: St. Louis, Missouri  
+
+---
+**New York Yankees** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-09-16T17:40Z  
+Venue: Target Field  
+Location: Minneapolis, Minnesota  
+
+---
+**Detroit Tigers** vs **Toronto Blue Jays**  
+Status: Scheduled  
+Time: 2026-09-16T19:07Z  
+Venue: Rogers Centre  
+Location: Toronto, Ontario  
+
+---
+**Athletics** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-09-16T22:40Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
 **Los Angeles Dodgers** vs **Cincinnati Reds**  
-Status: Final  
-Time: 2026-09-15T22:40Z  
+Status: Scheduled  
+Time: 2026-09-16T22:40Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
 **Milwaukee Brewers** vs **Pittsburgh Pirates**  
-Status: Final  
-Time: 2026-09-15T22:40Z  
+Status: Scheduled  
+Time: 2026-09-16T22:40Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Philadelphia Phillies** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-09-15T22:45Z  
+Status: Scheduled  
+Time: 2026-09-16T22:45Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
-**Detroit Tigers** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-09-15T23:07Z  
-Venue: Rogers Centre  
-Location: Toronto, Ontario  
-
----
 **Baltimore Orioles** vs **New York Mets**  
-Status: Final  
-Time: 2026-09-15T23:10Z  
+Status: Scheduled  
+Time: 2026-09-16T23:00Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Atlanta Braves** vs **Chicago Cubs**  
-Status: Final  
-Time: 2026-09-15T23:40Z  
+Status: Scheduled  
+Time: 2026-09-16T23:40Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
-**New York Yankees** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-09-15T23:40Z  
-Venue: Target Field  
-Location: Minneapolis, Minnesota  
-
----
-**San Francisco Giants** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-09-15T23:45Z  
-Venue: Busch Stadium  
-Location: St. Louis, Missouri  
-
----
 **Boston Red Sox** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-09-16T00:05Z  
+Status: Scheduled  
+Time: 2026-09-17T00:05Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Kansas City Royals** vs **Houston Astros**  
-Status: Final  
-Time: 2026-09-16T00:10Z  
+Status: Scheduled  
+Time: 2026-09-17T00:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
 **San Diego Padres** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-16T00:40Z  
+Status: Scheduled  
+Time: 2026-09-17T00:40Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Seattle Mariners** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-09-16T01:38Z  
+Status: Scheduled  
+Time: 2026-09-17T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Miami Marlins** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-09-16T01:40Z  
+Status: Scheduled  
+Time: 2026-09-17T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
@@ -262,7 +262,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 16, 2026 at 05:25 AM |
+| Last update | September 16, 2026 at 05:23 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

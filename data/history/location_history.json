@@ -206,5 +206,13 @@
         "latitude": 32.7767,
         "longitude": -96.797,
         "timezone": "America/Chicago"
+    },
+    "2026-09-17": {
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "USA",
+        "latitude": 33.749,
+        "longitude": -84.388,
+        "timezone": "America/New_York"
     }
 }

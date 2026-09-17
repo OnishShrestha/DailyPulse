@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Dallas, Texas
+### Atlanta, Georgia
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 99.2 °F |
-| Feels Like | 102.2 °F |
-| Humidity | 34% |
-| Wind | 6.9 mph |
+| Temperature | 72.4 °F |
+| Feels Like | 76.1 °F |
+| Humidity | 77% |
+| Wind | 4.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -56,77 +56,77 @@ Location: Toronto, Ontario
 
 ---
 **Athletics** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T22:40Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **Los Angeles Dodgers** vs **Cincinnati Reds**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T22:40Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
 **Milwaukee Brewers** vs **Pittsburgh Pirates**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T22:40Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Philadelphia Phillies** vs **Washington Nationals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T22:45Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **Baltimore Orioles** vs **New York Mets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T23:00Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Atlanta Braves** vs **Chicago Cubs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-16T23:40Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
 **Boston Red Sox** vs **Texas Rangers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T00:05Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Kansas City Royals** vs **Houston Astros**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T00:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
 **San Diego Padres** vs **Colorado Rockies**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T00:40Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Seattle Mariners** vs **Los Angeles Angels**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Miami Marlins** vs **Arizona Diamondbacks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T01:40Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
@@ -262,8 +262,8 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 16, 2026 at 09:51 PM |
-| Daily location | Dallas |
+| Last update | September 17, 2026 at 05:33 AM |
+| Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 72.4 °F |
-| Feels Like | 76.1 °F |
-| Humidity | 77% |
-| Wind | 4.0 mph |
+| Temperature | 86.8 °F |
+| Feels Like | 92.3 °F |
+| Humidity | 44% |
+| Wind | 5.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,109 +27,67 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Chicago White Sox** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-16T17:00Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
-
----
-**San Francisco Giants** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-09-16T17:15Z  
-Venue: Busch Stadium  
-Location: St. Louis, Missouri  
-
----
-**New York Yankees** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-09-16T17:40Z  
-Venue: Target Field  
-Location: Minneapolis, Minnesota  
-
----
-**Detroit Tigers** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-09-16T19:07Z  
-Venue: Rogers Centre  
-Location: Toronto, Ontario  
-
----
-**Athletics** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-09-16T22:40Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
-
----
-**Los Angeles Dodgers** vs **Cincinnati Reds**  
-Status: Final  
-Time: 2026-09-16T22:40Z  
-Venue: Great American Ball Park  
-Location: Cincinnati, Ohio  
-
----
 **Milwaukee Brewers** vs **Pittsburgh Pirates**  
-Status: Final  
-Time: 2026-09-16T22:40Z  
+Status: In Progress  
+Time: 2026-09-17T16:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
-**Philadelphia Phillies** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-09-16T22:45Z  
-Venue: Nationals Park  
-Location: Washington, District of Columbia  
+**Los Angeles Dodgers** vs **Cincinnati Reds**  
+Status: In Progress  
+Time: 2026-09-17T16:40Z  
+Venue: Great American Ball Park  
+Location: Cincinnati, Ohio  
 
 ---
-**Baltimore Orioles** vs **New York Mets**  
-Status: Final  
-Time: 2026-09-16T23:00Z  
-Venue: Citi Field  
-Location: Queens, New York  
-
----
-**Atlanta Braves** vs **Chicago Cubs**  
-Status: Final  
-Time: 2026-09-16T23:40Z  
-Venue: Wrigley Field  
-Location: Chicago, Illinois  
-
----
-**Boston Red Sox** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-09-17T00:05Z  
-Venue: Globe Life Field  
-Location: Arlington, Texas  
-
----
-**Kansas City Royals** vs **Houston Astros**  
-Status: Final  
-Time: 2026-09-17T00:10Z  
-Venue: Daikin Park  
-Location: Houston, Texas  
+**Athletics** vs **Tampa Bay Rays**  
+Status: In Progress  
+Time: 2026-09-17T17:10Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
 
 ---
 **San Diego Padres** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-17T00:40Z  
+Status: Scheduled  
+Time: 2026-09-17T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
-**Seattle Mariners** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-09-17T01:38Z  
-Venue: Angel Stadium  
-Location: Anaheim, California  
+**Philadelphia Phillies** vs **New York Mets**  
+Status: Scheduled  
+Time: 2026-09-17T23:15Z  
+Venue: Citi Field  
+Location: Queens, New York  
 
 ---
-**Miami Marlins** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-09-17T01:40Z  
-Venue: Chase Field  
-Location: Phoenix, Arizona  
+**Kansas City Royals** vs **Houston Astros**  
+Status: Scheduled  
+Time: 2026-09-17T23:15Z  
+Venue: Daikin Park  
+Location: Houston, Texas  
+
+---
+**Detroit Tigers** vs **Chicago White Sox**  
+Status: Scheduled  
+Time: 2026-09-17T23:40Z  
+Venue: Rate Field  
+Location: Chicago, Illinois  
+
+---
+**Boston Red Sox** vs **Texas Rangers**  
+Status: Scheduled  
+Time: 2026-09-18T00:05Z  
+Venue: Globe Life Field  
+Location: Arlington, Texas  
+
+---
+**Minnesota Twins** vs **Los Angeles Angels**  
+Status: Scheduled  
+Time: 2026-09-18T01:38Z  
+Venue: Angel Stadium  
+Location: Anaheim, California  
 
 ---
 
@@ -262,7 +220,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 17, 2026 at 05:33 AM |
+| Last update | September 17, 2026 at 05:23 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

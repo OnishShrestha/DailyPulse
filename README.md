@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 86.8 °F |
-| Feels Like | 92.3 °F |
-| Humidity | 44% |
-| Wind | 5.2 mph |
+| Temperature | 90.3 °F |
+| Feels Like | 92.7 °F |
+| Humidity | 41% |
+| Wind | 5.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,28 +28,28 @@
 
 ## ⚾ MLB
 **Milwaukee Brewers** vs **Pittsburgh Pirates**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-17T16:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Los Angeles Dodgers** vs **Cincinnati Reds**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-17T16:40Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
 **Athletics** vs **Tampa Bay Rays**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-17T17:10Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **San Diego Padres** vs **Colorado Rockies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-17T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
@@ -220,7 +220,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 17, 2026 at 05:23 PM |
+| Last update | September 17, 2026 at 09:54 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

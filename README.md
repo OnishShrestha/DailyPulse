@@ -16,11 +16,11 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 67.7 °F |
-| Feels Like | 64.7 °F |
-| Humidity | 67% |
-| Wind | 12.4 mph |
-| Precipitation | 0.0 in |
+| Temperature | 66.4 °F |
+| Feels Like | 64.9 °F |
+| Humidity | 73% |
+| Wind | 9.2 mph |
+| Precipitation | 0.012 in |
 
 ---
 
@@ -262,7 +262,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 18, 2026 at 04:51 PM |
+| Last update | September 18, 2026 at 09:24 PM |
 | Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -214,5 +214,13 @@
         "latitude": 33.749,
         "longitude": -84.388,
         "timezone": "America/New_York"
+    },
+    "2026-09-18": {
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "USA",
+        "latitude": 41.8781,
+        "longitude": -87.6298,
+        "timezone": "America/Chicago"
     }
 }

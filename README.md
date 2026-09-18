@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Atlanta, Georgia
+### Chicago, Illinois
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 90.3 °F |
-| Feels Like | 92.7 °F |
-| Humidity | 41% |
-| Wind | 5.8 mph |
+| Temperature | 66.0 °F |
+| Feels Like | 66.3 °F |
+| Humidity | 91% |
+| Wind | 10.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -49,42 +49,42 @@ Location: St. Petersburg, Florida
 
 ---
 **San Diego Padres** vs **Colorado Rockies**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-17T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Philadelphia Phillies** vs **New York Mets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T23:15Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Kansas City Royals** vs **Houston Astros**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T23:15Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
 **Detroit Tigers** vs **Chicago White Sox**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-17T23:40Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **Boston Red Sox** vs **Texas Rangers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-18T00:05Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Minnesota Twins** vs **Los Angeles Angels**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-18T01:38Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
@@ -102,7 +102,7 @@ Location: Quebec City, PQ
 
 ## 🏈 NFL
 **Detroit Lions** vs **Buffalo Bills**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-18T00:15Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
@@ -220,8 +220,8 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 17, 2026 at 09:54 PM |
-| Daily location | Atlanta |
+| Last update | September 18, 2026 at 05:21 AM |
+| Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

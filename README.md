@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 84.2 °F |
-| Feels Like | 85.1 °F |
-| Humidity | 47% |
-| Wind | 7.5 mph |
+| Temperature | 88.4 °F |
+| Feels Like | 95.5 °F |
+| Humidity | 56% |
+| Wind | 5.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,109 +27,109 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Chicago Cubs** vs **Cincinnati Reds**  
-Status: Final  
-Time: 2026-09-18T22:40Z  
-Venue: Great American Ball Park  
-Location: Cincinnati, Ohio  
-
----
-**Kansas City Royals** vs **Pittsburgh Pirates**  
-Status: Final  
-Time: 2026-09-18T22:40Z  
-Venue: PNC Park  
-Location: Pittsburgh, Pennsylvania  
+**Detroit Tigers** vs **Chicago White Sox**  
+Status: Scheduled  
+Time: 2026-09-19T18:10Z  
+Venue: Rate Field  
+Location: Chicago, Illinois  
 
 ---
 **Milwaukee Brewers** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-18T23:05Z  
+Status: Scheduled  
+Time: 2026-09-19T20:05Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
-**Athletics** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-18T23:10Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
-
----
 **Boston Red Sox** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-09-18T23:10Z  
+Status: Scheduled  
+Time: 2026-09-19T20:10Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **Philadelphia Phillies** vs **New York Mets**  
-Status: Final  
-Time: 2026-09-18T23:10Z  
+Status: Scheduled  
+Time: 2026-09-19T20:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
-**Detroit Tigers** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-18T23:40Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
+**Athletics** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-09-19T22:10Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
+
+---
+**Chicago Cubs** vs **Cincinnati Reds**  
+Status: Scheduled  
+Time: 2026-09-19T22:40Z  
+Venue: Great American Ball Park  
+Location: Cincinnati, Ohio  
+
+---
+**Kansas City Royals** vs **Pittsburgh Pirates**  
+Status: Scheduled  
+Time: 2026-09-19T22:40Z  
+Venue: PNC Park  
+Location: Pittsburgh, Pennsylvania  
 
 ---
 **Toronto Blue Jays** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-09-19T00:05Z  
+Status: Scheduled  
+Time: 2026-09-19T23:05Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Atlanta Braves** vs **Houston Astros**  
-Status: Final  
-Time: 2026-09-19T00:10Z  
+Status: Scheduled  
+Time: 2026-09-19T23:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
-**Seattle Mariners** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-19T00:10Z  
-Venue: Coors Field  
-Location: Denver, Colorado  
-
----
 **Washington Nationals** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-09-19T00:15Z  
+Status: Scheduled  
+Time: 2026-09-19T23:15Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
-**Minnesota Twins** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-09-19T01:38Z  
-Venue: Angel Stadium  
-Location: Anaheim, California  
-
----
-**Miami Marlins** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-19T01:40Z  
-Venue: Petco Park  
-Location: San Diego, California  
+**Seattle Mariners** vs **Colorado Rockies**  
+Status: Scheduled  
+Time: 2026-09-20T00:10Z  
+Venue: Coors Field  
+Location: Denver, Colorado  
 
 ---
 **New York Yankees** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-09-19T01:40Z  
+Status: Scheduled  
+Time: 2026-09-20T00:10Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
+**Miami Marlins** vs **San Diego Padres**  
+Status: Scheduled  
+Time: 2026-09-20T00:40Z  
+Venue: Petco Park  
+Location: San Diego, California  
+
+---
 **San Francisco Giants** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-09-19T02:15Z  
+Status: Scheduled  
+Time: 2026-09-20T01:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
+
+---
+**Minnesota Twins** vs **Los Angeles Angels**  
+Status: Scheduled  
+Time: 2026-09-20T01:38Z  
+Venue: Angel Stadium  
+Location: Anaheim, California  
 
 ---
 
@@ -262,7 +262,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 19, 2026 at 05:13 AM |
+| Last update | September 19, 2026 at 04:10 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

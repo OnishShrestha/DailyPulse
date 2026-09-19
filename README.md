@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 88.4 °F |
-| Feels Like | 95.5 °F |
-| Humidity | 56% |
-| Wind | 5.8 mph |
+| Temperature | 95.5 °F |
+| Feels Like | 96.6 °F |
+| Humidity | 33% |
+| Wind | 9.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,28 +28,28 @@
 
 ## ⚾ MLB
 **Detroit Tigers** vs **Chicago White Sox**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-19T18:10Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **Milwaukee Brewers** vs **Baltimore Orioles**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-19T20:05Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
 **Boston Red Sox** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-19T20:10Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **Philadelphia Phillies** vs **New York Mets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-19T20:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
@@ -262,7 +262,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 19, 2026 at 04:10 PM |
+| Last update | September 19, 2026 at 09:16 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

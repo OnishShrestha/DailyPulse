@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 73.4 °F |
-| Feels Like | 79.2 °F |
-| Humidity | 91% |
-| Wind | 6.1 mph |
+| Temperature | 83.1 °F |
+| Feels Like | 98.4 °F |
+| Humidity | 84% |
+| Wind | 1.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,109 +27,109 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Detroit Tigers** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-19T18:10Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
-
----
-**Milwaukee Brewers** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-19T20:05Z  
-Venue: Oriole Park at Camden Yards  
-Location: Baltimore, Maryland  
-
----
-**Boston Red Sox** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-09-19T20:10Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
-
----
 **Philadelphia Phillies** vs **New York Mets**  
-Status: Final  
-Time: 2026-09-19T20:10Z  
+Status: Scheduled  
+Time: 2026-09-20T17:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
-**Athletics** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-09-19T22:10Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
-
----
-**Chicago Cubs** vs **Cincinnati Reds**  
-Status: Final  
-Time: 2026-09-19T22:40Z  
-Venue: Great American Ball Park  
-Location: Cincinnati, Ohio  
-
----
 **Kansas City Royals** vs **Pittsburgh Pirates**  
-Status: Final  
-Time: 2026-09-19T22:40Z  
+Status: Scheduled  
+Time: 2026-09-20T17:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
-**Toronto Blue Jays** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-09-19T23:05Z  
-Venue: Globe Life Field  
-Location: Arlington, Texas  
+**Athletics** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-09-20T17:40Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
+
+---
+**Boston Red Sox** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-09-20T17:40Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
+**Chicago Cubs** vs **Cincinnati Reds**  
+Status: Scheduled  
+Time: 2026-09-20T17:40Z  
+Venue: Great American Ball Park  
+Location: Cincinnati, Ohio  
 
 ---
 **Atlanta Braves** vs **Houston Astros**  
-Status: Final  
-Time: 2026-09-19T23:10Z  
+Status: Scheduled  
+Time: 2026-09-20T18:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
+**Detroit Tigers** vs **Chicago White Sox**  
+Status: Scheduled  
+Time: 2026-09-20T18:10Z  
+Venue: Rate Field  
+Location: Chicago, Illinois  
+
+---
 **Washington Nationals** vs **St. Louis Cardinals**  
-Status: Final  
-Time: 2026-09-19T23:15Z  
+Status: Scheduled  
+Time: 2026-09-20T18:15Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
+**Toronto Blue Jays** vs **Texas Rangers**  
+Status: Scheduled  
+Time: 2026-09-20T18:35Z  
+Venue: Globe Life Field  
+Location: Arlington, Texas  
+
+---
 **Seattle Mariners** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-20T00:10Z  
+Status: Scheduled  
+Time: 2026-09-20T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
-**New York Yankees** vs **Arizona Diamondbacks**  
-Status: Final  
-Time: 2026-09-20T00:10Z  
-Venue: Chase Field  
-Location: Phoenix, Arizona  
+**Minnesota Twins** vs **Los Angeles Angels**  
+Status: Scheduled  
+Time: 2026-09-20T20:07Z  
+Venue: Angel Stadium  
+Location: Anaheim, California  
 
 ---
 **Miami Marlins** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-20T00:40Z  
+Status: Scheduled  
+Time: 2026-09-20T20:10Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
+**New York Yankees** vs **Arizona Diamondbacks**  
+Status: Scheduled  
+Time: 2026-09-20T20:10Z  
+Venue: Chase Field  
+Location: Phoenix, Arizona  
+
+---
 **San Francisco Giants** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-09-20T01:10Z  
+Status: Scheduled  
+Time: 2026-09-20T20:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
 
 ---
-**Minnesota Twins** vs **Los Angeles Angels**  
-Status: Final  
-Time: 2026-09-20T01:38Z  
-Venue: Angel Stadium  
-Location: Anaheim, California  
+**Milwaukee Brewers** vs **Baltimore Orioles**  
+Status: Scheduled  
+Time: 2026-09-20T23:20Z  
+Venue: Oriole Park at Camden Yards  
+Location: Baltimore, Maryland  
 
 ---
 
@@ -262,7 +262,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 20, 2026 at 05:30 AM |
+| Last update | September 20, 2026 at 04:38 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

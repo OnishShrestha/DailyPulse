@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 83.1 °F |
-| Feels Like | 98.4 °F |
-| Humidity | 84% |
-| Wind | 1.2 mph |
+| Temperature | 77.9 °F |
+| Feels Like | 83.9 °F |
+| Humidity | 87% |
+| Wind | 9.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,98 +28,98 @@
 
 ## ⚾ MLB
 **Philadelphia Phillies** vs **New York Mets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-20T17:10Z  
 Venue: Citi Field  
 Location: Queens, New York  
 
 ---
 **Kansas City Royals** vs **Pittsburgh Pirates**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-20T17:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Athletics** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T17:40Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **Boston Red Sox** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-20T17:40Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **Chicago Cubs** vs **Cincinnati Reds**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-20T17:40Z  
 Venue: Great American Ball Park  
 Location: Cincinnati, Ohio  
 
 ---
 **Atlanta Braves** vs **Houston Astros**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-20T18:10Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
 **Detroit Tigers** vs **Chicago White Sox**  
-Status: Scheduled  
+Status: Rain Delay  
 Time: 2026-09-20T18:10Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **Washington Nationals** vs **St. Louis Cardinals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-20T18:15Z  
 Venue: Busch Stadium  
 Location: St. Louis, Missouri  
 
 ---
 **Toronto Blue Jays** vs **Texas Rangers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T18:35Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Seattle Mariners** vs **Colorado Rockies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
 **Minnesota Twins** vs **Los Angeles Angels**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:07Z  
 Venue: Angel Stadium  
 Location: Anaheim, California  
 
 ---
 **Miami Marlins** vs **San Diego Padres**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:10Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
 **New York Yankees** vs **Arizona Diamondbacks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:10Z  
 Venue: Chase Field  
 Location: Phoenix, Arizona  
 
 ---
 **San Francisco Giants** vs **Los Angeles Dodgers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
@@ -143,95 +143,95 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**Carolina Panthers** vs **Atlanta Falcons**  
-Status: Scheduled  
-Time: 2026-09-20T17:00Z  
-Venue: Mercedes-Benz Stadium  
-Location: Atlanta, GA  
-
----
-**Minnesota Vikings** vs **Chicago Bears**  
-Status: Scheduled  
-Time: 2026-09-20T17:00Z  
-Venue: Soldier Field  
-Location: Chicago, IL  
-
----
-**Philadelphia Eagles** vs **Tennessee Titans**  
-Status: Scheduled  
-Time: 2026-09-20T17:00Z  
-Venue: Nissan Stadium  
-Location: Nashville, TN  
-
----
-**Pittsburgh Steelers** vs **New England Patriots**  
-Status: Scheduled  
-Time: 2026-09-20T17:00Z  
-Venue: Gillette Stadium  
-Location: Foxborough, MA  
-
----
-**Green Bay Packers** vs **New York Jets**  
-Status: Scheduled  
-Time: 2026-09-20T17:00Z  
-Venue: MetLife Stadium  
-Location: East Rutherford, NJ  
-
----
 **Cleveland Browns** vs **Tampa Bay Buccaneers**  
-Status: Scheduled  
+Status: Delayed  
 Time: 2026-09-20T17:00Z  
 Venue: Raymond James Stadium  
 Location: Tampa, FL  
 
 ---
-**New Orleans Saints** vs **Baltimore Ravens**  
-Status: Scheduled  
-Time: 2026-09-20T17:00Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
-
----
-**Cincinnati Bengals** vs **Houston Texans**  
-Status: Scheduled  
-Time: 2026-09-20T17:00Z  
-Venue: Reliant Stadium  
-Location: Houston, TX  
-
----
 **Jacksonville Jaguars** vs **Denver Broncos**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:05Z  
 Venue: Empower Field at Mile High  
 Location: Denver, CO  
 
 ---
 **Las Vegas Raiders** vs **Los Angeles Chargers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:05Z  
 Venue: SoFi Stadium  
 Location: Inglewood, CA  
 
 ---
 **Washington Commanders** vs **Dallas Cowboys**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:25Z  
 Venue: AT&T Stadium  
 Location: Arlington, TX  
 
 ---
 **Seattle Seahawks** vs **Arizona Cardinals**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:25Z  
 Venue: State Farm Stadium  
 Location: Glendale, AZ  
 
 ---
 **Miami Dolphins** vs **San Francisco 49ers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-20T20:25Z  
 Venue: Levi's Stadium  
 Location: Santa Clara, CA  
+
+---
+**Carolina Panthers** vs **Atlanta Falcons**  
+Status: Final  
+Time: 2026-09-20T17:00Z  
+Venue: Mercedes-Benz Stadium  
+Location: Atlanta, GA  
+
+---
+**Minnesota Vikings** vs **Chicago Bears**  
+Status: Final  
+Time: 2026-09-20T17:00Z  
+Venue: Soldier Field  
+Location: Chicago, IL  
+
+---
+**Philadelphia Eagles** vs **Tennessee Titans**  
+Status: Final  
+Time: 2026-09-20T17:00Z  
+Venue: Nissan Stadium  
+Location: Nashville, TN  
+
+---
+**Pittsburgh Steelers** vs **New England Patriots**  
+Status: Final  
+Time: 2026-09-20T17:00Z  
+Venue: Gillette Stadium  
+Location: Foxborough, MA  
+
+---
+**Green Bay Packers** vs **New York Jets**  
+Status: Final  
+Time: 2026-09-20T17:00Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
+
+---
+**New Orleans Saints** vs **Baltimore Ravens**  
+Status: Final  
+Time: 2026-09-20T17:00Z  
+Venue: M&T Bank Stadium  
+Location: Baltimore, MD  
+
+---
+**Cincinnati Bengals** vs **Houston Texans**  
+Status: Final  
+Time: 2026-09-20T17:00Z  
+Venue: Reliant Stadium  
+Location: Houston, TX  
 
 ---
 **Indianapolis Colts** vs **Kansas City Chiefs**  
@@ -262,7 +262,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 20, 2026 at 04:38 PM |
+| Last update | September 20, 2026 at 09:09 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

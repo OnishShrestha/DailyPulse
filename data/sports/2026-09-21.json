@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T18:24:24.671055",
+    "timestamp": "2026-09-21T22:24:40.719669",
     "location": {
         "city": "Philadelphia",
         "state": "Pennsylvania",
@@ -15,9 +15,9 @@
                 "name": "Toronto Blue Jays at Baltimore Orioles",
                 "short_name": "TOR @ BAL",
                 "date": "2026-09-21T22:35Z",
-                "status": "Scheduled",
+                "status": "Delayed",
                 "state": "Maryland",
-                "detail": "Scheduled",
+                "detail": "Delayed, Top 1st",
                 "home_team": "Baltimore Orioles",
                 "home_abbreviation": "BAL",
                 "home_score": "0",

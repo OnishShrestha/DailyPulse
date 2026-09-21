@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 70.6 °F |
-| Feels Like | 71.1 °F |
-| Humidity | 72% |
-| Wind | 9.5 mph |
+| Temperature | 69.4 °F |
+| Feels Like | 69.6 °F |
+| Humidity | 65% |
+| Wind | 5.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Toronto Blue Jays** vs **Baltimore Orioles**  
-Status: Scheduled  
+Status: Delayed  
 Time: 2026-09-21T22:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
@@ -178,7 +178,7 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 21, 2026 at 06:24 PM |
+| Last update | September 21, 2026 at 10:24 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

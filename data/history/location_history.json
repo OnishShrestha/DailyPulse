@@ -246,5 +246,13 @@
         "latitude": 39.9526,
         "longitude": -75.1652,
         "timezone": "America/New_York"
+    },
+    "2026-09-22": {
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "country": "USA",
+        "latitude": 44.9778,
+        "longitude": -93.265,
+        "timezone": "America/Chicago"
     }
 }

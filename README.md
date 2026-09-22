@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Philadelphia, Pennsylvania
+### Minneapolis, Minnesota
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 69.4 °F |
-| Feels Like | 69.6 °F |
-| Humidity | 65% |
-| Wind | 5.1 mph |
+| Temperature | 51.5 °F |
+| Feels Like | 49.3 °F |
+| Humidity | 88% |
+| Wind | 3.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,21 +28,21 @@
 
 ## ⚾ MLB
 **Toronto Blue Jays** vs **Baltimore Orioles**  
-Status: Delayed  
+Status: Final  
 Time: 2026-09-21T22:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
 **Washington Nationals** vs **Detroit Tigers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-21T22:40Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **Minnesota Twins** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-22T01:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -59,13 +59,6 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**New York Giants** vs **Los Angeles Rams**  
-Status: Scheduled  
-Time: 2026-09-22T00:15Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
-
----
 **Detroit Lions** vs **Buffalo Bills**  
 Status: Final  
 Time: 2026-09-18T00:15Z  
@@ -171,6 +164,13 @@ Venue: Arrowhead Stadium
 Location: Kansas City, MO  
 
 ---
+**New York Giants** vs **Los Angeles Rams**  
+Status: Final  
+Time: 2026-09-22T00:15Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
 
 ---
 
@@ -178,8 +178,8 @@ Location: Kansas City, MO
 
 | Item | Value |
 |---|---|
-| Last update | September 21, 2026 at 10:24 PM |
-| Daily location | Philadelphia |
+| Last update | September 22, 2026 at 05:32 AM |
+| Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

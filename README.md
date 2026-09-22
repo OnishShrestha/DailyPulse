@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 51.5 °F |
-| Feels Like | 49.3 °F |
-| Humidity | 88% |
-| Wind | 3.8 mph |
+| Temperature | 57.8 °F |
+| Feels Like | 54.6 °F |
+| Humidity | 71% |
+| Wind | 6.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,25 +27,116 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
+**Tampa Bay Rays** vs **New York Yankees**  
+Status: In Progress  
+Time: 2026-09-22T17:05Z  
+Venue: Yankee Stadium  
+Location: Bronx, New York  
+
+---
 **Toronto Blue Jays** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-21T22:35Z  
+Status: Scheduled  
+Time: 2026-09-22T22:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
+**Milwaukee Brewers** vs **Philadelphia Phillies**  
+Status: Scheduled  
+Time: 2026-09-22T22:40Z  
+Venue: Citizens Bank Park  
+Location: Philadelphia, Pennsylvania  
+
+---
+**St. Louis Cardinals** vs **Pittsburgh Pirates**  
+Status: Scheduled  
+Time: 2026-09-22T22:40Z  
+Venue: PNC Park  
+Location: Pittsburgh, Pennsylvania  
+
+---
 **Washington Nationals** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-09-21T22:40Z  
+Status: Scheduled  
+Time: 2026-09-22T22:40Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
+**Cleveland Guardians** vs **Boston Red Sox**  
+Status: Scheduled  
+Time: 2026-09-22T22:45Z  
+Venue: Fenway Park  
+Location: Boston, Massachusetts  
+
+---
+**Tampa Bay Rays** vs **New York Yankees**  
+Status: Scheduled  
+Time: 2026-09-22T23:05Z  
+Venue: Yankee Stadium  
+Location: Bronx, New York  
+
+---
+**Cincinnati Reds** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-09-22T23:15Z  
+Venue: Truist Park  
+Location: Atlanta, Georgia  
+
+---
+**Chicago White Sox** vs **Kansas City Royals**  
+Status: Scheduled  
+Time: 2026-09-22T23:40Z  
+Venue: Kauffman Stadium  
+Location: Kansas City, Missouri  
+
+---
+**Miami Marlins** vs **Chicago Cubs**  
+Status: Scheduled  
+Time: 2026-09-22T23:40Z  
+Venue: Wrigley Field  
+Location: Chicago, Illinois  
+
+---
+**New York Mets** vs **Texas Rangers**  
+Status: Scheduled  
+Time: 2026-09-23T00:05Z  
+Venue: Globe Life Field  
+Location: Arlington, Texas  
+
+---
+**Arizona Diamondbacks** vs **Colorado Rockies**  
+Status: Scheduled  
+Time: 2026-09-23T00:40Z  
+Venue: Coors Field  
+Location: Denver, Colorado  
+
+---
+**Los Angeles Angels** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-09-23T01:40Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
+
+---
+**Houston Astros** vs **Seattle Mariners**  
+Status: Scheduled  
+Time: 2026-09-23T01:40Z  
+Venue: T-Mobile Park  
+Location: Seattle, Washington  
+
+---
 **Minnesota Twins** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-09-22T01:45Z  
+Status: Scheduled  
+Time: 2026-09-23T01:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
+
+---
+**San Diego Padres** vs **Los Angeles Dodgers**  
+Status: Scheduled  
+Time: 2026-09-23T02:10Z  
+Venue: Dodger Stadium  
+Location: Los Angeles, California  
 
 ---
 
@@ -178,7 +269,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 22, 2026 at 05:32 AM |
+| Last update | September 22, 2026 at 05:27 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

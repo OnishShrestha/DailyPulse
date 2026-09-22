@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 57.8 °F |
-| Feels Like | 54.6 °F |
-| Humidity | 71% |
-| Wind | 6.5 mph |
+| Temperature | 66.2 °F |
+| Feels Like | 61.1 °F |
+| Humidity | 41% |
+| Wind | 7.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Tampa Bay Rays** vs **New York Yankees**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-22T17:05Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Toronto Blue Jays** vs **Baltimore Orioles**  
-Status: Scheduled  
+Status: Postponed  
 Time: 2026-09-22T22:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
@@ -269,7 +269,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | September 22, 2026 at 05:27 PM |
+| Last update | September 22, 2026 at 09:45 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 60.9 °F |
-| Feels Like | 57.5 °F |
-| Humidity | 83% |
-| Wind | 12.3 mph |
+| Temperature | 60.3 °F |
+| Feels Like | 55.4 °F |
+| Humidity | 75% |
+| Wind | 13.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,21 +28,21 @@
 
 ## ⚾ MLB
 **Washington Nationals** vs **Detroit Tigers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-23T17:10Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **Toronto Blue Jays** vs **Baltimore Orioles**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-23T17:35Z  
 Venue: Oriole Park at Camden Yards  
 Location: Baltimore, Maryland  
 
 ---
 **Minnesota Twins** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-23T19:45Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
@@ -269,7 +269,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 23, 2026 at 05:36 PM |
+| Last update | September 23, 2026 at 10:01 PM |
 | Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

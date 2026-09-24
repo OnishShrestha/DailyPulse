@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 55.7 °F |
-| Feels Like | 54.1 °F |
-| Humidity | 83% |
-| Wind | 4.2 mph |
+| Temperature | 60.1 °F |
+| Feels Like | 59.5 °F |
+| Humidity | 75% |
+| Wind | 2.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,35 +28,35 @@
 
 ## ⚾ MLB
 **St. Louis Cardinals** vs **Pittsburgh Pirates**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-24T16:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
 **Chicago White Sox** vs **Kansas City Royals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-24T18:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Miami Marlins** vs **Chicago Cubs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-24T18:20Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
 **New York Mets** vs **Texas Rangers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-24T18:35Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Arizona Diamondbacks** vs **Colorado Rockies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-24T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
@@ -241,7 +241,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 24, 2026 at 05:40 PM |
+| Last update | September 24, 2026 at 09:56 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

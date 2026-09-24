@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 52.2 °F |
-| Feels Like | 48.6 °F |
-| Humidity | 72% |
-| Wind | 4.5 mph |
+| Temperature | 55.7 °F |
+| Feels Like | 54.1 °F |
+| Humidity | 83% |
+| Wind | 4.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,114 +27,86 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Washington Nationals** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-09-23T17:10Z  
-Venue: Comerica Park  
-Location: Detroit, Michigan  
-
----
-**Toronto Blue Jays** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-23T17:35Z  
-Venue: Oriole Park at Camden Yards  
-Location: Baltimore, Maryland  
-
----
-**Minnesota Twins** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-09-23T19:45Z  
-Venue: Oracle Park  
-Location: San Francisco, California  
-
----
-**Toronto Blue Jays** vs **Baltimore Orioles**  
-Status: Final  
-Time: 2026-09-23T22:35Z  
-Venue: Oriole Park at Camden Yards  
-Location: Baltimore, Maryland  
-
----
-**Milwaukee Brewers** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-09-23T22:40Z  
-Venue: Citizens Bank Park  
-Location: Philadelphia, Pennsylvania  
-
----
 **St. Louis Cardinals** vs **Pittsburgh Pirates**  
-Status: Final  
-Time: 2026-09-23T22:40Z  
+Status: In Progress  
+Time: 2026-09-24T16:35Z  
 Venue: PNC Park  
 Location: Pittsburgh, Pennsylvania  
 
 ---
-**Cleveland Guardians** vs **Boston Red Sox**  
-Status: Final  
-Time: 2026-09-23T23:00Z  
-Venue: Fenway Park  
-Location: Boston, Massachusetts  
-
----
-**Tampa Bay Rays** vs **New York Yankees**  
-Status: Final  
-Time: 2026-09-23T23:05Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Cincinnati Reds** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-09-23T23:15Z  
-Venue: Truist Park  
-Location: Atlanta, Georgia  
-
----
 **Chicago White Sox** vs **Kansas City Royals**  
-Status: Final  
-Time: 2026-09-23T23:40Z  
+Status: Scheduled  
+Time: 2026-09-24T18:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Miami Marlins** vs **Chicago Cubs**  
-Status: Final  
-Time: 2026-09-23T23:40Z  
+Status: Scheduled  
+Time: 2026-09-24T18:20Z  
 Venue: Wrigley Field  
 Location: Chicago, Illinois  
 
 ---
 **New York Mets** vs **Texas Rangers**  
-Status: Final  
-Time: 2026-09-24T00:05Z  
+Status: Scheduled  
+Time: 2026-09-24T18:35Z  
 Venue: Globe Life Field  
 Location: Arlington, Texas  
 
 ---
 **Arizona Diamondbacks** vs **Colorado Rockies**  
-Status: Final  
-Time: 2026-09-24T00:40Z  
+Status: Scheduled  
+Time: 2026-09-24T19:10Z  
 Venue: Coors Field  
 Location: Denver, Colorado  
 
 ---
-**Los Angeles Angels** vs **Athletics**  
-Status: Final  
-Time: 2026-09-24T01:40Z  
-Venue: Sutter Health Park  
-Location: Sacramento, California  
+**Milwaukee Brewers** vs **Philadelphia Phillies**  
+Status: Scheduled  
+Time: 2026-09-24T22:05Z  
+Venue: Citizens Bank Park  
+Location: Philadelphia, Pennsylvania  
 
 ---
-**Houston Astros** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-09-24T02:00Z  
+**Cleveland Guardians** vs **Boston Red Sox**  
+Status: Scheduled  
+Time: 2026-09-24T22:45Z  
+Venue: Fenway Park  
+Location: Boston, Massachusetts  
+
+---
+**Tampa Bay Rays** vs **New York Yankees**  
+Status: Scheduled  
+Time: 2026-09-24T23:05Z  
+Venue: Yankee Stadium  
+Location: Bronx, New York  
+
+---
+**Cincinnati Reds** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-09-24T23:15Z  
+Venue: Truist Park  
+Location: Atlanta, Georgia  
+
+---
+**Los Angeles Angels** vs **Seattle Mariners**  
+Status: Scheduled  
+Time: 2026-09-25T01:40Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
+**Houston Astros** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-09-25T01:40Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
+
+---
 **San Diego Padres** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-09-24T02:10Z  
+Status: Scheduled  
+Time: 2026-09-25T02:10Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
 
@@ -269,7 +241,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 24, 2026 at 05:36 AM |
+| Last update | September 24, 2026 at 05:40 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

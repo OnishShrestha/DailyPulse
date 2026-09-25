@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 74.3 °F |
-| Feels Like | 79.7 °F |
-| Humidity | 80% |
-| Wind | 3.4 mph |
+| Temperature | 85.0 °F |
+| Feels Like | 89.1 °F |
+| Humidity | 54% |
+| Wind | 8.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,21 +28,21 @@
 
 ## ⚾ MLB
 **Chicago Cubs** vs **Boston Red Sox**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-25T17:05Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
 
 ---
 **Baltimore Orioles** vs **New York Yankees**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-25T20:05Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Chicago Cubs** vs **Boston Red Sox**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-25T21:30Z  
 Venue: Fenway Park  
 Location: Boston, Massachusetts  
@@ -276,7 +276,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 25, 2026 at 05:39 PM |
+| Last update | September 25, 2026 at 09:58 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

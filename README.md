@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 57.9 °F |
-| Feels Like | 52.5 °F |
-| Humidity | 86% |
-| Wind | 15.4 mph |
+| Temperature | 59.7 °F |
+| Feels Like | 55.6 °F |
+| Humidity | 80% |
+| Wind | 12.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,42 +28,42 @@
 
 ## ⚾ MLB
 **New York Mets** vs **Washington Nationals**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-26T16:35Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
 **Pittsburgh Pirates** vs **Detroit Tigers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-26T17:10Z  
 Venue: Comerica Park  
 Location: Detroit, Michigan  
 
 ---
 **Cincinnati Reds** vs **Toronto Blue Jays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-26T19:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
 **Los Angeles Dodgers** vs **San Francisco Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-26T20:05Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
 
 ---
 **Atlanta Braves** vs **Miami Marlins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-26T20:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
 **Texas Rangers** vs **Minnesota Twins**  
-Status: Scheduled  
+Status: Rain Delay  
 Time: 2026-09-26T20:10Z  
 Venue: Target Field  
 Location: Minneapolis, Minnesota  
@@ -248,7 +248,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 26, 2026 at 04:50 PM |
+| Last update | September 26, 2026 at 09:48 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

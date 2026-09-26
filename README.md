@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.0 °F |
-| Feels Like | 54.1 °F |
-| Humidity | 59% |
-| Wind | 20.2 mph |
+| Temperature | 57.9 °F |
+| Feels Like | 52.5 °F |
+| Humidity | 86% |
+| Wind | 15.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,123 +27,95 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Chicago Cubs** vs **Boston Red Sox**  
-Status: Final  
-Time: 2026-09-25T17:05Z  
-Venue: Fenway Park  
-Location: Boston, Massachusetts  
-
----
-**Baltimore Orioles** vs **New York Yankees**  
-Status: Final  
-Time: 2026-09-25T20:05Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Chicago Cubs** vs **Boston Red Sox**  
-Status: Final  
-Time: 2026-09-25T21:30Z  
-Venue: Fenway Park  
-Location: Boston, Massachusetts  
-
----
-**Pittsburgh Pirates** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-09-25T22:40Z  
-Venue: Comerica Park  
-Location: Detroit, Michigan  
-
----
-**Tampa Bay Rays** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-09-25T22:40Z  
-Venue: Citizens Bank Park  
-Location: Philadelphia, Pennsylvania  
-
----
 **New York Mets** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-09-25T22:45Z  
+Status: In Progress  
+Time: 2026-09-26T16:35Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
+**Pittsburgh Pirates** vs **Detroit Tigers**  
+Status: Scheduled  
+Time: 2026-09-26T17:10Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
+
+---
 **Cincinnati Reds** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-09-25T23:07Z  
+Status: Scheduled  
+Time: 2026-09-26T19:07Z  
 Venue: Rogers Centre  
 Location: Toronto, Ontario  
 
 ---
+**Los Angeles Dodgers** vs **San Francisco Giants**  
+Status: Scheduled  
+Time: 2026-09-26T20:05Z  
+Venue: Oracle Park  
+Location: San Francisco, California  
+
+---
 **Atlanta Braves** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-09-25T23:10Z  
+Status: Scheduled  
+Time: 2026-09-26T20:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
-**Baltimore Orioles** vs **New York Yankees**  
-Status: Final  
-Time: 2026-09-25T23:30Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
+**Texas Rangers** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-09-26T20:10Z  
+Venue: Target Field  
+Location: Minneapolis, Minnesota  
 
 ---
 **Cleveland Guardians** vs **Kansas City Royals**  
-Status: Final  
-Time: 2026-09-25T23:40Z  
+Status: Scheduled  
+Time: 2026-09-26T23:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Colorado Rockies** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-25T23:40Z  
+Status: Scheduled  
+Time: 2026-09-26T23:10Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **St. Louis Cardinals** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-09-25T23:40Z  
+Status: Scheduled  
+Time: 2026-09-26T23:10Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
-**Texas Rangers** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-09-26T00:10Z  
-Venue: Target Field  
-Location: Minneapolis, Minnesota  
+**Tampa Bay Rays** vs **Philadelphia Phillies**  
+Status: Scheduled  
+Time: 2026-09-26T23:15Z  
+Venue: Citizens Bank Park  
+Location: Philadelphia, Pennsylvania  
 
 ---
 **Arizona Diamondbacks** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-26T01:40Z  
+Status: Scheduled  
+Time: 2026-09-27T00:40Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
-**Houston Astros** vs **Athletics**  
-Status: Final  
-Time: 2026-09-26T01:40Z  
-Venue: Sutter Health Park  
-Location: Sacramento, California  
-
----
 **Los Angeles Angels** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-09-26T02:10Z  
+Status: Scheduled  
+Time: 2026-09-27T01:40Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
-**Los Angeles Dodgers** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-09-26T02:15Z  
-Venue: Oracle Park  
-Location: San Francisco, California  
+**Houston Astros** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-09-27T01:40Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
 
 ---
 
@@ -276,7 +248,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 26, 2026 at 05:40 AM |
+| Last update | September 26, 2026 at 04:50 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 59.9 °F |
-| Feels Like | 60.2 °F |
-| Humidity | 85% |
-| Wind | 3.3 mph |
+| Temperature | 60.9 °F |
+| Feels Like | 63.7 °F |
+| Humidity | 96% |
+| Wind | 1.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,95 +27,109 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
+**Baltimore Orioles** vs **New York Yankees**  
+Status: Rain Delay  
+Time: 2026-09-27T17:05Z  
+Venue: Yankee Stadium  
+Location: Bronx, New York  
+
+---
 **New York Mets** vs **Washington Nationals**  
-Status: Final  
-Time: 2026-09-26T16:35Z  
+Status: Delayed  
+Time: 2026-09-27T17:05Z  
 Venue: Nationals Park  
 Location: Washington, District of Columbia  
 
 ---
-**Pittsburgh Pirates** vs **Detroit Tigers**  
-Status: Final  
-Time: 2026-09-26T17:10Z  
-Venue: Comerica Park  
-Location: Detroit, Michigan  
+**Tampa Bay Rays** vs **Philadelphia Phillies**  
+Status: Scheduled  
+Time: 2026-09-27T18:30Z  
+Venue: Citizens Bank Park  
+Location: Philadelphia, Pennsylvania  
 
 ---
-**Cincinnati Reds** vs **Toronto Blue Jays**  
-Status: Final  
-Time: 2026-09-26T19:07Z  
-Venue: Rogers Centre  
-Location: Toronto, Ontario  
+**Chicago Cubs** vs **Boston Red Sox**  
+Status: Scheduled  
+Time: 2026-09-27T19:05Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
+**Houston Astros** vs **Athletics**  
+Status: Scheduled  
+Time: 2026-09-27T19:05Z  
+Venue: Sutter Health Park  
+Location: Sacramento, California  
 
 ---
 **Los Angeles Dodgers** vs **San Francisco Giants**  
-Status: Final  
-Time: 2026-09-26T20:05Z  
+Status: Scheduled  
+Time: 2026-09-27T19:05Z  
 Venue: Oracle Park  
 Location: San Francisco, California  
 
 ---
+**Cincinnati Reds** vs **Toronto Blue Jays**  
+Status: Scheduled  
+Time: 2026-09-27T19:07Z  
+Venue: Rogers Centre  
+Location: Toronto, Ontario  
+
+---
 **Atlanta Braves** vs **Miami Marlins**  
-Status: Final  
-Time: 2026-09-26T20:10Z  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
 Venue: loanDepot park  
 Location: Miami, Florida  
 
 ---
-**Texas Rangers** vs **Minnesota Twins**  
-Status: Final  
-Time: 2026-09-26T20:10Z  
-Venue: Target Field  
-Location: Minneapolis, Minnesota  
+**Pittsburgh Pirates** vs **Detroit Tigers**  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
+Venue: Comerica Park  
+Location: Detroit, Michigan  
 
 ---
 **Cleveland Guardians** vs **Kansas City Royals**  
-Status: Final  
-Time: 2026-09-26T23:10Z  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
 Venue: Kauffman Stadium  
 Location: Kansas City, Missouri  
 
 ---
 **Colorado Rockies** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-09-26T23:10Z  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **St. Louis Cardinals** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-09-26T23:10Z  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
-**Tampa Bay Rays** vs **Philadelphia Phillies**  
-Status: Final  
-Time: 2026-09-26T23:15Z  
-Venue: Citizens Bank Park  
-Location: Philadelphia, Pennsylvania  
-
----
-**Arizona Diamondbacks** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-27T00:40Z  
-Venue: Petco Park  
-Location: San Diego, California  
+**Texas Rangers** vs **Minnesota Twins**  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
+Venue: Target Field  
+Location: Minneapolis, Minnesota  
 
 ---
 **Los Angeles Angels** vs **Seattle Mariners**  
-Status: Final  
-Time: 2026-09-27T01:40Z  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
 Venue: T-Mobile Park  
 Location: Seattle, Washington  
 
 ---
-**Houston Astros** vs **Athletics**  
-Status: Final  
-Time: 2026-09-27T01:40Z  
-Venue: Sutter Health Park  
-Location: Sacramento, California  
+**Arizona Diamondbacks** vs **San Diego Padres**  
+Status: Scheduled  
+Time: 2026-09-27T19:10Z  
+Venue: Petco Park  
+Location: San Diego, California  
 
 ---
 
@@ -130,63 +144,63 @@ Location: Quebec City, PQ
 
 ## 🏈 NFL
 **Los Angeles Chargers** vs **Buffalo Bills**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
 
 ---
 **Carolina Panthers** vs **Cleveland Browns**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: Huntington Bank Field  
 Location: Cleveland, OH  
 
 ---
 **New York Jets** vs **Detroit Lions**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: Ford Field  
 Location: Detroit, MI  
 
 ---
 **Houston Texans** vs **Indianapolis Colts**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: Lucas Oil Stadium  
 Location: Indianapolis, IN  
 
 ---
 **Kansas City Chiefs** vs **Miami Dolphins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: Hard Rock Stadium  
 Location: Miami Gardens, FL  
 
 ---
 **Tennessee Titans** vs **New York Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
 
 ---
 **Cincinnati Bengals** vs **Pittsburgh Steelers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: Acrisure Stadium  
 Location: Pittsburgh, PA  
 
 ---
 **Seattle Seahawks** vs **Washington Commanders**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: Northwest Stadium  
 Location: Landover, MD  
 
 ---
 **New England Patriots** vs **Jacksonville Jaguars**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-27T17:00Z  
 Venue: EverBank Stadium  
 Location: Jacksonville, FL  
@@ -248,7 +262,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 27, 2026 at 05:56 AM |
+| Last update | September 27, 2026 at 05:22 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

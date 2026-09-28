@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 79.8 °F |
-| Feels Like | 76.9 °F |
-| Humidity | 43% |
-| Wind | 15.8 mph |
+| Temperature | 76.6 °F |
+| Feels Like | 74.5 °F |
+| Humidity | 60% |
+| Wind | 14.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -185,7 +185,7 @@ Location: Denver, CO
 
 | Item | Value |
 |---|---|
-| Last update | September 28, 2026 at 07:55 PM |
+| Last update | September 28, 2026 at 11:40 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

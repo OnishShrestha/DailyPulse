@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 57.8 °F |
-| Feels Like | 52.9 °F |
+| Temperature | 59.1 °F |
+| Feels Like | 56.2 °F |
 | Humidity | 91% |
-| Wind | 15.7 mph |
+| Wind | 11.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Philadelphia Phillies** vs **Atlanta Braves**  
-Status: In Progress  
+Status: Final  
 Time: 2026-09-29T18:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Chicago White Sox** vs **Houston Astros**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-29T21:00Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
@@ -185,7 +185,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | September 29, 2026 at 06:23 PM |
+| Last update | September 29, 2026 at 10:49 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

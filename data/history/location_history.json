@@ -302,5 +302,13 @@
         "latitude": 36.1699,
         "longitude": -115.1398,
         "timezone": "America/Los_Angeles"
+    },
+    "2026-09-29": {
+        "city": "Seattle",
+        "state": "Washington",
+        "country": "USA",
+        "latitude": 47.6062,
+        "longitude": -122.3321,
+        "timezone": "America/Los_Angeles"
     }
 }

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 79.1 °F |
-| Feels Like | 81.9 °F |
-| Humidity | 43% |
-| Wind | 2.3 mph |
+| Temperature | 84.6 °F |
+| Feels Like | 84.3 °F |
+| Humidity | 34% |
+| Wind | 2.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Philadelphia Phillies** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-09-30T18:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Chicago White Sox** vs **Houston Astros**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-09-30T21:00Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
@@ -185,7 +185,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | September 30, 2026 at 06:13 PM |
+| Last update | September 30, 2026 at 10:48 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

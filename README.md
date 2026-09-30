@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 70.6 °F |
-| Feels Like | 69.9 °F |
-| Humidity | 53% |
-| Wind | 3.5 mph |
+| Temperature | 79.1 °F |
+| Feels Like | 81.9 °F |
+| Humidity | 43% |
+| Wind | 2.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,29 +28,29 @@
 
 ## ⚾ MLB
 **Philadelphia Phillies** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-09-29T18:00Z  
+Status: Scheduled  
+Time: 2026-09-30T18:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Chicago White Sox** vs **Houston Astros**  
-Status: Final  
-Time: 2026-09-29T21:00Z  
+Status: Scheduled  
+Time: 2026-09-30T21:00Z  
 Venue: Daikin Park  
 Location: Houston, Texas  
 
 ---
 **Boston Red Sox** vs **New York Yankees**  
-Status: Final  
-Time: 2026-09-30T00:00Z  
+Status: Scheduled  
+Time: 2026-10-01T00:00Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Chicago Cubs** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-09-30T02:00Z  
+Status: Scheduled  
+Time: 2026-10-01T02:00Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
@@ -185,7 +185,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | September 30, 2026 at 06:05 AM |
+| Last update | September 30, 2026 at 06:13 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

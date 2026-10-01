@@ -318,5 +318,13 @@
         "latitude": 33.4484,
         "longitude": -112.074,
         "timezone": "America/Phoenix"
+    },
+    "2026-10-01": {
+        "city": "San Francisco",
+        "state": "California",
+        "country": "USA",
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "timezone": "America/Los_Angeles"
     }
 }

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 54.9 °F |
-| Feels Like | 53.9 °F |
-| Humidity | 88% |
-| Wind | 3.6 mph |
+| Temperature | 62.0 °F |
+| Feels Like | 62.5 °F |
+| Humidity | 87% |
+| Wind | 4.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,11 +27,32 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Philadelphia Phillies** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-10-02T00:00Z  
-Venue: Truist Park  
-Location: Atlanta, Georgia  
+**Chicago White Sox** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-10-03T17:00Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
+
+---
+**Atlanta Braves** vs **Los Angeles Dodgers**  
+Status: Scheduled  
+Time: 2026-10-03T20:00Z  
+Venue: Dodger Stadium  
+Location: Los Angeles, California  
+
+---
+**New York Yankees** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-10-03T22:30Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
+**San Diego Padres** vs **Milwaukee Brewers**  
+Status: Scheduled  
+Time: 2026-10-04T00:30Z  
+Venue: American Family Field  
+Location: Milwaukee, Wisconsin  
 
 ---
 
@@ -164,7 +185,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 02, 2026 at 06:22 AM |
+| Last update | October 02, 2026 at 06:08 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

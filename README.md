@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### San Francisco, California
+### Seattle, Washington
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 69.7 °F |
-| Feels Like | 67.2 °F |
-| Humidity | 65% |
-| Wind | 12.1 mph |
+| Temperature | 54.9 °F |
+| Feels Like | 53.9 °F |
+| Humidity | 88% |
+| Wind | 3.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Philadelphia Phillies** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-02T00:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
@@ -46,7 +46,7 @@ Location: Quebec City, PQ
 
 ## 🏈 NFL
 **Pittsburgh Steelers** vs **Cleveland Browns**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-02T00:15Z  
 Venue: Huntington Bank Field  
 Location: Cleveland, OH  
@@ -164,8 +164,8 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 01, 2026 at 10:58 PM |
-| Daily location | San Francisco |
+| Last update | October 02, 2026 at 06:22 AM |
+| Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

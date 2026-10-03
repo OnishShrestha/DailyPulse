@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 87.4 °F |
-| Feels Like | 82.9 °F |
-| Humidity | 29% |
-| Wind | 12.4 mph |
+| Temperature | 95.5 °F |
+| Feels Like | 91.6 °F |
+| Humidity | 22% |
+| Wind | 11.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Chicago White Sox** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-03T17:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **Atlanta Braves** vs **Los Angeles Dodgers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-03T20:00Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
@@ -185,7 +185,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 03, 2026 at 04:53 PM |
+| Last update | October 03, 2026 at 09:58 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 62.4 °F |
-| Feels Like | 59.3 °F |
-| Humidity | 52% |
-| Wind | 6.1 mph |
+| Temperature | 68.2 °F |
+| Feels Like | 60.5 °F |
+| Humidity | 32% |
+| Wind | 11.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **San Diego Padres** vs **Milwaukee Brewers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T20:00Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
@@ -59,6 +59,34 @@ Location: Honolulu, HI
 ---
 
 ## 🏈 NFL
+**Miami Dolphins** vs **Minnesota Vikings**  
+Status: In Progress  
+Time: 2026-10-04T20:05Z  
+Venue: U.S. Bank Stadium  
+Location: Minneapolis, MN  
+
+---
+**Kansas City Chiefs** vs **Las Vegas Raiders**  
+Status: In Progress  
+Time: 2026-10-04T20:25Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
+**Denver Broncos** vs **San Francisco 49ers**  
+Status: In Progress  
+Time: 2026-10-04T20:25Z  
+Venue: Levi's Stadium  
+Location: Santa Clara, CA  
+
+---
+**Los Angeles Chargers** vs **Seattle Seahawks**  
+Status: Halftime  
+Time: 2026-10-04T20:25Z  
+Venue: Lumen Field  
+Location: Seattle, WA  
+
+---
 **Indianapolis Colts** vs **Washington Commanders**  
 Status: Final  
 Time: 2026-10-04T13:30Z  
@@ -67,87 +95,59 @@ Location: London,
 
 ---
 **New England Patriots** vs **Buffalo Bills**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
 
 ---
 **New York Jets** vs **Chicago Bears**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: Soldier Field  
 Location: Chicago, IL  
 
 ---
 **Jacksonville Jaguars** vs **Cincinnati Bengals**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: Paycor Stadium  
 Location: Cincinnati, OH  
 
 ---
 **Arizona Cardinals** vs **New York Giants**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
 
 ---
 **Los Angeles Rams** vs **Philadelphia Eagles**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: Lincoln Financial Field  
 Location: Philadelphia, PA  
 
 ---
 **Green Bay Packers** vs **Tampa Bay Buccaneers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: Raymond James Stadium  
 Location: Tampa, FL  
 
 ---
 **Tennessee Titans** vs **Baltimore Ravens**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: M&T Bank Stadium  
 Location: Baltimore, MD  
 
 ---
 **Dallas Cowboys** vs **Houston Texans**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T17:00Z  
 Venue: Reliant Stadium  
 Location: Houston, TX  
-
----
-**Miami Dolphins** vs **Minnesota Vikings**  
-Status: Scheduled  
-Time: 2026-10-04T20:05Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
-
----
-**Kansas City Chiefs** vs **Las Vegas Raiders**  
-Status: Scheduled  
-Time: 2026-10-04T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
-
----
-**Denver Broncos** vs **San Francisco 49ers**  
-Status: Scheduled  
-Time: 2026-10-04T20:25Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
-
----
-**Los Angeles Chargers** vs **Seattle Seahawks**  
-Status: Scheduled  
-Time: 2026-10-04T20:25Z  
-Venue: Lumen Field  
-Location: Seattle, WA  
 
 ---
 **Detroit Lions** vs **Carolina Panthers**  
@@ -178,7 +178,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 04, 2026 at 05:12 PM |
+| Last update | October 04, 2026 at 10:11 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

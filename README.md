@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 54.9 °F |
-| Feels Like | 53.0 °F |
-| Humidity | 88% |
-| Wind | 5.4 mph |
+| Temperature | 62.4 °F |
+| Feels Like | 59.3 °F |
+| Humidity | 52% |
+| Wind | 6.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,103 +27,96 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Chicago White Sox** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-10-03T17:00Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
-
----
-**Atlanta Braves** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-10-03T20:00Z  
-Venue: Dodger Stadium  
-Location: Los Angeles, California  
-
----
-**New York Yankees** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-10-03T22:30Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
-
----
 **San Diego Padres** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-10-04T00:30Z  
+Status: Scheduled  
+Time: 2026-10-04T20:00Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
+**Atlanta Braves** vs **Los Angeles Dodgers**  
+Status: Scheduled  
+Time: 2026-10-05T00:00Z  
+Venue: Dodger Stadium  
+Location: Los Angeles, California  
+
+---
 
 ## 🏀 NBA
-**Miami Heat** vs **Toronto Raptors**  
-Status: Final  
-Time: 2026-10-03T23:00Z  
-Venue: Videotron Centre  
-Location: Quebec City, PQ  
+**Utah Jazz** vs **Denver Nuggets**  
+Status: Scheduled  
+Time: 2026-10-04T23:00Z  
+Venue: CU Events Center  
+Location: Boulder, CO  
+
+---
+**Golden State Warriors** vs **LA Clippers**  
+Status: Scheduled  
+Time: 2026-10-04T23:00Z  
+Venue: Stan Sheriff Center  
+Location: Honolulu, HI  
 
 ---
 
 ## 🏈 NFL
 **Indianapolis Colts** vs **Washington Commanders**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-04T13:30Z  
 Venue: Tottenham Hotspur Stadium  
 Location: London,   
 
 ---
 **New England Patriots** vs **Buffalo Bills**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
 
 ---
 **New York Jets** vs **Chicago Bears**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: Soldier Field  
 Location: Chicago, IL  
 
 ---
 **Jacksonville Jaguars** vs **Cincinnati Bengals**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: Paycor Stadium  
 Location: Cincinnati, OH  
 
 ---
 **Arizona Cardinals** vs **New York Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
 
 ---
 **Los Angeles Rams** vs **Philadelphia Eagles**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: Lincoln Financial Field  
 Location: Philadelphia, PA  
 
 ---
 **Green Bay Packers** vs **Tampa Bay Buccaneers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: Raymond James Stadium  
 Location: Tampa, FL  
 
 ---
 **Tennessee Titans** vs **Baltimore Ravens**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: M&T Bank Stadium  
 Location: Baltimore, MD  
 
 ---
 **Dallas Cowboys** vs **Houston Texans**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-04T17:00Z  
 Venue: Reliant Stadium  
 Location: Houston, TX  
@@ -185,7 +178,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 04, 2026 at 06:29 AM |
+| Last update | October 04, 2026 at 05:12 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

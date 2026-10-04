@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Phoenix, Arizona
+### Minneapolis, Minnesota
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 95.5 °F |
-| Feels Like | 91.6 °F |
-| Humidity | 22% |
-| Wind | 11.9 mph |
+| Temperature | 54.9 °F |
+| Feels Like | 53.0 °F |
+| Humidity | 88% |
+| Wind | 5.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -35,21 +35,21 @@ Location: Cleveland, Ohio
 
 ---
 **Atlanta Braves** vs **Los Angeles Dodgers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-03T20:00Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
 
 ---
 **New York Yankees** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-03T22:30Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 **San Diego Padres** vs **Milwaukee Brewers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-04T00:30Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
@@ -58,7 +58,7 @@ Location: Milwaukee, Wisconsin
 
 ## 🏀 NBA
 **Miami Heat** vs **Toronto Raptors**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-03T23:00Z  
 Venue: Videotron Centre  
 Location: Quebec City, PQ  
@@ -66,13 +66,6 @@ Location: Quebec City, PQ
 ---
 
 ## 🏈 NFL
-**Pittsburgh Steelers** vs **Cleveland Browns**  
-Status: Final  
-Time: 2026-10-02T00:15Z  
-Venue: Huntington Bank Field  
-Location: Cleveland, OH  
-
----
 **Indianapolis Colts** vs **Washington Commanders**  
 Status: Scheduled  
 Time: 2026-10-04T13:30Z  
@@ -171,6 +164,13 @@ Venue: Bank of America Stadium
 Location: Charlotte, NC  
 
 ---
+**Pittsburgh Steelers** vs **Cleveland Browns**  
+Status: Final  
+Time: 2026-10-02T00:15Z  
+Venue: Huntington Bank Field  
+Location: Cleveland, OH  
+
+---
 **Atlanta Falcons** vs **New Orleans Saints**  
 Status: Scheduled  
 Time: 2026-10-06T00:15Z  
@@ -185,8 +185,8 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 03, 2026 at 09:58 PM |
-| Daily location | Phoenix |
+| Last update | October 04, 2026 at 06:29 AM |
+| Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

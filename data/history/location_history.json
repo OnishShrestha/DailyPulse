@@ -342,5 +342,13 @@
         "latitude": 33.4484,
         "longitude": -112.074,
         "timezone": "America/Phoenix"
+    },
+    "2026-10-04": {
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "country": "USA",
+        "latitude": 44.9778,
+        "longitude": -93.265,
+        "timezone": "America/Chicago"
     }
 }

@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Minneapolis, Minnesota
+### Seattle, Washington
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 68.2 °F |
-| Feels Like | 60.5 °F |
-| Humidity | 32% |
-| Wind | 11.3 mph |
+| Temperature | 54.9 °F |
+| Feels Like | 53.7 °F |
+| Humidity | 78% |
+| Wind | 1.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **San Diego Padres** vs **Milwaukee Brewers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-04T20:00Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
 **Atlanta Braves** vs **Los Angeles Dodgers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-05T00:00Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
@@ -44,14 +44,14 @@ Location: Los Angeles, California
 
 ## 🏀 NBA
 **Utah Jazz** vs **Denver Nuggets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-04T23:00Z  
 Venue: CU Events Center  
 Location: Boulder, CO  
 
 ---
 **Golden State Warriors** vs **LA Clippers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-04T23:00Z  
 Venue: Stan Sheriff Center  
 Location: Honolulu, HI  
@@ -59,32 +59,18 @@ Location: Honolulu, HI
 ---
 
 ## 🏈 NFL
-**Miami Dolphins** vs **Minnesota Vikings**  
-Status: In Progress  
-Time: 2026-10-04T20:05Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
+**Atlanta Falcons** vs **New Orleans Saints**  
+Status: Scheduled  
+Time: 2026-10-06T00:15Z  
+Venue: Caesars Superdome  
+Location: New Orleans, LA  
 
 ---
-**Kansas City Chiefs** vs **Las Vegas Raiders**  
-Status: In Progress  
-Time: 2026-10-04T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
-
----
-**Denver Broncos** vs **San Francisco 49ers**  
-Status: In Progress  
-Time: 2026-10-04T20:25Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
-
----
-**Los Angeles Chargers** vs **Seattle Seahawks**  
-Status: Halftime  
-Time: 2026-10-04T20:25Z  
-Venue: Lumen Field  
-Location: Seattle, WA  
+**Pittsburgh Steelers** vs **Cleveland Browns**  
+Status: Final  
+Time: 2026-10-02T00:15Z  
+Venue: Huntington Bank Field  
+Location: Cleveland, OH  
 
 ---
 **Indianapolis Colts** vs **Washington Commanders**  
@@ -150,25 +136,39 @@ Venue: Reliant Stadium
 Location: Houston, TX  
 
 ---
+**Miami Dolphins** vs **Minnesota Vikings**  
+Status: Final  
+Time: 2026-10-04T20:05Z  
+Venue: U.S. Bank Stadium  
+Location: Minneapolis, MN  
+
+---
+**Kansas City Chiefs** vs **Las Vegas Raiders**  
+Status: Final  
+Time: 2026-10-04T20:25Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
+**Denver Broncos** vs **San Francisco 49ers**  
+Status: Final  
+Time: 2026-10-04T20:25Z  
+Venue: Levi's Stadium  
+Location: Santa Clara, CA  
+
+---
+**Los Angeles Chargers** vs **Seattle Seahawks**  
+Status: Final  
+Time: 2026-10-04T20:25Z  
+Venue: Lumen Field  
+Location: Seattle, WA  
+
+---
 **Detroit Lions** vs **Carolina Panthers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-05T00:20Z  
 Venue: Bank of America Stadium  
 Location: Charlotte, NC  
-
----
-**Pittsburgh Steelers** vs **Cleveland Browns**  
-Status: Final  
-Time: 2026-10-02T00:15Z  
-Venue: Huntington Bank Field  
-Location: Cleveland, OH  
-
----
-**Atlanta Falcons** vs **New Orleans Saints**  
-Status: Scheduled  
-Time: 2026-10-06T00:15Z  
-Venue: Caesars Superdome  
-Location: New Orleans, LA  
 
 ---
 
@@ -178,8 +178,8 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 04, 2026 at 10:11 PM |
-| Daily location | Minneapolis |
+| Last update | October 05, 2026 at 06:22 AM |
+| Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

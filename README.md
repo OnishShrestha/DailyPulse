@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 54.9 °F |
-| Feels Like | 53.7 °F |
-| Humidity | 78% |
-| Wind | 1.5 mph |
+| Temperature | 59.6 °F |
+| Feels Like | 61.0 °F |
+| Humidity | 96% |
+| Wind | 3.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,34 +27,55 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**San Diego Padres** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-10-04T20:00Z  
-Venue: American Family Field  
-Location: Milwaukee, Wisconsin  
+**Chicago White Sox** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-10-05T21:00Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
 
 ---
-**Atlanta Braves** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-10-05T00:00Z  
-Venue: Dodger Stadium  
-Location: Los Angeles, California  
+**New York Yankees** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-10-06T00:00Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
 
 ---
 
 ## 🏀 NBA
-**Utah Jazz** vs **Denver Nuggets**  
-Status: Final  
-Time: 2026-10-04T23:00Z  
-Venue: CU Events Center  
-Location: Boulder, CO  
+**Memphis Grizzlies** vs **Atlanta Hawks**  
+Status: Scheduled  
+Time: 2026-10-05T23:00Z  
+Venue: State Farm Arena  
+Location: Atlanta, GA  
 
 ---
-**Golden State Warriors** vs **LA Clippers**  
-Status: Final  
-Time: 2026-10-04T23:00Z  
-Venue: Stan Sheriff Center  
-Location: Honolulu, HI  
+**Phoenix Suns** vs **Detroit Pistons**  
+Status: Scheduled  
+Time: 2026-10-05T23:00Z  
+Venue: Little Caesars Arena  
+Location: Detroit, MI  
+
+---
+**New York Knicks** vs **Philadelphia 76ers**  
+Status: Scheduled  
+Time: 2026-10-05T23:00Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
+
+---
+**Minnesota Timberwolves** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-10-06T00:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
+
+---
+**Los Angeles Lakers** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-10-06T02:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
@@ -178,7 +199,7 @@ Location: Charlotte, NC
 
 | Item | Value |
 |---|---|
-| Last update | October 05, 2026 at 06:22 AM |
+| Last update | October 05, 2026 at 08:54 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

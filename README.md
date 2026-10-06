@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 70.9 °F |
-| Feels Like | 65.5 °F |
-| Humidity | 40% |
-| Wind | 12.2 mph |
+| Temperature | 68.3 °F |
+| Feels Like | 62.0 °F |
+| Humidity | 37% |
+| Wind | 9.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-06T22:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
@@ -192,7 +192,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 06, 2026 at 06:42 PM |
+| Last update | October 06, 2026 at 10:52 PM |
 | Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

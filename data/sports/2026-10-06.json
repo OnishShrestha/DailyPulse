@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-06T18:42:48.585818",
+    "timestamp": "2026-10-06T22:52:39.723404",
     "location": {
         "city": "Chicago",
         "state": "Illinois",
@@ -15,9 +15,9 @@
                 "name": "Los Angeles Dodgers at Atlanta Braves",
                 "short_name": "LAD @ ATL",
                 "date": "2026-10-06T22:00Z",
-                "status": "Scheduled",
+                "status": "In Progress",
                 "state": "Georgia",
-                "detail": "Scheduled",
+                "detail": "End 2nd",
                 "home_team": "Atlanta Braves",
                 "home_abbreviation": "ATL",
                 "home_score": "0",

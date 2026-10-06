@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 55.3 °F |
-| Feels Like | 50.9 °F |
-| Humidity | 67% |
-| Wind | 7.2 mph |
+| Temperature | 51.5 °F |
+| Feels Like | 47.7 °F |
+| Humidity | 84% |
+| Wind | 7.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -35,7 +35,7 @@ Location: Cleveland, Ohio
 
 ---
 **New York Yankees** vs **Tampa Bay Rays**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-06T00:00Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
@@ -44,35 +44,35 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Memphis Grizzlies** vs **Atlanta Hawks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-05T23:00Z  
 Venue: State Farm Arena  
 Location: Atlanta, GA  
 
 ---
 **Phoenix Suns** vs **Detroit Pistons**  
-Status: Halftime  
+Status: Final  
 Time: 2026-10-05T23:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
 **New York Knicks** vs **Philadelphia 76ers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-05T23:00Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Minnesota Timberwolves** vs **Milwaukee Bucks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-06T00:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
 
 ---
 **Los Angeles Lakers** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-06T02:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
@@ -80,13 +80,6 @@ Location: Sacramento, CA
 ---
 
 ## 🏈 NFL
-**Atlanta Falcons** vs **New Orleans Saints**  
-Status: In Progress  
-Time: 2026-10-06T00:15Z  
-Venue: Caesars Superdome  
-Location: New Orleans, LA  
-
----
 **Pittsburgh Steelers** vs **Cleveland Browns**  
 Status: Final  
 Time: 2026-10-02T00:15Z  
@@ -192,6 +185,13 @@ Venue: Bank of America Stadium
 Location: Charlotte, NC  
 
 ---
+**Atlanta Falcons** vs **New Orleans Saints**  
+Status: Final  
+Time: 2026-10-06T00:15Z  
+Venue: Caesars Superdome  
+Location: New Orleans, LA  
+
+---
 
 ---
 
@@ -199,7 +199,7 @@ Location: Charlotte, NC
 
 | Item | Value |
 |---|---|
-| Last update | October 06, 2026 at 12:34 AM |
+| Last update | October 06, 2026 at 06:58 AM |
 | Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

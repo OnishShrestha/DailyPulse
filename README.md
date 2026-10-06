@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 51.5 °F |
-| Feels Like | 47.7 °F |
-| Humidity | 84% |
-| Wind | 7.0 mph |
+| Temperature | 70.9 °F |
+| Feels Like | 65.5 °F |
+| Humidity | 40% |
+| Wind | 12.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,55 +27,48 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Chicago White Sox** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-10-05T21:00Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
+**Los Angeles Dodgers** vs **Atlanta Braves**  
+Status: Scheduled  
+Time: 2026-10-06T22:00Z  
+Venue: Truist Park  
+Location: Atlanta, Georgia  
 
 ---
-**New York Yankees** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-10-06T00:00Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
+**Milwaukee Brewers** vs **San Diego Padres**  
+Status: Scheduled  
+Time: 2026-10-07T01:30Z  
+Venue: Petco Park  
+Location: San Diego, California  
 
 ---
 
 ## 🏀 NBA
-**Memphis Grizzlies** vs **Atlanta Hawks**  
-Status: Final  
-Time: 2026-10-05T23:00Z  
-Venue: State Farm Arena  
-Location: Atlanta, GA  
+**Brooklyn Nets** vs **Charlotte Hornets**  
+Status: Scheduled  
+Time: 2026-10-06T23:00Z  
+Venue: Spectrum Center  
+Location: Charlotte, NC  
 
 ---
-**Phoenix Suns** vs **Detroit Pistons**  
-Status: Final  
-Time: 2026-10-05T23:00Z  
-Venue: Little Caesars Arena  
-Location: Detroit, MI  
+**New Orleans Pelicans** vs **Oklahoma City Thunder**  
+Status: Scheduled  
+Time: 2026-10-07T00:00Z  
+Venue: BOK Center  
+Location: Tulsa, OK  
 
 ---
-**New York Knicks** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-10-05T23:00Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
+**Denver Nuggets** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-10-07T01:00Z  
+Venue: Delta Center  
+Location: Salt Lake City, UT  
 
 ---
-**Minnesota Timberwolves** vs **Milwaukee Bucks**  
-Status: Final  
-Time: 2026-10-06T00:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
-
----
-**Los Angeles Lakers** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-10-06T02:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**Los Angeles Lakers** vs **Golden State Warriors**  
+Status: Scheduled  
+Time: 2026-10-07T02:00Z  
+Venue: Chase Center  
+Location: San Francisco, CA  
 
 ---
 
@@ -199,7 +192,7 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 06, 2026 at 06:58 AM |
+| Last update | October 06, 2026 at 06:42 PM |
 | Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

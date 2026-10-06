@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Seattle, Washington
+### Chicago, Illinois
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 59.6 °F |
-| Feels Like | 61.0 °F |
-| Humidity | 96% |
-| Wind | 3.5 mph |
+| Temperature | 55.3 °F |
+| Feels Like | 50.9 °F |
+| Humidity | 67% |
+| Wind | 7.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Chicago White Sox** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-05T21:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 **New York Yankees** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-06T00:00Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
@@ -44,28 +44,28 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Memphis Grizzlies** vs **Atlanta Hawks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-05T23:00Z  
 Venue: State Farm Arena  
 Location: Atlanta, GA  
 
 ---
 **Phoenix Suns** vs **Detroit Pistons**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-10-05T23:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
 **New York Knicks** vs **Philadelphia 76ers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-05T23:00Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Minnesota Timberwolves** vs **Milwaukee Bucks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-06T00:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
@@ -81,7 +81,7 @@ Location: Sacramento, CA
 
 ## 🏈 NFL
 **Atlanta Falcons** vs **New Orleans Saints**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-06T00:15Z  
 Venue: Caesars Superdome  
 Location: New Orleans, LA  
@@ -199,8 +199,8 @@ Location: Charlotte, NC
 
 | Item | Value |
 |---|---|
-| Last update | October 05, 2026 at 08:54 PM |
-| Daily location | Seattle |
+| Last update | October 06, 2026 at 12:34 AM |
+| Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

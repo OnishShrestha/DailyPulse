@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 66.3 °F |
-| Feels Like | 59.4 °F |
-| Humidity | 36% |
-| Wind | 10.1 mph |
+| Temperature | 59.1 °F |
+| Feels Like | 55.8 °F |
+| Humidity | 68% |
+| Wind | 6.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Cleveland Guardians** vs **Chicago White Sox**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-07T20:00Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
 **Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-07T22:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
@@ -58,7 +58,7 @@ Location: San Diego, California
 
 ## 🏀 NBA
 **Minnesota Timberwolves** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-07T23:00Z  
 Venue: Hilton Coliseum  
 Location: Ames, IA  
@@ -206,7 +206,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 07, 2026 at 07:09 PM |
+| Last update | October 07, 2026 at 11:26 PM |
 | Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

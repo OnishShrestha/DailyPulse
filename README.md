@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 45.5 °F |
-| Feels Like | 41.2 °F |
-| Humidity | 68% |
-| Wind | 2.5 mph |
+| Temperature | 66.3 °F |
+| Feels Like | 59.4 °F |
+| Humidity | 36% |
+| Wind | 10.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,48 +27,69 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
+**Cleveland Guardians** vs **Chicago White Sox**  
+Status: Scheduled  
+Time: 2026-10-07T20:00Z  
+Venue: Rate Field  
+Location: Chicago, Illinois  
+
+---
 **Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-10-06T22:00Z  
+Status: Scheduled  
+Time: 2026-10-07T22:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
+**Tampa Bay Rays** vs **New York Yankees**  
+Status: Scheduled  
+Time: 2026-10-08T00:00Z  
+Venue: Yankee Stadium  
+Location: Bronx, New York  
+
+---
 **Milwaukee Brewers** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-10-07T01:30Z  
+Status: Scheduled  
+Time: 2026-10-08T02:00Z  
 Venue: Petco Park  
 Location: San Diego, California  
 
 ---
 
 ## 🏀 NBA
-**Brooklyn Nets** vs **Charlotte Hornets**  
-Status: Final  
-Time: 2026-10-06T23:00Z  
-Venue: Spectrum Center  
-Location: Charlotte, NC  
+**Minnesota Timberwolves** vs **Indiana Pacers**  
+Status: Scheduled  
+Time: 2026-10-07T23:00Z  
+Venue: Hilton Coliseum  
+Location: Ames, IA  
 
 ---
-**New Orleans Pelicans** vs **Oklahoma City Thunder**  
-Status: Final  
-Time: 2026-10-07T00:00Z  
-Venue: BOK Center  
-Location: Tulsa, OK  
+**Orlando Magic** vs **Memphis Grizzlies**  
+Status: Scheduled  
+Time: 2026-10-08T00:00Z  
+Venue: FedExForum  
+Location: Memphis, TN  
 
 ---
-**Denver Nuggets** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-10-07T01:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
+**Milwaukee Bucks** vs **Oklahoma City Thunder**  
+Status: Scheduled  
+Time: 2026-10-08T00:00Z  
+Venue: Paycom Center  
+Location: Oklahoma City, OK  
 
 ---
-**Los Angeles Lakers** vs **Golden State Warriors**  
-Status: Final  
-Time: 2026-10-07T02:00Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
+**Phoenix Suns** vs **Chicago Bulls**  
+Status: Scheduled  
+Time: 2026-10-08T00:00Z  
+Venue: United Center  
+Location: Chicago, IL  
+
+---
+**Golden State Warriors** vs **Portland Trail Blazers**  
+Status: Scheduled  
+Time: 2026-10-08T02:00Z  
+Venue: Moda Center  
+Location: Portland, OR  
 
 ---
 
@@ -185,7 +206,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 07, 2026 at 06:39 AM |
+| Last update | October 07, 2026 at 07:09 PM |
 | Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

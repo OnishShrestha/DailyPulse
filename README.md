@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Chicago, Illinois
+### New York, New York
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 68.3 °F |
-| Feels Like | 62.0 °F |
-| Humidity | 37% |
-| Wind | 9.7 mph |
+| Temperature | 45.5 °F |
+| Feels Like | 41.2 °F |
+| Humidity | 68% |
+| Wind | 2.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,14 +28,14 @@
 
 ## ⚾ MLB
 **Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-06T22:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Milwaukee Brewers** vs **San Diego Padres**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-07T01:30Z  
 Venue: Petco Park  
 Location: San Diego, California  
@@ -44,28 +44,28 @@ Location: San Diego, California
 
 ## 🏀 NBA
 **Brooklyn Nets** vs **Charlotte Hornets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-06T23:00Z  
 Venue: Spectrum Center  
 Location: Charlotte, NC  
 
 ---
 **New Orleans Pelicans** vs **Oklahoma City Thunder**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-07T00:00Z  
 Venue: BOK Center  
 Location: Tulsa, OK  
 
 ---
 **Denver Nuggets** vs **Utah Jazz**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-07T01:00Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
 
 ---
 **Los Angeles Lakers** vs **Golden State Warriors**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-07T02:00Z  
 Venue: Chase Center  
 Location: San Francisco, CA  
@@ -73,116 +73,109 @@ Location: San Francisco, CA
 ---
 
 ## 🏈 NFL
-**Pittsburgh Steelers** vs **Cleveland Browns**  
-Status: Final  
-Time: 2026-10-02T00:15Z  
-Venue: Huntington Bank Field  
-Location: Cleveland, OH  
+**Tampa Bay Buccaneers** vs **Dallas Cowboys**  
+Status: Scheduled  
+Time: 2026-10-09T00:15Z  
+Venue: AT&T Stadium  
+Location: Arlington, TX  
 
 ---
-**Indianapolis Colts** vs **Washington Commanders**  
-Status: Final  
-Time: 2026-10-04T13:30Z  
+**Philadelphia Eagles** vs **Jacksonville Jaguars**  
+Status: Scheduled  
+Time: 2026-10-11T13:30Z  
 Venue: Tottenham Hotspur Stadium  
 Location: London,   
 
 ---
-**New England Patriots** vs **Buffalo Bills**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
-Venue: Highmark Stadium  
-Location: Orchard Park, NY  
+**Chicago Bears** vs **Green Bay Packers**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
+Venue: Lambeau Field  
+Location: Green Bay, WI  
 
 ---
-**New York Jets** vs **Chicago Bears**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
-Venue: Soldier Field  
-Location: Chicago, IL  
+**Houston Texans** vs **Tennessee Titans**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
+Venue: Nissan Stadium  
+Location: Nashville, TN  
 
 ---
-**Jacksonville Jaguars** vs **Cincinnati Bengals**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
-Venue: Paycor Stadium  
-Location: Cincinnati, OH  
+**Cincinnati Bengals** vs **Miami Dolphins**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
+Venue: Hard Rock Stadium  
+Location: Miami Gardens, FL  
 
 ---
-**Arizona Cardinals** vs **New York Giants**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
+**Las Vegas Raiders** vs **New England Patriots**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
+Venue: Gillette Stadium  
+Location: Foxborough, MA  
+
+---
+**Minnesota Vikings** vs **New Orleans Saints**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
+Venue: Caesars Superdome  
+Location: New Orleans, LA  
+
+---
+**Cleveland Browns** vs **New York Jets**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
 
 ---
-**Los Angeles Rams** vs **Philadelphia Eagles**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
+**Indianapolis Colts** vs **Pittsburgh Steelers**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
+Venue: Acrisure Stadium  
+Location: Pittsburgh, PA  
 
 ---
-**Green Bay Packers** vs **Tampa Bay Buccaneers**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
-Venue: Raymond James Stadium  
-Location: Tampa, FL  
+**New York Giants** vs **Washington Commanders**  
+Status: Scheduled  
+Time: 2026-10-11T17:00Z  
+Venue: Northwest Stadium  
+Location: Landover, MD  
 
 ---
-**Tennessee Titans** vs **Baltimore Ravens**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
+**Denver Broncos** vs **Los Angeles Chargers**  
+Status: Scheduled  
+Time: 2026-10-11T20:05Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
 
 ---
-**Dallas Cowboys** vs **Houston Texans**  
-Status: Final  
-Time: 2026-10-04T17:00Z  
-Venue: Reliant Stadium  
-Location: Houston, TX  
+**Detroit Lions** vs **Arizona Cardinals**  
+Status: Scheduled  
+Time: 2026-10-11T20:25Z  
+Venue: State Farm Stadium  
+Location: Glendale, AZ  
 
 ---
-**Miami Dolphins** vs **Minnesota Vikings**  
-Status: Final  
-Time: 2026-10-04T20:05Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
-
----
-**Kansas City Chiefs** vs **Las Vegas Raiders**  
-Status: Final  
-Time: 2026-10-04T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
-
----
-**Denver Broncos** vs **San Francisco 49ers**  
-Status: Final  
-Time: 2026-10-04T20:25Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
-
----
-**Los Angeles Chargers** vs **Seattle Seahawks**  
-Status: Final  
-Time: 2026-10-04T20:25Z  
+**San Francisco 49ers** vs **Seattle Seahawks**  
+Status: Scheduled  
+Time: 2026-10-11T20:25Z  
 Venue: Lumen Field  
 Location: Seattle, WA  
 
 ---
-**Detroit Lions** vs **Carolina Panthers**  
-Status: Final  
-Time: 2026-10-05T00:20Z  
-Venue: Bank of America Stadium  
-Location: Charlotte, NC  
+**Baltimore Ravens** vs **Atlanta Falcons**  
+Status: Scheduled  
+Time: 2026-10-12T00:20Z  
+Venue: Mercedes-Benz Stadium  
+Location: Atlanta, GA  
 
 ---
-**Atlanta Falcons** vs **New Orleans Saints**  
-Status: Final  
-Time: 2026-10-06T00:15Z  
-Venue: Caesars Superdome  
-Location: New Orleans, LA  
+**Buffalo Bills** vs **Los Angeles Rams**  
+Status: Scheduled  
+Time: 2026-10-13T00:15Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
 
 ---
 
@@ -192,8 +185,8 @@ Location: New Orleans, LA
 
 | Item | Value |
 |---|---|
-| Last update | October 06, 2026 at 10:52 PM |
-| Daily location | Chicago |
+| Last update | October 07, 2026 at 06:39 AM |
+| Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

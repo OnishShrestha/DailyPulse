@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 83.9 °F |
-| Feels Like | 78.3 °F |
+| Temperature | 82.8 °F |
+| Feels Like | 75.8 °F |
 | Humidity | 14% |
-| Wind | 7.9 mph |
+| Wind | 6.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,7 +37,7 @@ Location: Chicago, Illinois
 
 ## 🏀 NBA
 **Boston Celtics** vs **Cleveland Cavaliers**  
-Status: Scheduled  
+Status: End of Period  
 Time: 2026-10-08T23:00Z  
 Venue: Rocket Arena  
 Location: Cleveland, OH  
@@ -192,7 +192,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 08, 2026 at 07:05 PM |
+| Last update | October 08, 2026 at 11:37 PM |
 | Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-08T19:05:28.667158",
+    "timestamp": "2026-10-08T23:37:39.759354",
     "location": {
         "city": "Denver",
         "state": "Colorado",
@@ -34,15 +34,15 @@
                 "name": "Boston Celtics at Cleveland Cavaliers",
                 "short_name": "BOS @ CLE",
                 "date": "2026-10-08T23:00Z",
-                "status": "Scheduled",
+                "status": "End of Period",
                 "state": "OH",
-                "detail": "Thu, October 8th at 7:00 PM EDT",
+                "detail": "End of 1st Quarter",
                 "home_team": "Cleveland Cavaliers",
                 "home_abbreviation": "CLE",
-                "home_score": "0",
+                "home_score": "29",
                 "away_team": "Boston Celtics",
                 "away_abbreviation": "BOS",
-                "away_score": "0",
+                "away_score": "32",
                 "venue": "Rocket Arena",
                 "city": "Cleveland"
             },

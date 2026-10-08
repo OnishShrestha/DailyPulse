@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### New York, New York
+### Denver, Colorado
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 59.1 °F |
-| Feels Like | 55.8 °F |
-| Humidity | 68% |
-| Wind | 6.9 mph |
+| Temperature | 57.0 °F |
+| Feels Like | 50.8 °F |
+| Humidity | 39% |
+| Wind | 5.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -35,21 +35,21 @@ Location: Chicago, Illinois
 
 ---
 **Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-07T22:00Z  
 Venue: Truist Park  
 Location: Atlanta, Georgia  
 
 ---
 **Tampa Bay Rays** vs **New York Yankees**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T00:00Z  
 Venue: Yankee Stadium  
 Location: Bronx, New York  
 
 ---
 **Milwaukee Brewers** vs **San Diego Padres**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T02:00Z  
 Venue: Petco Park  
 Location: San Diego, California  
@@ -58,35 +58,35 @@ Location: San Diego, California
 
 ## 🏀 NBA
 **Minnesota Timberwolves** vs **Indiana Pacers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-07T23:00Z  
 Venue: Hilton Coliseum  
 Location: Ames, IA  
 
 ---
 **Orlando Magic** vs **Memphis Grizzlies**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T00:00Z  
 Venue: FedExForum  
 Location: Memphis, TN  
 
 ---
 **Milwaukee Bucks** vs **Oklahoma City Thunder**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T00:00Z  
 Venue: Paycom Center  
 Location: Oklahoma City, OK  
 
 ---
 **Phoenix Suns** vs **Chicago Bulls**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T00:00Z  
 Venue: United Center  
 Location: Chicago, IL  
 
 ---
 **Golden State Warriors** vs **Portland Trail Blazers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T02:00Z  
 Venue: Moda Center  
 Location: Portland, OR  
@@ -206,8 +206,8 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 07, 2026 at 11:26 PM |
-| Daily location | New York |
+| Last update | October 08, 2026 at 06:45 AM |
+| Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

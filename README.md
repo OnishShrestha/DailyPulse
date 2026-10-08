@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 57.0 °F |
-| Feels Like | 50.8 °F |
-| Humidity | 39% |
-| Wind | 5.7 mph |
+| Temperature | 83.9 °F |
+| Feels Like | 78.3 °F |
+| Humidity | 14% |
+| Wind | 7.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,68 +28,54 @@
 
 ## ⚾ MLB
 **Cleveland Guardians** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-10-07T20:00Z  
+Status: Scheduled  
+Time: 2026-10-09T00:00Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
 
 ---
-**Los Angeles Dodgers** vs **Atlanta Braves**  
-Status: Final  
-Time: 2026-10-07T22:00Z  
-Venue: Truist Park  
-Location: Atlanta, Georgia  
-
----
-**Tampa Bay Rays** vs **New York Yankees**  
-Status: Final  
-Time: 2026-10-08T00:00Z  
-Venue: Yankee Stadium  
-Location: Bronx, New York  
-
----
-**Milwaukee Brewers** vs **San Diego Padres**  
-Status: Final  
-Time: 2026-10-08T02:00Z  
-Venue: Petco Park  
-Location: San Diego, California  
-
----
 
 ## 🏀 NBA
-**Minnesota Timberwolves** vs **Indiana Pacers**  
-Status: Final  
-Time: 2026-10-07T23:00Z  
-Venue: Hilton Coliseum  
-Location: Ames, IA  
+**Boston Celtics** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-10-08T23:00Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
 
 ---
-**Orlando Magic** vs **Memphis Grizzlies**  
-Status: Final  
-Time: 2026-10-08T00:00Z  
-Venue: FedExForum  
-Location: Memphis, TN  
+**New Orleans Pelicans** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-10-08T23:30Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
 
 ---
-**Milwaukee Bucks** vs **Oklahoma City Thunder**  
-Status: Final  
-Time: 2026-10-08T00:00Z  
-Venue: Paycom Center  
-Location: Oklahoma City, OK  
+**Philadelphia 76ers** vs **Brooklyn Nets**  
+Status: Scheduled  
+Time: 2026-10-08T23:30Z  
+Venue: Barclays Center  
+Location: Brooklyn, NY  
 
 ---
-**Phoenix Suns** vs **Chicago Bulls**  
-Status: Final  
-Time: 2026-10-08T00:00Z  
-Venue: United Center  
-Location: Chicago, IL  
+**Washington Wizards** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-10-08T23:30Z  
+Venue: Madison Square Garden  
+Location: New York, NY  
 
 ---
-**Golden State Warriors** vs **Portland Trail Blazers**  
-Status: Final  
-Time: 2026-10-08T02:00Z  
-Venue: Moda Center  
-Location: Portland, OR  
+**Atlanta Hawks** vs **San Antonio Spurs**  
+Status: Scheduled  
+Time: 2026-10-09T00:00Z  
+Venue: Frost Bank Center  
+Location: San Antonio, TX  
+
+---
+**Sacramento Kings** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-10-09T02:30Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
 
 ---
 
@@ -206,7 +192,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 08, 2026 at 06:45 AM |
+| Last update | October 08, 2026 at 07:05 PM |
 | Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

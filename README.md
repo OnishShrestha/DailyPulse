@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 84.1 °F |
-| Feels Like | 79.1 °F |
+| Temperature | 84.4 °F |
+| Feels Like | 75.8 °F |
 | Humidity | 10% |
-| Wind | 4.6 mph |
+| Wind | 8.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -164,7 +164,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 09, 2026 at 06:35 PM |
+| Last update | October 09, 2026 at 11:00 PM |
 | Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

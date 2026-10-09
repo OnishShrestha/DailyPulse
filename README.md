@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 58.8 °F |
-| Feels Like | 52.9 °F |
-| Humidity | 34% |
-| Wind | 4.3 mph |
+| Temperature | 84.1 °F |
+| Feels Like | 79.1 °F |
+| Humidity | 10% |
+| Wind | 4.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,55 +27,27 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Cleveland Guardians** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-10-09T00:00Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
+**Chicago White Sox** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-10-11T00:00Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
 
 ---
 
 ## 🏀 NBA
-**Boston Celtics** vs **Cleveland Cavaliers**  
+**Houston Rockets** vs **Dallas Mavericks**  
 Status: Final  
-Time: 2026-10-08T23:00Z  
-Venue: Rocket Arena  
-Location: Cleveland, OH  
+Time: 2026-10-09T12:00Z  
+Venue: Venetian Arena  
+Location: Unknown,   
 
 ---
-**New Orleans Pelicans** vs **Miami Heat**  
-Status: Final  
-Time: 2026-10-08T23:30Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
-
----
-**Philadelphia 76ers** vs **Brooklyn Nets**  
-Status: Final  
-Time: 2026-10-08T23:30Z  
-Venue: Barclays Center  
-Location: Brooklyn, NY  
-
----
-**Washington Wizards** vs **New York Knicks**  
-Status: Final  
-Time: 2026-10-08T23:30Z  
-Venue: Madison Square Garden  
-Location: New York, NY  
-
----
-**Atlanta Hawks** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-10-09T00:00Z  
-Venue: Frost Bank Center  
-Location: San Antonio, TX  
-
----
-**Sacramento Kings** vs **Los Angeles Lakers**  
-Status: Final  
-Time: 2026-10-09T02:45Z  
-Venue: crypto.com Arena  
-Location: Los Angeles, CA  
+**Memphis Grizzlies** vs **Chicago Bulls**  
+Status: Scheduled  
+Time: 2026-10-10T00:00Z  
+Venue: United Center  
+Location: Chicago, IL  
 
 ---
 
@@ -192,7 +164,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 09, 2026 at 06:53 AM |
+| Last update | October 09, 2026 at 06:35 PM |
 | Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 82.8 °F |
-| Feels Like | 75.8 °F |
-| Humidity | 14% |
-| Wind | 6.4 mph |
+| Temperature | 58.8 °F |
+| Feels Like | 52.9 °F |
+| Humidity | 34% |
+| Wind | 4.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Cleveland Guardians** vs **Chicago White Sox**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-09T00:00Z  
 Venue: Rate Field  
 Location: Chicago, Illinois  
@@ -37,43 +37,43 @@ Location: Chicago, Illinois
 
 ## 🏀 NBA
 **Boston Celtics** vs **Cleveland Cavaliers**  
-Status: End of Period  
+Status: Final  
 Time: 2026-10-08T23:00Z  
 Venue: Rocket Arena  
 Location: Cleveland, OH  
 
 ---
 **New Orleans Pelicans** vs **Miami Heat**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T23:30Z  
 Venue: Kaseya Center  
 Location: Miami, FL  
 
 ---
 **Philadelphia 76ers** vs **Brooklyn Nets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T23:30Z  
 Venue: Barclays Center  
 Location: Brooklyn, NY  
 
 ---
 **Washington Wizards** vs **New York Knicks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-08T23:30Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Atlanta Hawks** vs **San Antonio Spurs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-09T00:00Z  
 Venue: Frost Bank Center  
 Location: San Antonio, TX  
 
 ---
 **Sacramento Kings** vs **Los Angeles Lakers**  
-Status: Scheduled  
-Time: 2026-10-09T02:30Z  
+Status: Final  
+Time: 2026-10-09T02:45Z  
 Venue: crypto.com Arena  
 Location: Los Angeles, CA  
 
@@ -81,7 +81,7 @@ Location: Los Angeles, CA
 
 ## 🏈 NFL
 **Tampa Bay Buccaneers** vs **Dallas Cowboys**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-09T00:15Z  
 Venue: AT&T Stadium  
 Location: Arlington, TX  
@@ -192,7 +192,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 08, 2026 at 11:37 PM |
+| Last update | October 09, 2026 at 06:53 AM |
 | Daily location | Denver |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

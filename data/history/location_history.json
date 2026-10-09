@@ -382,5 +382,13 @@
         "latitude": 39.7392,
         "longitude": -104.9903,
         "timezone": "America/Denver"
+    },
+    "2026-10-09": {
+        "city": "Denver",
+        "state": "Colorado",
+        "country": "USA",
+        "latitude": 39.7392,
+        "longitude": -104.9903,
+        "timezone": "America/Denver"
     }
 }

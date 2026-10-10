@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Denver, Colorado
+### Las Vegas, Nevada
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 84.4 °F |
-| Feels Like | 75.8 °F |
-| Humidity | 10% |
-| Wind | 8.1 mph |
+| Temperature | 79.2 °F |
+| Feels Like | 75.7 °F |
+| Humidity | 21% |
+| Wind | 0.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,11 +27,11 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Chicago White Sox** vs **Cleveland Guardians**  
-Status: Scheduled  
-Time: 2026-10-11T00:00Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
+**Cleveland Guardians** vs **Chicago White Sox**  
+Status: Final  
+Time: 2026-10-09T00:00Z  
+Venue: Rate Field  
+Location: Chicago, Illinois  
 
 ---
 
@@ -44,7 +44,7 @@ Location: Unknown,
 
 ---
 **Memphis Grizzlies** vs **Chicago Bulls**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-10T00:00Z  
 Venue: United Center  
 Location: Chicago, IL  
@@ -164,8 +164,8 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 09, 2026 at 11:00 PM |
-| Daily location | Denver |
+| Last update | October 10, 2026 at 06:29 AM |
+| Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

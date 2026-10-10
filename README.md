@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 79.2 °F |
-| Feels Like | 75.7 °F |
-| Humidity | 21% |
-| Wind | 0.7 mph |
+| Temperature | 86.2 °F |
+| Feels Like | 77.3 °F |
+| Humidity | 16% |
+| Wind | 12.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,27 +27,62 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Cleveland Guardians** vs **Chicago White Sox**  
-Status: Final  
-Time: 2026-10-09T00:00Z  
-Venue: Rate Field  
-Location: Chicago, Illinois  
+**Chicago White Sox** vs **Cleveland Guardians**  
+Status: Scheduled  
+Time: 2026-10-11T00:00Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
 
 ---
 
 ## 🏀 NBA
-**Houston Rockets** vs **Dallas Mavericks**  
-Status: Final  
-Time: 2026-10-09T12:00Z  
-Venue: Venetian Arena  
-Location: Unknown,   
+**LA Clippers** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-10-10T22:30Z  
+Venue: Rogers Arena  
+Location: Vancouver, BC  
 
 ---
-**Memphis Grizzlies** vs **Chicago Bulls**  
-Status: Final  
-Time: 2026-10-10T00:00Z  
-Venue: United Center  
-Location: Chicago, IL  
+**Atlanta Hawks** vs **Indiana Pacers**  
+Status: Scheduled  
+Time: 2026-10-10T23:00Z  
+Venue: Gainbridge Fieldhouse  
+Location: Indianapolis, IN  
+
+---
+**Detroit Pistons** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-10-10T23:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
+
+---
+**Minnesota Timberwolves** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-10-11T00:00Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
+
+---
+**Philadelphia 76ers** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-10-11T00:00Z  
+Venue: TD Garden  
+Location: Boston, MA  
+
+---
+**Sacramento Kings** vs **Golden State Warriors**  
+Status: Scheduled  
+Time: 2026-10-11T00:30Z  
+Venue: Chase Center  
+Location: San Francisco, CA  
+
+---
+**San Antonio Spurs** vs **Phoenix Suns**  
+Status: Scheduled  
+Time: 2026-10-11T02:30Z  
+Venue: Mortgage Matchup Center  
+Location: Phoenix, AZ  
 
 ---
 
@@ -164,7 +199,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 10, 2026 at 06:29 AM |
+| Last update | October 10, 2026 at 05:33 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

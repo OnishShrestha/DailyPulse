@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 86.2 °F |
-| Feels Like | 77.3 °F |
-| Humidity | 16% |
-| Wind | 12.9 mph |
+| Temperature | 89.9 °F |
+| Feels Like | 80.4 °F |
+| Humidity | 20% |
+| Wind | 18.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -199,7 +199,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 10, 2026 at 05:33 PM |
+| Last update | October 10, 2026 at 10:11 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

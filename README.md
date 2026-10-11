@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 73.0 °F |
-| Feels Like | 74.7 °F |
-| Humidity | 70% |
-| Wind | 6.4 mph |
+| Temperature | 85.6 °F |
+| Feels Like | 87.7 °F |
+| Humidity | 47% |
+| Wind | 11.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,127 +27,106 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Chicago White Sox** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-10-11T00:00Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
+**Los Angeles Dodgers** vs **Milwaukee Brewers**  
+Status: Scheduled  
+Time: 2026-10-12T00:00Z  
+Venue: American Family Field  
+Location: Milwaukee, Wisconsin  
 
 ---
 
 ## 🏀 NBA
-**LA Clippers** vs **Toronto Raptors**  
+**Dallas Mavericks** vs **Houston Rockets**  
 Status: Final  
-Time: 2026-10-10T22:30Z  
-Venue: Rogers Arena  
-Location: Vancouver, BC  
+Time: 2026-10-11T10:00Z  
+Venue: Venetian Arena  
+Location: Unknown,   
 
 ---
-**Atlanta Hawks** vs **Indiana Pacers**  
-Status: Final  
-Time: 2026-10-10T23:00Z  
-Venue: Gainbridge Fieldhouse  
-Location: Indianapolis, IN  
+**Orlando Magic** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-10-11T22:30Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
 
 ---
-**Detroit Pistons** vs **Washington Wizards**  
-Status: Final  
-Time: 2026-10-10T23:00Z  
-Venue: Capital One Arena  
-Location: Washington, DC  
+**Milwaukee Bucks** vs **Charlotte Hornets**  
+Status: Scheduled  
+Time: 2026-10-11T23:00Z  
+Venue: Spectrum Center  
+Location: Charlotte, NC  
 
 ---
-**Minnesota Timberwolves** vs **Miami Heat**  
-Status: Final  
-Time: 2026-10-11T00:00Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
-
----
-**Philadelphia 76ers** vs **Boston Celtics**  
-Status: Final  
-Time: 2026-10-11T00:00Z  
-Venue: TD Garden  
-Location: Boston, MA  
-
----
-**Sacramento Kings** vs **Golden State Warriors**  
-Status: Final  
-Time: 2026-10-11T00:30Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
-
----
-**San Antonio Spurs** vs **Phoenix Suns**  
-Status: Final  
-Time: 2026-10-11T02:30Z  
-Venue: Mortgage Matchup Center  
-Location: Phoenix, AZ  
+**Chicago Bulls** vs **Denver Nuggets**  
+Status: Scheduled  
+Time: 2026-10-12T01:00Z  
+Venue: Ball Arena  
+Location: Denver, CO  
 
 ---
 
 ## 🏈 NFL
-**Philadelphia Eagles** vs **Jacksonville Jaguars**  
-Status: Scheduled  
-Time: 2026-10-11T13:30Z  
-Venue: Tottenham Hotspur Stadium  
-Location: London,   
-
----
 **Chicago Bears** vs **Green Bay Packers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: Lambeau Field  
 Location: Green Bay, WI  
 
 ---
 **Houston Texans** vs **Tennessee Titans**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: Nissan Stadium  
 Location: Nashville, TN  
 
 ---
 **Cincinnati Bengals** vs **Miami Dolphins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: Hard Rock Stadium  
 Location: Miami Gardens, FL  
 
 ---
 **Las Vegas Raiders** vs **New England Patriots**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: Gillette Stadium  
 Location: Foxborough, MA  
 
 ---
 **Minnesota Vikings** vs **New Orleans Saints**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: Caesars Superdome  
 Location: New Orleans, LA  
 
 ---
 **Cleveland Browns** vs **New York Jets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
 
 ---
 **Indianapolis Colts** vs **Pittsburgh Steelers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: Acrisure Stadium  
 Location: Pittsburgh, PA  
 
 ---
 **New York Giants** vs **Washington Commanders**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-11T17:00Z  
 Venue: Northwest Stadium  
 Location: Landover, MD  
+
+---
+**Philadelphia Eagles** vs **Jacksonville Jaguars**  
+Status: Final  
+Time: 2026-10-11T13:30Z  
+Venue: Tottenham Hotspur Stadium  
+Location: London,   
 
 ---
 **Denver Broncos** vs **Los Angeles Chargers**  
@@ -199,7 +178,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 11, 2026 at 06:35 AM |
+| Last update | October 11, 2026 at 05:51 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

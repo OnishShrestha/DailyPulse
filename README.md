@@ -16,11 +16,11 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.2 °F |
-| Feels Like | 62.6 °F |
-| Humidity | 65% |
-| Wind | 2.5 mph |
-| Precipitation | 0.0 in |
+| Temperature | 63.1 °F |
+| Feels Like | 59.9 °F |
+| Humidity | 67% |
+| Wind | 8.8 mph |
+| Precipitation | 0.004 in |
 
 ---
 
@@ -28,40 +28,54 @@
 
 ## ⚾ MLB
 **Los Angeles Dodgers** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-10-12T00:00Z  
+Status: In Progress  
+Time: 2026-10-12T21:00Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
+**Cleveland Guardians** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-10-13T00:00Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
+
+---
 
 ## 🏀 NBA
-**Dallas Mavericks** vs **Houston Rockets**  
-Status: Final  
-Time: 2026-10-11T10:00Z  
-Venue: Venetian Arena  
-Location: Unknown,   
+**London Lions** vs **Portland Trail Blazers**  
+Status: In Progress  
+Time: 2026-10-12T20:00Z  
+Venue: Moda Center  
+Location: Portland, OR  
 
 ---
-**Orlando Magic** vs **Cleveland Cavaliers**  
-Status: Final  
-Time: 2026-10-11T22:30Z  
-Venue: Rocket Arena  
-Location: Cleveland, OH  
+**Oklahoma City Thunder** vs **Atlanta Hawks**  
+Status: Scheduled  
+Time: 2026-10-12T23:00Z  
+Venue: State Farm Arena  
+Location: Atlanta, GA  
 
 ---
-**Milwaukee Bucks** vs **Charlotte Hornets**  
-Status: Final  
-Time: 2026-10-11T23:00Z  
-Venue: Spectrum Center  
-Location: Charlotte, NC  
+**Brooklyn Nets** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-10-12T23:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
 
 ---
-**Chicago Bulls** vs **Denver Nuggets**  
-Status: Final  
-Time: 2026-10-12T01:00Z  
-Venue: Ball Arena  
-Location: Denver, CO  
+**Minnesota Timberwolves** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-10-12T23:30Z  
+Venue: Madison Square Garden  
+Location: New York, NY  
+
+---
+**San Antonio Spurs** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-10-13T01:00Z  
+Venue: Delta Center  
+Location: Salt Lake City, UT  
 
 ---
 
@@ -178,7 +192,7 @@ Location: Atlanta, GA
 
 | Item | Value |
 |---|---|
-| Last update | October 12, 2026 at 06:40 AM |
+| Last update | October 12, 2026 at 09:29 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

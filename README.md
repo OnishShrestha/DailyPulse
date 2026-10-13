@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 57.1 °F |
-| Feels Like | 57.5 °F |
-| Humidity | 94% |
-| Wind | 3.1 mph |
+| Temperature | 73.5 °F |
+| Feels Like | 75.4 °F |
+| Humidity | 74% |
+| Wind | 8.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,55 +27,48 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Los Angeles Dodgers** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-10-12T21:00Z  
-Venue: American Family Field  
-Location: Milwaukee, Wisconsin  
-
----
 **Cleveland Guardians** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-10-13T00:00Z  
+Status: Scheduled  
+Time: 2026-10-14T00:00Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 
 ## 🏀 NBA
-**London Lions** vs **Portland Trail Blazers**  
-Status: Final  
-Time: 2026-10-12T20:00Z  
-Venue: Moda Center  
-Location: Portland, OR  
+**Cleveland Cavaliers** vs **Orlando Magic**  
+Status: Scheduled  
+Time: 2026-10-13T23:00Z  
+Venue: Kia Center  
+Location: Orlando, FL  
 
 ---
-**Oklahoma City Thunder** vs **Atlanta Hawks**  
-Status: Final  
-Time: 2026-10-12T23:00Z  
-Venue: State Farm Arena  
-Location: Atlanta, GA  
+**New York Knicks** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-10-13T23:00Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
 
 ---
-**Brooklyn Nets** vs **Washington Wizards**  
-Status: Final  
-Time: 2026-10-12T23:00Z  
-Venue: Capital One Arena  
-Location: Washington, DC  
+**Indiana Pacers** vs **Oklahoma City Thunder**  
+Status: Scheduled  
+Time: 2026-10-14T00:00Z  
+Venue: Paycom Center  
+Location: Oklahoma City, OK  
 
 ---
-**Minnesota Timberwolves** vs **New York Knicks**  
-Status: Final  
-Time: 2026-10-12T23:30Z  
-Venue: Madison Square Garden  
-Location: New York, NY  
+**Golden State Warriors** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-10-14T02:00Z  
+Venue: T-Mobile Arena  
+Location: Las Vegas, NV  
 
 ---
-**San Antonio Spurs** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-10-13T01:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
+**Portland Trail Blazers** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-10-14T02:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
@@ -192,7 +185,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 13, 2026 at 07:11 AM |
+| Last update | October 13, 2026 at 07:40 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

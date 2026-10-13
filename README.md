@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 73.5 °F |
-| Feels Like | 75.4 °F |
-| Humidity | 74% |
-| Wind | 8.4 mph |
+| Temperature | 68.8 °F |
+| Feels Like | 71.0 °F |
+| Humidity | 84% |
+| Wind | 6.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -185,7 +185,7 @@ Location: Inglewood, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 13, 2026 at 07:40 PM |
+| Last update | October 13, 2026 at 11:10 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

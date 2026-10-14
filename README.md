@@ -16,11 +16,11 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 81.5 °F |
-| Feels Like | 87.5 °F |
-| Humidity | 80% |
-| Wind | 11.0 mph |
-| Precipitation | 0.114 in |
+| Temperature | 82.4 °F |
+| Feels Like | 89.3 °F |
+| Humidity | 78% |
+| Wind | 9.3 mph |
+| Precipitation | 0.0 in |
 
 ---
 
@@ -192,7 +192,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 14, 2026 at 05:41 PM |
+| Last update | October 14, 2026 at 10:02 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

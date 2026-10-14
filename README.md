@@ -16,59 +16,73 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 76.5 °F |
-| Feels Like | 81.1 °F |
-| Humidity | 75% |
-| Wind | 5.5 mph |
-| Precipitation | 0.0 in |
+| Temperature | 81.5 °F |
+| Feels Like | 87.5 °F |
+| Humidity | 80% |
+| Wind | 11.0 mph |
+| Precipitation | 0.114 in |
 
 ---
 
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Cleveland Guardians** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-10-14T00:00Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
+**Milwaukee Brewers** vs **Los Angeles Dodgers**  
+Status: Scheduled  
+Time: 2026-10-15T00:00Z  
+Venue: Dodger Stadium  
+Location: Los Angeles, California  
 
 ---
 
 ## 🏀 NBA
-**Cleveland Cavaliers** vs **Orlando Magic**  
-Status: Final  
-Time: 2026-10-13T23:00Z  
-Venue: Kia Center  
-Location: Orlando, FL  
+**Brooklyn Nets** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-10-14T23:30Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
 
 ---
-**New York Knicks** vs **Toronto Raptors**  
-Status: Final  
-Time: 2026-10-13T23:00Z  
-Venue: Scotiabank Arena  
-Location: Toronto, ON  
+**Charlotte Hornets** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-10-14T23:30Z  
+Venue: TD Garden  
+Location: Boston, MA  
 
 ---
-**Indiana Pacers** vs **Oklahoma City Thunder**  
-Status: Final  
-Time: 2026-10-14T00:00Z  
-Venue: Paycom Center  
-Location: Oklahoma City, OK  
+**Phoenix Suns** vs **San Antonio Spurs**  
+Status: Scheduled  
+Time: 2026-10-15T00:00Z  
+Venue: Frost Bank Center  
+Location: San Antonio, TX  
 
 ---
-**Golden State Warriors** vs **Los Angeles Lakers**  
-Status: Final  
-Time: 2026-10-14T02:00Z  
-Venue: T-Mobile Arena  
-Location: Las Vegas, NV  
+**New Orleans Pelicans** vs **Dallas Mavericks**  
+Status: Scheduled  
+Time: 2026-10-15T00:00Z  
+Venue: American Airlines Center  
+Location: Dallas, TX  
 
 ---
-**Portland Trail Blazers** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-10-14T02:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**Chicago Bulls** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-10-15T00:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
+
+---
+**Detroit Pistons** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-10-15T00:00Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
+
+---
+**Denver Nuggets** vs **LA Clippers**  
+Status: Scheduled  
+Time: 2026-10-15T02:30Z  
+Venue: Intuit Dome  
+Location: Inglewood, CA  
 
 ---
 
@@ -178,7 +192,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 14, 2026 at 05:34 AM |
+| Last update | October 14, 2026 at 05:41 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

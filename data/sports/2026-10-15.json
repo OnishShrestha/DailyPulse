@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-15T17:31:51.099368",
+    "timestamp": "2026-10-15T21:55:03.991755",
     "location": {
         "city": "Philadelphia",
         "state": "Pennsylvania",
@@ -15,15 +15,15 @@
                 "name": "Tampa Bay Rays at Cleveland Guardians",
                 "short_name": "TB @ CLE",
                 "date": "2026-10-15T17:00Z",
-                "status": "In Progress",
+                "status": "Final",
                 "state": "Ohio",
-                "detail": "Middle 2nd",
+                "detail": "Final",
                 "home_team": "Cleveland Guardians",
                 "home_abbreviation": "CLE",
-                "home_score": "0",
+                "home_score": "3",
                 "away_team": "Tampa Bay Rays",
                 "away_abbreviation": "TB",
-                "away_score": "0",
+                "away_score": "2",
                 "venue": "Progressive Field",
                 "city": "Cleveland"
             },

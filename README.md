@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 66.0 °F |
-| Feels Like | 65.3 °F |
-| Humidity | 79% |
-| Wind | 9.0 mph |
+| Temperature | 64.3 °F |
+| Feels Like | 62.1 °F |
+| Humidity | 57% |
+| Wind | 7.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,62 +27,34 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
+**Tampa Bay Rays** vs **Cleveland Guardians**  
+Status: In Progress  
+Time: 2026-10-15T17:00Z  
+Venue: Progressive Field  
+Location: Cleveland, Ohio  
+
+---
 **Milwaukee Brewers** vs **Los Angeles Dodgers**  
-Status: Final  
-Time: 2026-10-15T00:00Z  
+Status: Scheduled  
+Time: 2026-10-16T00:00Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
 
 ---
 
 ## 🏀 NBA
-**Brooklyn Nets** vs **Miami Heat**  
-Status: Final  
-Time: 2026-10-14T23:30Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
+**Toronto Raptors** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-10-15T23:30Z  
+Venue: Madison Square Garden  
+Location: New York, NY  
 
 ---
-**Charlotte Hornets** vs **Boston Celtics**  
-Status: Final  
-Time: 2026-10-14T23:30Z  
-Venue: TD Garden  
-Location: Boston, MA  
-
----
-**Phoenix Suns** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-10-15T00:00Z  
-Venue: Frost Bank Center  
-Location: San Antonio, TX  
-
----
-**New Orleans Pelicans** vs **Dallas Mavericks**  
-Status: Final  
-Time: 2026-10-15T00:00Z  
-Venue: American Airlines Center  
-Location: Dallas, TX  
-
----
-**Chicago Bulls** vs **Milwaukee Bucks**  
-Status: Final  
-Time: 2026-10-15T00:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
-
----
-**Detroit Pistons** vs **Minnesota Timberwolves**  
-Status: Final  
-Time: 2026-10-15T00:00Z  
-Venue: Target Center  
-Location: Minneapolis, MN  
-
----
-**Denver Nuggets** vs **LA Clippers**  
-Status: Final  
-Time: 2026-10-15T02:30Z  
-Venue: Intuit Dome  
-Location: Inglewood, CA  
+**Oklahoma City Thunder** vs **Houston Rockets**  
+Status: Scheduled  
+Time: 2026-10-16T00:30Z  
+Venue: Toyota Center (Houston)  
+Location: Houston, TX  
 
 ---
 
@@ -192,7 +164,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 15, 2026 at 05:22 AM |
+| Last update | October 15, 2026 at 05:31 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

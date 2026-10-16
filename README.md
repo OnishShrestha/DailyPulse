@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Philadelphia, Pennsylvania
+### San Francisco, California
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 65.0 °F |
-| Feels Like | 63.0 °F |
-| Humidity | 62% |
-| Wind | 5.8 mph |
+| Temperature | 66.2 °F |
+| Feels Like | 60.2 °F |
+| Humidity | 33% |
+| Wind | 6.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -35,7 +35,7 @@ Location: Cleveland, Ohio
 
 ---
 **Milwaukee Brewers** vs **Los Angeles Dodgers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-16T00:00Z  
 Venue: Dodger Stadium  
 Location: Los Angeles, California  
@@ -44,14 +44,14 @@ Location: Los Angeles, California
 
 ## 🏀 NBA
 **Toronto Raptors** vs **New York Knicks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-15T23:30Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Oklahoma City Thunder** vs **Houston Rockets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-16T00:30Z  
 Venue: Toyota Center (Houston)  
 Location: Houston, TX  
@@ -60,7 +60,7 @@ Location: Houston, TX
 
 ## 🏈 NFL
 **Seattle Seahawks** vs **Denver Broncos**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-16T00:15Z  
 Venue: Empower Field at Mile High  
 Location: Denver, CO  
@@ -164,8 +164,8 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 15, 2026 at 09:55 PM |
-| Daily location | Philadelphia |
+| Last update | October 16, 2026 at 05:14 AM |
+| Daily location | San Francisco |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

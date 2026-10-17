@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 56.7 °F |
-| Feels Like | 55.5 °F |
-| Humidity | 90% |
-| Wind | 5.5 mph |
+| Temperature | 57.6 °F |
+| Feels Like | 56.0 °F |
+| Humidity | 79% |
+| Wind | 4.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -164,7 +164,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 17, 2026 at 04:02 PM |
+| Last update | October 17, 2026 at 09:13 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

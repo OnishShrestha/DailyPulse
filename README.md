@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 57.3 °F |
-| Feels Like | 54.4 °F |
-| Humidity | 72% |
-| Wind | 5.9 mph |
+| Temperature | 56.7 °F |
+| Feels Like | 55.5 °F |
+| Humidity | 90% |
+| Wind | 5.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,96 +28,33 @@
 
 ## ⚾ MLB
 **Tampa Bay Rays** vs **Cleveland Guardians**  
-Status: Postponed  
-Time: 2026-10-17T00:00Z  
+Status: Scheduled  
+Time: 2026-10-18T00:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
 ---
 
 ## 🏀 NBA
-**Miami Heat** vs **Orlando Magic**  
-Status: Final  
-Time: 2026-10-16T23:00Z  
-Venue: Kia Center  
-Location: Orlando, FL  
-
----
-**Boston Celtics** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-10-16T23:00Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
-
----
-**Toronto Raptors** vs **Detroit Pistons**  
-Status: Final  
-Time: 2026-10-16T23:00Z  
+**Boston Celtics** vs **Detroit Pistons**  
+Status: Scheduled  
+Time: 2026-10-20T19:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
-**Milwaukee Bucks** vs **Indiana Pacers**  
-Status: Final  
-Time: 2026-10-16T23:00Z  
-Venue: Gainbridge Fieldhouse  
-Location: Indianapolis, IN  
+**Philadelphia 76ers** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-10-20T23:00Z  
+Venue: Madison Square Garden  
+Location: New York, NY  
 
 ---
-**Atlanta Hawks** vs **Dallas Mavericks**  
-Status: Final  
-Time: 2026-10-17T00:00Z  
-Venue: American Airlines Center  
-Location: Dallas, TX  
-
----
-**Sacramento Kings** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-10-17T00:00Z  
+**Oklahoma City Thunder** vs **San Antonio Spurs**  
+Status: Scheduled  
+Time: 2026-10-21T01:30Z  
 Venue: Frost Bank Center  
 Location: San Antonio, TX  
-
----
-**Charlotte Hornets** vs **Memphis Grizzlies**  
-Status: Final  
-Time: 2026-10-17T00:00Z  
-Venue: FedExForum  
-Location: Memphis, TN  
-
----
-**Washington Wizards** vs **New Orleans Pelicans**  
-Status: Final  
-Time: 2026-10-17T00:00Z  
-Venue: Smoothie King Center  
-Location: New Orleans, LA  
-
----
-**Minnesota Timberwolves** vs **Chicago Bulls**  
-Status: Final  
-Time: 2026-10-17T00:00Z  
-Venue: United Center  
-Location: Chicago, IL  
-
----
-**Portland Trail Blazers** vs **Golden State Warriors**  
-Status: Final  
-Time: 2026-10-17T02:00Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
-
----
-**Utah Jazz** vs **Phoenix Suns**  
-Status: Final  
-Time: 2026-10-17T02:00Z  
-Venue: Mortgage Matchup Center  
-Location: Phoenix, AZ  
-
----
-**Denver Nuggets** vs **Los Angeles Lakers**  
-Status: Final  
-Time: 2026-10-17T02:30Z  
-Venue: crypto.com Arena  
-Location: Los Angeles, CA  
 
 ---
 
@@ -227,7 +164,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 17, 2026 at 05:09 AM |
+| Last update | October 17, 2026 at 04:02 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

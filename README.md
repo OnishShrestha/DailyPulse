@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 55.0 °F |
-| Feels Like | 51.1 °F |
-| Humidity | 68% |
-| Wind | 6.1 mph |
+| Temperature | 64.4 °F |
+| Feels Like | 61.8 °F |
+| Humidity | 46% |
+| Wind | 5.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,8 +28,8 @@
 
 ## ⚾ MLB
 **Tampa Bay Rays** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-10-18T00:00Z  
+Status: Scheduled  
+Time: 2026-10-18T21:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
 
@@ -60,7 +60,7 @@ Location: San Antonio, TX
 
 ## 🏈 NFL
 **Houston Texans** vs **Jacksonville Jaguars**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-18T13:30Z  
 Venue: Wembley Stadium  
 Location: London,   
@@ -164,7 +164,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 18, 2026 at 05:14 AM |
+| Last update | October 18, 2026 at 04:16 PM |
 | Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-18T05:14:27.780871",
+    "timestamp": "2026-10-18T16:16:06.698987",
     "location": {
         "city": "Houston",
         "state": "Texas",
@@ -11,19 +11,19 @@
     "sports": {
         "MLB": [
             {
-                "id": "401908027",
+                "id": "401930515",
                 "name": "Tampa Bay Rays at Cleveland Guardians",
                 "short_name": "TB @ CLE",
-                "date": "2026-10-18T00:00Z",
-                "status": "Final",
+                "date": "2026-10-18T21:00Z",
+                "status": "Scheduled",
                 "state": "Ohio",
-                "detail": "Final",
+                "detail": "Scheduled",
                 "home_team": "Cleveland Guardians",
                 "home_abbreviation": "CLE",
-                "home_score": "3",
+                "home_score": "0",
                 "away_team": "Tampa Bay Rays",
                 "away_abbreviation": "TB",
-                "away_score": "7",
+                "away_score": "0",
                 "venue": "Progressive Field",
                 "city": "Cleveland"
             }
@@ -87,15 +87,15 @@
                 "name": "Houston Texans at Jacksonville Jaguars",
                 "short_name": "HOU VS JAX",
                 "date": "2026-10-18T13:30Z",
-                "status": "Scheduled",
+                "status": "In Progress",
                 "state": "",
-                "detail": "Sun, October 18th at 9:30 AM EDT",
+                "detail": "11:26 - 4th Quarter",
                 "home_team": "Jacksonville Jaguars",
                 "home_abbreviation": "JAX",
-                "home_score": "0",
+                "home_score": "28",
                 "away_team": "Houston Texans",
                 "away_abbreviation": "HOU",
-                "away_score": "0",
+                "away_score": "31",
                 "venue": "Wembley Stadium",
                 "city": "London"
             },

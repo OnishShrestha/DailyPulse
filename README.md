@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 64.4 °F |
-| Feels Like | 61.8 °F |
-| Humidity | 46% |
-| Wind | 5.6 mph |
+| Temperature | 72.0 °F |
+| Feels Like | 68.9 °F |
+| Humidity | 40% |
+| Wind | 5.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Tampa Bay Rays** vs **Cleveland Guardians**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-18T21:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
@@ -59,81 +59,81 @@ Location: San Antonio, TX
 ---
 
 ## 🏈 NFL
-**Houston Texans** vs **Jacksonville Jaguars**  
-Status: In Progress  
-Time: 2026-10-18T13:30Z  
-Venue: Wembley Stadium  
-Location: London,   
-
----
-**Chicago Bears** vs **Atlanta Falcons**  
-Status: Scheduled  
-Time: 2026-10-18T17:00Z  
-Venue: Mercedes-Benz Stadium  
-Location: Atlanta, GA  
-
----
-**Baltimore Ravens** vs **Cleveland Browns**  
-Status: Scheduled  
-Time: 2026-10-18T17:00Z  
-Venue: Huntington Bank Field  
-Location: Cleveland, OH  
-
----
-**Tennessee Titans** vs **Indianapolis Colts**  
-Status: Scheduled  
-Time: 2026-10-18T17:00Z  
-Venue: Lucas Oil Stadium  
-Location: Indianapolis, IN  
-
----
-**New York Jets** vs **New England Patriots**  
-Status: Scheduled  
-Time: 2026-10-18T17:00Z  
-Venue: Gillette Stadium  
-Location: Foxborough, MA  
-
----
-**New Orleans Saints** vs **New York Giants**  
-Status: Scheduled  
-Time: 2026-10-18T17:00Z  
-Venue: MetLife Stadium  
-Location: East Rutherford, NJ  
-
----
-**Carolina Panthers** vs **Philadelphia Eagles**  
-Status: Scheduled  
-Time: 2026-10-18T17:00Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
-
----
-**Pittsburgh Steelers** vs **Tampa Bay Buccaneers**  
-Status: Scheduled  
-Time: 2026-10-18T17:00Z  
-Venue: Raymond James Stadium  
-Location: Tampa, FL  
-
----
 **Arizona Cardinals** vs **Los Angeles Rams**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-18T20:05Z  
 Venue: SoFi Stadium  
 Location: Inglewood, CA  
 
 ---
 **Los Angeles Chargers** vs **Kansas City Chiefs**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-18T20:25Z  
 Venue: Arrowhead Stadium  
 Location: Kansas City, MO  
 
 ---
 **Buffalo Bills** vs **Las Vegas Raiders**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-18T20:25Z  
 Venue: Allegiant Stadium  
 Location: Las Vegas, NV  
+
+---
+**Houston Texans** vs **Jacksonville Jaguars**  
+Status: Final  
+Time: 2026-10-18T13:30Z  
+Venue: Wembley Stadium  
+Location: London,   
+
+---
+**Chicago Bears** vs **Atlanta Falcons**  
+Status: Final  
+Time: 2026-10-18T17:00Z  
+Venue: Mercedes-Benz Stadium  
+Location: Atlanta, GA  
+
+---
+**Baltimore Ravens** vs **Cleveland Browns**  
+Status: Final  
+Time: 2026-10-18T17:00Z  
+Venue: Huntington Bank Field  
+Location: Cleveland, OH  
+
+---
+**Tennessee Titans** vs **Indianapolis Colts**  
+Status: Final  
+Time: 2026-10-18T17:00Z  
+Venue: Lucas Oil Stadium  
+Location: Indianapolis, IN  
+
+---
+**New York Jets** vs **New England Patriots**  
+Status: Final  
+Time: 2026-10-18T17:00Z  
+Venue: Gillette Stadium  
+Location: Foxborough, MA  
+
+---
+**New Orleans Saints** vs **New York Giants**  
+Status: Final  
+Time: 2026-10-18T17:00Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
+
+---
+**Carolina Panthers** vs **Philadelphia Eagles**  
+Status: Final  
+Time: 2026-10-18T17:00Z  
+Venue: Lincoln Financial Field  
+Location: Philadelphia, PA  
+
+---
+**Pittsburgh Steelers** vs **Tampa Bay Buccaneers**  
+Status: Final  
+Time: 2026-10-18T17:00Z  
+Venue: Raymond James Stadium  
+Location: Tampa, FL  
 
 ---
 **Dallas Cowboys** vs **Green Bay Packers**  
@@ -164,7 +164,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 18, 2026 at 04:16 PM |
+| Last update | October 18, 2026 at 09:14 PM |
 | Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.0 °F |
-| Feels Like | 58.7 °F |
+| Temperature | 63.1 °F |
+| Feels Like | 59.0 °F |
 | Humidity | 43% |
-| Wind | 4.9 mph |
+| Wind | 4.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -164,7 +164,7 @@ Location: Green Bay, WI
 
 | Item | Value |
 |---|---|
-| Last update | October 19, 2026 at 06:55 PM |
+| Last update | October 19, 2026 at 10:47 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

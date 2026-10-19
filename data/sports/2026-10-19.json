@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-19T05:26:16.222402",
+    "timestamp": "2026-10-19T18:55:15.563298",
     "location": {
         "city": "Minneapolis",
         "state": "Minnesota",
@@ -11,21 +11,21 @@
     "sports": {
         "MLB": [
             {
-                "id": "401930515",
-                "name": "Tampa Bay Rays at Cleveland Guardians",
-                "short_name": "TB @ CLE",
-                "date": "2026-10-18T21:00Z",
-                "status": "Final",
-                "state": "Ohio",
-                "detail": "Final",
-                "home_team": "Cleveland Guardians",
-                "home_abbreviation": "CLE",
-                "home_score": "1",
-                "away_team": "Tampa Bay Rays",
-                "away_abbreviation": "TB",
-                "away_score": "3",
-                "venue": "Progressive Field",
-                "city": "Cleveland"
+                "id": "401908028",
+                "name": "Cleveland Guardians at Tampa Bay Rays",
+                "short_name": "CLE @ TB",
+                "date": "2026-10-20T00:00Z",
+                "status": "Scheduled",
+                "state": "Florida",
+                "detail": "Scheduled",
+                "home_team": "Tampa Bay Rays",
+                "home_abbreviation": "TB",
+                "home_score": "0",
+                "away_team": "Cleveland Guardians",
+                "away_abbreviation": "CLE",
+                "away_score": "0",
+                "venue": "Tropicana Field",
+                "city": "St. Petersburg"
             }
         ],
         "NBA": [

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 48.5 °F |
-| Feels Like | 44.2 °F |
-| Humidity | 64% |
-| Wind | 3.1 mph |
+| Temperature | 63.0 °F |
+| Feels Like | 58.7 °F |
+| Humidity | 43% |
+| Wind | 4.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,11 +27,11 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Tampa Bay Rays** vs **Cleveland Guardians**  
-Status: Final  
-Time: 2026-10-18T21:00Z  
-Venue: Progressive Field  
-Location: Cleveland, Ohio  
+**Cleveland Guardians** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-10-20T00:00Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
 
 ---
 
@@ -164,7 +164,7 @@ Location: Green Bay, WI
 
 | Item | Value |
 |---|---|
-| Last update | October 19, 2026 at 05:26 AM |
+| Last update | October 19, 2026 at 06:55 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

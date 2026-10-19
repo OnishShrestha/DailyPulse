@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Houston, Texas
+### Minneapolis, Minnesota
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 72.0 °F |
-| Feels Like | 68.9 °F |
-| Humidity | 40% |
-| Wind | 5.0 mph |
+| Temperature | 48.5 °F |
+| Feels Like | 44.2 °F |
+| Humidity | 64% |
+| Wind | 3.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Tampa Bay Rays** vs **Cleveland Guardians**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-18T21:00Z  
 Venue: Progressive Field  
 Location: Cleveland, Ohio  
@@ -59,25 +59,18 @@ Location: San Antonio, TX
 ---
 
 ## 🏈 NFL
-**Arizona Cardinals** vs **Los Angeles Rams**  
-Status: In Progress  
-Time: 2026-10-18T20:05Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
+**Washington Commanders** vs **San Francisco 49ers**  
+Status: Scheduled  
+Time: 2026-10-20T00:15Z  
+Venue: Levi's Stadium  
+Location: Santa Clara, CA  
 
 ---
-**Los Angeles Chargers** vs **Kansas City Chiefs**  
-Status: In Progress  
-Time: 2026-10-18T20:25Z  
-Venue: Arrowhead Stadium  
-Location: Kansas City, MO  
-
----
-**Buffalo Bills** vs **Las Vegas Raiders**  
-Status: In Progress  
-Time: 2026-10-18T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
+**Seattle Seahawks** vs **Denver Broncos**  
+Status: Final  
+Time: 2026-10-16T00:15Z  
+Venue: Empower Field at Mile High  
+Location: Denver, CO  
 
 ---
 **Houston Texans** vs **Jacksonville Jaguars**  
@@ -136,25 +129,32 @@ Venue: Raymond James Stadium
 Location: Tampa, FL  
 
 ---
+**Arizona Cardinals** vs **Los Angeles Rams**  
+Status: Final  
+Time: 2026-10-18T20:05Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
+**Los Angeles Chargers** vs **Kansas City Chiefs**  
+Status: Final  
+Time: 2026-10-18T20:25Z  
+Venue: Arrowhead Stadium  
+Location: Kansas City, MO  
+
+---
+**Buffalo Bills** vs **Las Vegas Raiders**  
+Status: Final  
+Time: 2026-10-18T20:25Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
 **Dallas Cowboys** vs **Green Bay Packers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-19T00:20Z  
 Venue: Lambeau Field  
 Location: Green Bay, WI  
-
----
-**Seattle Seahawks** vs **Denver Broncos**  
-Status: Final  
-Time: 2026-10-16T00:15Z  
-Venue: Empower Field at Mile High  
-Location: Denver, CO  
-
----
-**Washington Commanders** vs **San Francisco 49ers**  
-Status: Scheduled  
-Time: 2026-10-20T00:15Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
 
 ---
 
@@ -164,8 +164,8 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 18, 2026 at 09:14 PM |
-| Daily location | Houston |
+| Last update | October 19, 2026 at 05:26 AM |
+| Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Minneapolis, Minnesota
+### Chicago, Illinois
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.1 °F |
-| Feels Like | 59.0 °F |
-| Humidity | 43% |
-| Wind | 4.0 mph |
+| Temperature | 46.3 °F |
+| Feels Like | 42.1 °F |
+| Humidity | 87% |
+| Wind | 5.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Cleveland Guardians** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-20T00:00Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
@@ -59,13 +59,6 @@ Location: San Antonio, TX
 ---
 
 ## 🏈 NFL
-**Washington Commanders** vs **San Francisco 49ers**  
-Status: Scheduled  
-Time: 2026-10-20T00:15Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
-
----
 **Seattle Seahawks** vs **Denver Broncos**  
 Status: Final  
 Time: 2026-10-16T00:15Z  
@@ -157,6 +150,13 @@ Venue: Lambeau Field
 Location: Green Bay, WI  
 
 ---
+**Washington Commanders** vs **San Francisco 49ers**  
+Status: Final  
+Time: 2026-10-20T00:15Z  
+Venue: Levi's Stadium  
+Location: Santa Clara, CA  
+
+---
 
 ---
 
@@ -164,8 +164,8 @@ Location: Green Bay, WI
 
 | Item | Value |
 |---|---|
-| Last update | October 19, 2026 at 10:47 PM |
-| Daily location | Minneapolis |
+| Last update | October 20, 2026 at 05:28 AM |
+| Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

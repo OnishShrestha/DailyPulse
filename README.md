@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 61.9 °F |
-| Feels Like | 61.2 °F |
-| Humidity | 68% |
-| Wind | 4.6 mph |
+| Temperature | 59.9 °F |
+| Feels Like | 57.8 °F |
+| Humidity | 75% |
+| Wind | 6.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,7 +37,7 @@ Location: Milwaukee, Wisconsin
 
 ## 🏀 NBA
 **Boston Celtics** vs **Detroit Pistons**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-20T19:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
@@ -164,7 +164,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 20, 2026 at 05:39 PM |
+| Last update | October 20, 2026 at 10:04 PM |
 | Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 46.3 °F |
-| Feels Like | 42.1 °F |
-| Humidity | 87% |
-| Wind | 5.5 mph |
+| Temperature | 61.9 °F |
+| Feels Like | 61.2 °F |
+| Humidity | 68% |
+| Wind | 4.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,11 +27,11 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Cleveland Guardians** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-10-20T00:00Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
+**Tampa Bay Rays** vs **Milwaukee Brewers**  
+Status: Scheduled  
+Time: 2026-10-24T00:00Z  
+Venue: American Family Field  
+Location: Milwaukee, Wisconsin  
 
 ---
 
@@ -164,7 +164,7 @@ Location: Santa Clara, CA
 
 | Item | Value |
 |---|---|
-| Last update | October 20, 2026 at 05:28 AM |
+| Last update | October 20, 2026 at 05:39 PM |
 | Daily location | Chicago |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

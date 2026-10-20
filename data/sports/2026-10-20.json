@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-20T05:28:08.262160",
+    "timestamp": "2026-10-20T17:39:46.384966",
     "location": {
         "city": "Chicago",
         "state": "Illinois",
@@ -11,21 +11,21 @@
     "sports": {
         "MLB": [
             {
-                "id": "401908028",
-                "name": "Cleveland Guardians at Tampa Bay Rays",
-                "short_name": "CLE @ TB",
-                "date": "2026-10-20T00:00Z",
-                "status": "Final",
-                "state": "Florida",
-                "detail": "Final",
-                "home_team": "Tampa Bay Rays",
-                "home_abbreviation": "TB",
-                "home_score": "7",
-                "away_team": "Cleveland Guardians",
-                "away_abbreviation": "CLE",
-                "away_score": "3",
-                "venue": "Tropicana Field",
-                "city": "St. Petersburg"
+                "id": "401908042",
+                "name": "Tampa Bay Rays at Milwaukee Brewers",
+                "short_name": "TB @ MIL",
+                "date": "2026-10-24T00:00Z",
+                "status": "Scheduled",
+                "state": "Wisconsin",
+                "detail": "Scheduled",
+                "home_team": "Milwaukee Brewers",
+                "home_abbreviation": "MIL",
+                "home_score": "0",
+                "away_team": "Tampa Bay Rays",
+                "away_abbreviation": "TB",
+                "away_score": "0",
+                "venue": "American Family Field",
+                "city": "Milwaukee"
             }
         ],
         "NBA": [

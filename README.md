@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 52.3 °F |
-| Feels Like | 47.3 °F |
-| Humidity | 58% |
-| Wind | 5.0 mph |
+| Temperature | 73.6 °F |
+| Feels Like | 72.7 °F |
+| Humidity | 30% |
+| Wind | 2.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,25 +36,81 @@ Location: Milwaukee, Wisconsin
 ---
 
 ## 🏀 NBA
-**Boston Celtics** vs **Detroit Pistons**  
-Status: Final  
-Time: 2026-10-20T19:00Z  
-Venue: Little Caesars Arena  
-Location: Detroit, MI  
+**Atlanta Hawks** vs **Orlando Magic**  
+Status: Scheduled  
+Time: 2026-10-21T23:00Z  
+Venue: Kia Center  
+Location: Orlando, FL  
 
 ---
-**Philadelphia 76ers** vs **New York Knicks**  
-Status: Final  
-Time: 2026-10-20T23:00Z  
-Venue: Madison Square Garden  
-Location: New York, NY  
+**Milwaukee Bucks** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-10-21T23:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
 
 ---
-**Oklahoma City Thunder** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-10-21T01:50Z  
-Venue: Frost Bank Center  
-Location: San Antonio, TX  
+**Minnesota Timberwolves** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-10-21T23:30Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
+
+---
+**Charlotte Hornets** vs **Brooklyn Nets**  
+Status: Scheduled  
+Time: 2026-10-21T23:30Z  
+Venue: Barclays Center  
+Location: Brooklyn, NY  
+
+---
+**Chicago Bulls** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-10-21T23:30Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
+
+---
+**Utah Jazz** vs **Memphis Grizzlies**  
+Status: Scheduled  
+Time: 2026-10-22T00:00Z  
+Venue: FedExForum  
+Location: Memphis, TN  
+
+---
+**Indiana Pacers** vs **New Orleans Pelicans**  
+Status: Scheduled  
+Time: 2026-10-22T00:00Z  
+Venue: Smoothie King Center  
+Location: New Orleans, LA  
+
+---
+**Dallas Mavericks** vs **Houston Rockets**  
+Status: Scheduled  
+Time: 2026-10-22T00:30Z  
+Venue: Toyota Center (Houston)  
+Location: Houston, TX  
+
+---
+**Golden State Warriors** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-10-22T02:00Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
+
+---
+**Phoenix Suns** vs **Portland Trail Blazers**  
+Status: Scheduled  
+Time: 2026-10-22T02:00Z  
+Venue: Moda Center  
+Location: Portland, OR  
+
+---
+**Sacramento Kings** vs **LA Clippers**  
+Status: Scheduled  
+Time: 2026-10-22T02:30Z  
+Venue: Intuit Dome  
+Location: Inglewood, CA  
 
 ---
 
@@ -164,7 +220,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 21, 2026 at 05:28 AM |
+| Last update | October 21, 2026 at 05:47 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

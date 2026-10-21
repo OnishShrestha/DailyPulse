@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 73.6 °F |
-| Feels Like | 72.7 °F |
-| Humidity | 30% |
-| Wind | 2.1 mph |
+| Temperature | 73.3 °F |
+| Feels Like | 68.2 °F |
+| Humidity | 27% |
+| Wind | 5.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -220,7 +220,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 21, 2026 at 05:47 PM |
+| Last update | October 21, 2026 at 10:04 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

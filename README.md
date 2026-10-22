@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 76.8 °F |
-| Feels Like | 82.6 °F |
-| Humidity | 78% |
-| Wind | 4.5 mph |
+| Temperature | 80.9 °F |
+| Feels Like | 86.8 °F |
+| Humidity | 59% |
+| Wind | 0.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,81 +36,18 @@ Location: Milwaukee, Wisconsin
 ---
 
 ## 🏀 NBA
-**Atlanta Hawks** vs **Orlando Magic**  
-Status: Final  
-Time: 2026-10-21T23:00Z  
-Venue: Kia Center  
-Location: Orlando, FL  
+**Cleveland Cavaliers** vs **Philadelphia 76ers**  
+Status: Scheduled  
+Time: 2026-10-22T23:00Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
 
 ---
-**Milwaukee Bucks** vs **Washington Wizards**  
-Status: Final  
-Time: 2026-10-21T23:00Z  
-Venue: Capital One Arena  
-Location: Washington, DC  
-
----
-**Minnesota Timberwolves** vs **Miami Heat**  
-Status: Final  
-Time: 2026-10-21T23:30Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
-
----
-**Charlotte Hornets** vs **Brooklyn Nets**  
-Status: Final  
-Time: 2026-10-21T23:30Z  
-Venue: Barclays Center  
-Location: Brooklyn, NY  
-
----
-**Chicago Bulls** vs **Toronto Raptors**  
-Status: Final  
-Time: 2026-10-21T23:30Z  
-Venue: Scotiabank Arena  
-Location: Toronto, ON  
-
----
-**Utah Jazz** vs **Memphis Grizzlies**  
-Status: Final  
-Time: 2026-10-22T00:00Z  
-Venue: FedExForum  
-Location: Memphis, TN  
-
----
-**Indiana Pacers** vs **New Orleans Pelicans**  
-Status: Final  
-Time: 2026-10-22T00:00Z  
-Venue: Smoothie King Center  
-Location: New Orleans, LA  
-
----
-**Dallas Mavericks** vs **Houston Rockets**  
-Status: Final  
-Time: 2026-10-22T00:30Z  
-Venue: Toyota Center (Houston)  
-Location: Houston, TX  
-
----
-**Golden State Warriors** vs **Los Angeles Lakers**  
-Status: Final  
-Time: 2026-10-22T02:00Z  
-Venue: crypto.com Arena  
-Location: Los Angeles, CA  
-
----
-**Phoenix Suns** vs **Portland Trail Blazers**  
-Status: Final  
-Time: 2026-10-22T02:00Z  
-Venue: Moda Center  
-Location: Portland, OR  
-
----
-**Sacramento Kings** vs **LA Clippers**  
-Status: Final  
-Time: 2026-10-22T02:30Z  
-Venue: Intuit Dome  
-Location: Inglewood, CA  
+**Denver Nuggets** vs **Oklahoma City Thunder**  
+Status: Scheduled  
+Time: 2026-10-23T01:30Z  
+Venue: Paycom Center  
+Location: Oklahoma City, OK  
 
 ---
 
@@ -220,7 +157,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 22, 2026 at 05:33 AM |
+| Last update | October 22, 2026 at 05:46 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

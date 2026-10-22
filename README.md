@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 80.9 °F |
-| Feels Like | 86.8 °F |
-| Humidity | 59% |
-| Wind | 0.8 mph |
+| Temperature | 86.8 °F |
+| Feels Like | 85.4 °F |
+| Humidity | 38% |
+| Wind | 9.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -157,7 +157,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 22, 2026 at 05:46 PM |
+| Last update | October 22, 2026 at 10:03 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

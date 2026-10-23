@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 78.9 °F |
-| Feels Like | 80.6 °F |
-| Humidity | 35% |
-| Wind | 1.1 mph |
+| Temperature | 82.4 °F |
+| Feels Like | 80.2 °F |
+| Humidity | 34% |
+| Wind | 6.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,7 +37,7 @@ Location: Milwaukee, Wisconsin
 
 ## 🏀 NBA
 **Chicago Bulls** vs **Milwaukee Bucks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-23T20:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
@@ -227,7 +227,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 23, 2026 at 05:37 PM |
+| Last update | October 23, 2026 at 09:50 PM |
 | Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

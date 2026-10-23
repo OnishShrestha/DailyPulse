@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.1 °F |
-| Feels Like | 62.2 °F |
-| Humidity | 66% |
-| Wind | 3.3 mph |
+| Temperature | 78.9 °F |
+| Feels Like | 80.6 °F |
+| Humidity | 35% |
+| Wind | 1.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,18 +36,88 @@ Location: Milwaukee, Wisconsin
 ---
 
 ## 🏀 NBA
-**Cleveland Cavaliers** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-10-22T23:00Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
+**Chicago Bulls** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-10-23T20:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
 
 ---
-**Denver Nuggets** vs **Oklahoma City Thunder**  
-Status: Final  
-Time: 2026-10-23T01:30Z  
-Venue: Paycom Center  
-Location: Oklahoma City, OK  
+**New York Knicks** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-10-23T23:00Z  
+Venue: TD Garden  
+Location: Boston, MA  
+
+---
+**Atlanta Hawks** vs **Charlotte Hornets**  
+Status: Scheduled  
+Time: 2026-10-23T23:00Z  
+Venue: Spectrum Center  
+Location: Charlotte, NC  
+
+---
+**Dallas Mavericks** vs **Indiana Pacers**  
+Status: Scheduled  
+Time: 2026-10-23T23:00Z  
+Venue: Gainbridge Fieldhouse  
+Location: Indianapolis, IN  
+
+---
+**Minnesota Timberwolves** vs **Orlando Magic**  
+Status: Scheduled  
+Time: 2026-10-23T23:00Z  
+Venue: Kia Center  
+Location: Orlando, FL  
+
+---
+**Toronto Raptors** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-10-23T23:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
+
+---
+**Detroit Pistons** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-10-24T00:00Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
+
+---
+**Houston Rockets** vs **San Antonio Spurs**  
+Status: Scheduled  
+Time: 2026-10-24T01:30Z  
+Venue: Moody Center  
+Location: Austin, TX  
+
+---
+**New Orleans Pelicans** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-10-24T01:30Z  
+Venue: Delta Center  
+Location: Salt Lake City, UT  
+
+---
+**Memphis Grizzlies** vs **Golden State Warriors**  
+Status: Scheduled  
+Time: 2026-10-24T02:00Z  
+Venue: Chase Center  
+Location: San Francisco, CA  
+
+---
+**LA Clippers** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-10-24T02:00Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
+
+---
+**Portland Trail Blazers** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-10-24T02:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
@@ -157,7 +227,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 23, 2026 at 05:30 AM |
+| Last update | October 23, 2026 at 05:37 PM |
 | Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 65.3 °F |
-| Feels Like | 65.5 °F |
-| Humidity | 66% |
-| Wind | 2.0 mph |
+| Temperature | 75.0 °F |
+| Feels Like | 78.5 °F |
+| Humidity | 73% |
+| Wind | 7.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,96 +28,68 @@
 
 ## ⚾ MLB
 **Tampa Bay Rays** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-10-24T00:00Z  
+Status: Scheduled  
+Time: 2026-10-25T00:00Z  
 Venue: American Family Field  
 Location: Milwaukee, Wisconsin  
 
 ---
 
 ## 🏀 NBA
-**Chicago Bulls** vs **Milwaukee Bucks**  
-Status: Final  
-Time: 2026-10-23T20:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
-
----
-**New York Knicks** vs **Boston Celtics**  
-Status: Final  
-Time: 2026-10-23T23:00Z  
-Venue: TD Garden  
-Location: Boston, MA  
-
----
-**Atlanta Hawks** vs **Charlotte Hornets**  
-Status: Final  
-Time: 2026-10-23T23:00Z  
+**Miami Heat** vs **Charlotte Hornets**  
+Status: Scheduled  
+Time: 2026-10-24T22:00Z  
 Venue: Spectrum Center  
 Location: Charlotte, NC  
 
 ---
-**Dallas Mavericks** vs **Indiana Pacers**  
-Status: Final  
-Time: 2026-10-23T23:00Z  
-Venue: Gainbridge Fieldhouse  
-Location: Indianapolis, IN  
+**Brooklyn Nets** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-10-24T23:30Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
 
 ---
-**Minnesota Timberwolves** vs **Orlando Magic**  
-Status: Final  
-Time: 2026-10-23T23:00Z  
-Venue: Kia Center  
-Location: Orlando, FL  
+**Milwaukee Bucks** vs **Philadelphia 76ers**  
+Status: Scheduled  
+Time: 2026-10-24T23:30Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
 
 ---
-**Toronto Raptors** vs **Washington Wizards**  
-Status: Final  
-Time: 2026-10-23T23:00Z  
-Venue: Capital One Arena  
-Location: Washington, DC  
+**Washington Wizards** vs **Chicago Bulls**  
+Status: Scheduled  
+Time: 2026-10-25T00:00Z  
+Venue: United Center  
+Location: Chicago, IL  
 
 ---
-**Detroit Pistons** vs **Miami Heat**  
-Status: Final  
-Time: 2026-10-24T00:00Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
+**San Antonio Spurs** vs **Dallas Mavericks**  
+Status: Scheduled  
+Time: 2026-10-25T00:00Z  
+Venue: American Airlines Center  
+Location: Dallas, TX  
 
 ---
-**Houston Rockets** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-10-24T01:30Z  
-Venue: Moody Center  
-Location: Austin, TX  
+**Houston Rockets** vs **Atlanta Hawks**  
+Status: Scheduled  
+Time: 2026-10-25T00:30Z  
+Venue: State Farm Arena  
+Location: Atlanta, GA  
 
 ---
-**New Orleans Pelicans** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-10-24T01:30Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
+**New Orleans Pelicans** vs **Denver Nuggets**  
+Status: Scheduled  
+Time: 2026-10-25T01:00Z  
+Venue: Ball Arena  
+Location: Denver, CO  
 
 ---
-**Memphis Grizzlies** vs **Golden State Warriors**  
-Status: Final  
-Time: 2026-10-24T02:00Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
-
----
-**LA Clippers** vs **Los Angeles Lakers**  
-Status: Final  
-Time: 2026-10-24T02:00Z  
-Venue: crypto.com Arena  
-Location: Los Angeles, CA  
-
----
-**Portland Trail Blazers** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-10-24T02:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**Golden State Warriors** vs **Phoenix Suns**  
+Status: Scheduled  
+Time: 2026-10-25T02:00Z  
+Venue: Mortgage Matchup Center  
+Location: Phoenix, AZ  
 
 ---
 
@@ -227,7 +199,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 24, 2026 at 05:10 AM |
+| Last update | October 24, 2026 at 04:23 PM |
 | Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,9 +16,9 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 70.2 °F |
-| Feels Like | 68.5 °F |
-| Humidity | 43% |
+| Temperature | 80.7 °F |
+| Feels Like | 78.6 °F |
+| Humidity | 25% |
 | Wind | 1.8 mph |
 | Precipitation | 0.0 in |
 
@@ -37,7 +37,7 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Los Angeles Lakers** vs **Utah Jazz**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-10-25T21:00Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
@@ -87,6 +87,27 @@ Location: Sacramento, CA
 ---
 
 ## 🏈 NFL
+**Denver Broncos** vs **Arizona Cardinals**  
+Status: In Progress  
+Time: 2026-10-25T20:05Z  
+Venue: State Farm Stadium  
+Location: Glendale, AZ  
+
+---
+**Green Bay Packers** vs **Detroit Lions**  
+Status: In Progress  
+Time: 2026-10-25T20:25Z  
+Venue: Ford Field  
+Location: Detroit, MI  
+
+---
+**Los Angeles Rams** vs **Las Vegas Raiders**  
+Status: In Progress  
+Time: 2026-10-25T20:25Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
 **Pittsburgh Steelers** vs **New Orleans Saints**  
 Status: Final  
 Time: 2026-10-25T13:30Z  
@@ -95,73 +116,52 @@ Location: Saint-Denis,
 
 ---
 **San Francisco 49ers** vs **Atlanta Falcons**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T17:00Z  
 Venue: Mercedes-Benz Stadium  
 Location: Atlanta, GA  
 
 ---
 **Cleveland Browns** vs **Tennessee Titans**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T17:00Z  
 Venue: Nissan Stadium  
 Location: Nashville, TN  
 
 ---
 **Indianapolis Colts** vs **Minnesota Vikings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T17:00Z  
 Venue: U.S. Bank Stadium  
 Location: Minneapolis, MN  
 
 ---
 **Miami Dolphins** vs **New York Jets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T17:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
 
 ---
 **Tampa Bay Buccaneers** vs **Carolina Panthers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T17:00Z  
 Venue: Bank of America Stadium  
 Location: Charlotte, NC  
 
 ---
 **Cincinnati Bengals** vs **Baltimore Ravens**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T17:00Z  
 Venue: M&T Bank Stadium  
 Location: Baltimore, MD  
 
 ---
 **New York Giants** vs **Houston Texans**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T17:00Z  
 Venue: Reliant Stadium  
 Location: Houston, TX  
-
----
-**Denver Broncos** vs **Arizona Cardinals**  
-Status: Scheduled  
-Time: 2026-10-25T20:05Z  
-Venue: State Farm Stadium  
-Location: Glendale, AZ  
-
----
-**Green Bay Packers** vs **Detroit Lions**  
-Status: Scheduled  
-Time: 2026-10-25T20:25Z  
-Venue: Ford Field  
-Location: Detroit, MI  
-
----
-**Los Angeles Rams** vs **Las Vegas Raiders**  
-Status: Scheduled  
-Time: 2026-10-25T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
 
 ---
 **Kansas City Chiefs** vs **Seattle Seahawks**  
@@ -192,7 +192,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 25, 2026 at 04:55 PM |
+| Last update | October 25, 2026 at 09:24 PM |
 | Daily location | Phoenix |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 48.5 °F |
-| Feels Like | 44.9 °F |
-| Humidity | 70% |
-| Wind | 2.2 mph |
+| Temperature | 52.6 °F |
+| Feels Like | 50.4 °F |
+| Humidity | 85% |
+| Wind | 4.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,62 +27,76 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Tampa Bay Rays** vs **Milwaukee Brewers**  
-Status: Final  
-Time: 2026-10-25T00:00Z  
-Venue: American Family Field  
-Location: Milwaukee, Wisconsin  
+**Milwaukee Brewers** vs **Tampa Bay Rays**  
+Status: Scheduled  
+Time: 2026-10-27T00:00Z  
+Venue: Tropicana Field  
+Location: St. Petersburg, Florida  
 
 ---
 
 ## 🏀 NBA
-**Los Angeles Lakers** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-10-25T21:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
+**Washington Wizards** vs **Charlotte Hornets**  
+Status: Scheduled  
+Time: 2026-10-26T23:00Z  
+Venue: Spectrum Center  
+Location: Charlotte, NC  
 
 ---
-**Indiana Pacers** vs **Brooklyn Nets**  
-Status: Final  
-Time: 2026-10-25T22:00Z  
-Venue: Barclays Center  
-Location: Brooklyn, NY  
+**Minnesota Timberwolves** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-10-26T23:00Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
 
 ---
-**Orlando Magic** vs **New York Knicks**  
-Status: Final  
-Time: 2026-10-25T23:00Z  
-Venue: Madison Square Garden  
-Location: New York, NY  
+**Chicago Bulls** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-10-26T23:30Z  
+Venue: TD Garden  
+Location: Boston, MA  
 
 ---
-**Toronto Raptors** vs **Minnesota Timberwolves**  
-Status: Final  
-Time: 2026-10-25T23:00Z  
-Venue: Target Center  
-Location: Minneapolis, MN  
+**Dallas Mavericks** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-10-26T23:30Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
 
 ---
-**LA Clippers** vs **Oklahoma City Thunder**  
-Status: Final  
-Time: 2026-10-25T23:00Z  
+**Indiana Pacers** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-10-27T00:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
+
+---
+**Phoenix Suns** vs **Oklahoma City Thunder**  
+Status: Scheduled  
+Time: 2026-10-27T00:00Z  
 Venue: Paycom Center  
 Location: Oklahoma City, OK  
 
 ---
-**Detroit Pistons** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-10-25T23:30Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
+**Atlanta Hawks** vs **Houston Rockets**  
+Status: Scheduled  
+Time: 2026-10-27T00:30Z  
+Venue: Toyota Center (Houston)  
+Location: Houston, TX  
 
 ---
-**Memphis Grizzlies** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-10-26T01:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**Memphis Grizzlies** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-10-27T01:00Z  
+Venue: Delta Center  
+Location: Salt Lake City, UT  
+
+---
+**Golden State Warriors** vs **Denver Nuggets**  
+Status: Scheduled  
+Time: 2026-10-27T02:00Z  
+Venue: Ball Arena  
+Location: Denver, CO  
 
 ---
 
@@ -192,7 +206,7 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | October 26, 2026 at 05:31 AM |
+| Last update | October 26, 2026 at 06:57 PM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

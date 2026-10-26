@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Phoenix, Arizona
+### Seattle, Washington
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 80.7 °F |
-| Feels Like | 78.6 °F |
-| Humidity | 25% |
-| Wind | 1.8 mph |
+| Temperature | 48.5 °F |
+| Feels Like | 44.9 °F |
+| Humidity | 70% |
+| Wind | 2.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -27,59 +27,59 @@
 ## 🏟️ Sports Dashboard
 
 ## ⚾ MLB
-**Milwaukee Brewers** vs **Tampa Bay Rays**  
-Status: Scheduled  
-Time: 2026-10-27T00:00Z  
-Venue: Tropicana Field  
-Location: St. Petersburg, Florida  
+**Tampa Bay Rays** vs **Milwaukee Brewers**  
+Status: Final  
+Time: 2026-10-25T00:00Z  
+Venue: American Family Field  
+Location: Milwaukee, Wisconsin  
 
 ---
 
 ## 🏀 NBA
 **Los Angeles Lakers** vs **Utah Jazz**  
-Status: In Progress  
+Status: Final  
 Time: 2026-10-25T21:00Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
 
 ---
 **Indiana Pacers** vs **Brooklyn Nets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T22:00Z  
 Venue: Barclays Center  
 Location: Brooklyn, NY  
 
 ---
 **Orlando Magic** vs **New York Knicks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T23:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Toronto Raptors** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T23:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **LA Clippers** vs **Oklahoma City Thunder**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T23:00Z  
 Venue: Paycom Center  
 Location: Oklahoma City, OK  
 
 ---
 **Detroit Pistons** vs **Philadelphia 76ers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-25T23:30Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Memphis Grizzlies** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-26T01:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
@@ -87,25 +87,18 @@ Location: Sacramento, CA
 ---
 
 ## 🏈 NFL
-**Denver Broncos** vs **Arizona Cardinals**  
-Status: In Progress  
-Time: 2026-10-25T20:05Z  
-Venue: State Farm Stadium  
-Location: Glendale, AZ  
+**Dallas Cowboys** vs **Philadelphia Eagles**  
+Status: Scheduled  
+Time: 2026-10-27T00:15Z  
+Venue: Lincoln Financial Field  
+Location: Philadelphia, PA  
 
 ---
-**Green Bay Packers** vs **Detroit Lions**  
-Status: In Progress  
-Time: 2026-10-25T20:25Z  
-Venue: Ford Field  
-Location: Detroit, MI  
-
----
-**Los Angeles Rams** vs **Las Vegas Raiders**  
-Status: In Progress  
-Time: 2026-10-25T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
+**New England Patriots** vs **Chicago Bears**  
+Status: Final  
+Time: 2026-10-23T00:15Z  
+Venue: Soldier Field  
+Location: Chicago, IL  
 
 ---
 **Pittsburgh Steelers** vs **New Orleans Saints**  
@@ -164,25 +157,32 @@ Venue: Reliant Stadium
 Location: Houston, TX  
 
 ---
+**Denver Broncos** vs **Arizona Cardinals**  
+Status: Final  
+Time: 2026-10-25T20:05Z  
+Venue: State Farm Stadium  
+Location: Glendale, AZ  
+
+---
+**Green Bay Packers** vs **Detroit Lions**  
+Status: Final  
+Time: 2026-10-25T20:25Z  
+Venue: Ford Field  
+Location: Detroit, MI  
+
+---
+**Los Angeles Rams** vs **Las Vegas Raiders**  
+Status: Final  
+Time: 2026-10-25T20:25Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
 **Kansas City Chiefs** vs **Seattle Seahawks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-26T00:20Z  
 Venue: Lumen Field  
 Location: Seattle, WA  
-
----
-**New England Patriots** vs **Chicago Bears**  
-Status: Final  
-Time: 2026-10-23T00:15Z  
-Venue: Soldier Field  
-Location: Chicago, IL  
-
----
-**Dallas Cowboys** vs **Philadelphia Eagles**  
-Status: Scheduled  
-Time: 2026-10-27T00:15Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
 
 ---
 
@@ -192,8 +192,8 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 25, 2026 at 09:24 PM |
-| Daily location | Phoenix |
+| Last update | October 26, 2026 at 05:31 AM |
+| Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

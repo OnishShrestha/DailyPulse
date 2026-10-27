@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 71.5 °F |
-| Feels Like | 73.5 °F |
-| Humidity | 62% |
-| Wind | 2.9 mph |
+| Temperature | 74.2 °F |
+| Feels Like | 73.4 °F |
+| Humidity | 61% |
+| Wind | 10.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -171,7 +171,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 27, 2026 at 06:29 PM |
+| Last update | October 27, 2026 at 10:50 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

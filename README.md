@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 61.9 °F |
-| Feels Like | 63.3 °F |
-| Humidity | 88% |
-| Wind | 3.3 mph |
+| Temperature | 71.5 °F |
+| Feels Like | 73.5 °F |
+| Humidity | 62% |
+| Wind | 2.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,75 +28,40 @@
 
 ## ⚾ MLB
 **Milwaukee Brewers** vs **Tampa Bay Rays**  
-Status: Final  
-Time: 2026-10-27T00:00Z  
+Status: Scheduled  
+Time: 2026-10-28T00:00Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
 
 ---
 
 ## 🏀 NBA
-**Washington Wizards** vs **Charlotte Hornets**  
-Status: Final  
-Time: 2026-10-26T23:00Z  
-Venue: Spectrum Center  
-Location: Charlotte, NC  
-
----
-**Minnesota Timberwolves** vs **Cleveland Cavaliers**  
-Status: Final  
-Time: 2026-10-26T23:00Z  
-Venue: Rocket Arena  
-Location: Cleveland, OH  
-
----
-**Chicago Bulls** vs **Boston Celtics**  
-Status: Final  
-Time: 2026-10-26T23:30Z  
+**Brooklyn Nets** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-10-27T23:30Z  
 Venue: TD Garden  
 Location: Boston, MA  
 
 ---
-**Dallas Mavericks** vs **Miami Heat**  
-Status: Final  
-Time: 2026-10-26T23:30Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
+**Detroit Pistons** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-10-28T00:00Z  
+Venue: Madison Square Garden  
+Location: New York, NY  
 
 ---
-**Indiana Pacers** vs **Milwaukee Bucks**  
-Status: Final  
-Time: 2026-10-27T00:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
+**Sacramento Kings** vs **San Antonio Spurs**  
+Status: Scheduled  
+Time: 2026-10-28T00:00Z  
+Venue: Frost Bank Center  
+Location: San Antonio, TX  
 
 ---
-**Phoenix Suns** vs **Oklahoma City Thunder**  
-Status: Final  
-Time: 2026-10-27T00:00Z  
-Venue: Paycom Center  
-Location: Oklahoma City, OK  
-
----
-**Atlanta Hawks** vs **Houston Rockets**  
-Status: Final  
-Time: 2026-10-27T00:30Z  
-Venue: Toyota Center (Houston)  
-Location: Houston, TX  
-
----
-**Memphis Grizzlies** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-10-27T01:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
-
----
-**Golden State Warriors** vs **Denver Nuggets**  
-Status: Final  
-Time: 2026-10-27T02:00Z  
-Venue: Ball Arena  
-Location: Denver, CO  
+**Portland Trail Blazers** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-10-28T03:00Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
 
 ---
 
@@ -206,7 +171,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 27, 2026 at 05:46 AM |
+| Last update | October 27, 2026 at 06:29 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

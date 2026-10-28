@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 74.2 °F |
-| Feels Like | 73.4 °F |
-| Humidity | 61% |
-| Wind | 10.0 mph |
+| Temperature | 61.2 °F |
+| Feels Like | 62.2 °F |
+| Humidity | 78% |
+| Wind | 0.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -28,7 +28,7 @@
 
 ## ⚾ MLB
 **Milwaukee Brewers** vs **Tampa Bay Rays**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-28T00:00Z  
 Venue: Tropicana Field  
 Location: St. Petersburg, Florida  
@@ -37,28 +37,28 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Brooklyn Nets** vs **Boston Celtics**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-27T23:30Z  
 Venue: TD Garden  
 Location: Boston, MA  
 
 ---
 **Detroit Pistons** vs **New York Knicks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-28T00:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Sacramento Kings** vs **San Antonio Spurs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-28T00:00Z  
 Venue: Frost Bank Center  
 Location: San Antonio, TX  
 
 ---
 **Portland Trail Blazers** vs **Los Angeles Lakers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-28T03:00Z  
 Venue: crypto.com Arena  
 Location: Los Angeles, CA  
@@ -66,102 +66,102 @@ Location: Los Angeles, CA
 ---
 
 ## 🏈 NFL
-**New England Patriots** vs **Chicago Bears**  
-Status: Final  
-Time: 2026-10-23T00:15Z  
-Venue: Soldier Field  
-Location: Chicago, IL  
+**Carolina Panthers** vs **Green Bay Packers**  
+Status: Scheduled  
+Time: 2026-10-30T00:15Z  
+Venue: Lambeau Field  
+Location: Green Bay, WI  
 
 ---
-**Pittsburgh Steelers** vs **New Orleans Saints**  
-Status: Final  
-Time: 2026-10-25T13:30Z  
-Venue: Stade de France  
-Location: Saint-Denis,   
+**Baltimore Ravens** vs **Buffalo Bills**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
+Venue: Highmark Stadium  
+Location: Orchard Park, NY  
 
 ---
-**San Francisco 49ers** vs **Atlanta Falcons**  
-Status: Final  
-Time: 2026-10-25T17:00Z  
-Venue: Mercedes-Benz Stadium  
-Location: Atlanta, GA  
+**Tennessee Titans** vs **Cincinnati Bengals**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
+Venue: Paycor Stadium  
+Location: Cincinnati, OH  
 
 ---
-**Cleveland Browns** vs **Tennessee Titans**  
-Status: Final  
-Time: 2026-10-25T17:00Z  
-Venue: Nissan Stadium  
-Location: Nashville, TN  
+**Arizona Cardinals** vs **Dallas Cowboys**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
+Venue: AT&T Stadium  
+Location: Arlington, TX  
 
 ---
-**Indianapolis Colts** vs **Minnesota Vikings**  
-Status: Final  
-Time: 2026-10-25T17:00Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
-
----
-**Miami Dolphins** vs **New York Jets**  
-Status: Final  
-Time: 2026-10-25T17:00Z  
-Venue: MetLife Stadium  
-Location: East Rutherford, NJ  
-
----
-**Tampa Bay Buccaneers** vs **Carolina Panthers**  
-Status: Final  
-Time: 2026-10-25T17:00Z  
-Venue: Bank of America Stadium  
-Location: Charlotte, NC  
-
----
-**Cincinnati Bengals** vs **Baltimore Ravens**  
-Status: Final  
-Time: 2026-10-25T17:00Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
-
----
-**New York Giants** vs **Houston Texans**  
-Status: Final  
-Time: 2026-10-25T17:00Z  
-Venue: Reliant Stadium  
-Location: Houston, TX  
-
----
-**Denver Broncos** vs **Arizona Cardinals**  
-Status: Final  
-Time: 2026-10-25T20:05Z  
-Venue: State Farm Stadium  
-Location: Glendale, AZ  
-
----
-**Green Bay Packers** vs **Detroit Lions**  
-Status: Final  
-Time: 2026-10-25T20:25Z  
+**Minnesota Vikings** vs **Detroit Lions**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
 Venue: Ford Field  
 Location: Detroit, MI  
 
 ---
-**Los Angeles Rams** vs **Las Vegas Raiders**  
-Status: Final  
-Time: 2026-10-25T20:25Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
+**Las Vegas Raiders** vs **New York Jets**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
 
 ---
-**Kansas City Chiefs** vs **Seattle Seahawks**  
-Status: Final  
-Time: 2026-10-26T00:20Z  
+**Cleveland Browns** vs **Pittsburgh Steelers**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
+Venue: Acrisure Stadium  
+Location: Pittsburgh, PA  
+
+---
+**Atlanta Falcons** vs **Tampa Bay Buccaneers**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
+Venue: Raymond James Stadium  
+Location: Tampa, FL  
+
+---
+**Indianapolis Colts** vs **Jacksonville Jaguars**  
+Status: Scheduled  
+Time: 2026-11-01T18:00Z  
+Venue: EverBank Stadium  
+Location: Jacksonville, FL  
+
+---
+**Los Angeles Chargers** vs **Los Angeles Rams**  
+Status: Scheduled  
+Time: 2026-11-01T21:05Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
+**Kansas City Chiefs** vs **Denver Broncos**  
+Status: Scheduled  
+Time: 2026-11-01T21:25Z  
+Venue: Empower Field at Mile High  
+Location: Denver, CO  
+
+---
+**New England Patriots** vs **Miami Dolphins**  
+Status: Scheduled  
+Time: 2026-11-01T21:25Z  
+Venue: Hard Rock Stadium  
+Location: Miami Gardens, FL  
+
+---
+**Philadelphia Eagles** vs **Washington Commanders**  
+Status: Scheduled  
+Time: 2026-11-02T01:20Z  
+Venue: Northwest Stadium  
+Location: Landover, MD  
+
+---
+**Chicago Bears** vs **Seattle Seahawks**  
+Status: Scheduled  
+Time: 2026-11-03T01:15Z  
 Venue: Lumen Field  
 Location: Seattle, WA  
-
----
-**Dallas Cowboys** vs **Philadelphia Eagles**  
-Status: Final  
-Time: 2026-10-27T00:15Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
 
 ---
 
@@ -171,7 +171,7 @@ Location: Philadelphia, PA
 
 | Item | Value |
 |---|---|
-| Last update | October 27, 2026 at 10:50 PM |
+| Last update | October 28, 2026 at 06:25 AM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

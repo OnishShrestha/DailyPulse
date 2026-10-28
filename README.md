@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 71.8 °F |
-| Feels Like | 74.0 °F |
-| Humidity | 58% |
-| Wind | 2.3 mph |
+| Temperature | 73.3 °F |
+| Feels Like | 70.8 °F |
+| Humidity | 57% |
+| Wind | 11.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -227,7 +227,7 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | October 28, 2026 at 06:35 PM |
+| Last update | October 28, 2026 at 10:56 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

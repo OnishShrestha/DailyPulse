@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 54.4 °F |
-| Feels Like | 52.9 °F |
-| Humidity | 86% |
-| Wind | 3.8 mph |
+| Temperature | 77.5 °F |
+| Feels Like | 76.6 °F |
+| Humidity | 38% |
+| Wind | 5.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,25 +36,74 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Cleveland Cavaliers** vs **Atlanta Hawks**  
-Status: Final  
-Time: 2026-10-30T00:00Z  
-Venue: State Farm Arena  
-Location: Atlanta, GA  
+**Charlotte Hornets** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-10-30T23:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
 
 ---
-**Sacramento Kings** vs **New Orleans Pelicans**  
-Status: Final  
-Time: 2026-10-30T00:00Z  
-Venue: Smoothie King Center  
-Location: New Orleans, LA  
+**Chicago Bulls** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-10-30T23:30Z  
+Venue: TD Garden  
+Location: Boston, MA  
 
 ---
-**Memphis Grizzlies** vs **Portland Trail Blazers**  
-Status: Final  
-Time: 2026-10-30T02:00Z  
-Venue: Moda Center  
-Location: Portland, OR  
+**Detroit Pistons** vs **Brooklyn Nets**  
+Status: Scheduled  
+Time: 2026-10-30T23:30Z  
+Venue: Barclays Center  
+Location: Brooklyn, NY  
+
+---
+**New York Knicks** vs **Philadelphia 76ers**  
+Status: Scheduled  
+Time: 2026-10-30T23:30Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
+
+---
+**Orlando Magic** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-10-30T23:30Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
+
+---
+**Indiana Pacers** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-10-31T00:00Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
+
+---
+**Houston Rockets** vs **Dallas Mavericks**  
+Status: Scheduled  
+Time: 2026-10-31T00:00Z  
+Venue: American Airlines Center  
+Location: Dallas, TX  
+
+---
+**LA Clippers** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-10-31T00:00Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
+
+---
+**Los Angeles Lakers** vs **Golden State Warriors**  
+Status: Scheduled  
+Time: 2026-10-31T02:00Z  
+Venue: Chase Center  
+Location: San Francisco, CA  
+
+---
+**Denver Nuggets** vs **Phoenix Suns**  
+Status: Scheduled  
+Time: 2026-10-31T02:00Z  
+Venue: Mortgage Matchup Center  
+Location: Phoenix, AZ  
 
 ---
 
@@ -164,7 +213,7 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | October 30, 2026 at 06:34 AM |
+| Last update | October 30, 2026 at 06:20 PM |
 | Daily location | Atlanta |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

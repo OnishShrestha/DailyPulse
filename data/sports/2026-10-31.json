@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-31T17:27:18.688464",
+    "timestamp": "2026-10-31T22:10:01.540594",
     "location": {
         "city": "Las Vegas",
         "state": "Nevada",
@@ -34,15 +34,15 @@
                 "name": "Portland Trail Blazers at Utah Jazz",
                 "short_name": "POR @ UTAH",
                 "date": "2026-10-31T19:00Z",
-                "status": "Scheduled",
+                "status": "Final",
                 "state": "UT",
-                "detail": "Sat, October 31st at 3:00 PM EDT",
+                "detail": "Final",
                 "home_team": "Utah Jazz",
                 "home_abbreviation": "UTAH",
-                "home_score": "0",
+                "home_score": "90",
                 "away_team": "Portland Trail Blazers",
                 "away_abbreviation": "POR",
-                "away_score": "0",
+                "away_score": "112",
                 "venue": "Delta Center",
                 "city": "Salt Lake City"
             },

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 62.0 °F |
-| Feels Like | 61.2 °F |
-| Humidity | 77% |
-| Wind | 5.2 mph |
+| Temperature | 64.1 °F |
+| Feels Like | 64.4 °F |
+| Humidity | 82% |
+| Wind | 5.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,7 +37,7 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Portland Trail Blazers** vs **Utah Jazz**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-31T19:00Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
@@ -192,7 +192,7 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | October 31, 2026 at 05:27 PM |
+| Last update | October 31, 2026 at 10:10 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Atlanta, Georgia
+### Las Vegas, Nevada
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 74.4 °F |
-| Feels Like | 71.7 °F |
-| Humidity | 38% |
-| Wind | 4.5 mph |
+| Temperature | 61.1 °F |
+| Feels Like | 61.6 °F |
+| Humidity | 86% |
+| Wind | 4.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,70 +37,70 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Charlotte Hornets** vs **Washington Wizards**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-30T23:00Z  
 Venue: Capital One Arena  
 Location: Washington, DC  
 
 ---
 **Chicago Bulls** vs **Boston Celtics**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-30T23:30Z  
 Venue: TD Garden  
 Location: Boston, MA  
 
 ---
 **Detroit Pistons** vs **Brooklyn Nets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-30T23:30Z  
 Venue: Barclays Center  
 Location: Brooklyn, NY  
 
 ---
 **New York Knicks** vs **Philadelphia 76ers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-30T23:30Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Orlando Magic** vs **Toronto Raptors**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-30T23:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **Indiana Pacers** vs **Miami Heat**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-31T00:00Z  
 Venue: Kaseya Center  
 Location: Miami, FL  
 
 ---
 **Houston Rockets** vs **Dallas Mavericks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-31T00:00Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
 **LA Clippers** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-31T00:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **Los Angeles Lakers** vs **Golden State Warriors**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-31T02:00Z  
 Venue: Chase Center  
 Location: San Francisco, CA  
 
 ---
 **Denver Nuggets** vs **Phoenix Suns**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-10-31T02:00Z  
 Venue: Mortgage Matchup Center  
 Location: Phoenix, AZ  
@@ -213,8 +213,8 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | October 30, 2026 at 10:46 PM |
-| Daily location | Atlanta |
+| Last update | October 31, 2026 at 06:24 AM |
+| Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 33.0 °F |
-| Feels Like | 26.1 °F |
-| Humidity | 71% |
-| Wind | 4.8 mph |
+| Temperature | 56.4 °F |
+| Feels Like | 49.2 °F |
+| Humidity | 40% |
+| Wind | 8.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,108 +36,87 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Portland Trail Blazers** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-10-31T19:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
+**Boston Celtics** vs **Orlando Magic**  
+Status: Scheduled  
+Time: 2026-11-01T20:30Z  
+Venue: Kia Center  
+Location: Orlando, FL  
 
 ---
-**Philadelphia 76ers** vs **Charlotte Hornets**  
-Status: Final  
-Time: 2026-10-31T22:00Z  
-Venue: Spectrum Center  
-Location: Charlotte, NC  
+**Brooklyn Nets** vs **Indiana Pacers**  
+Status: Scheduled  
+Time: 2026-11-01T22:00Z  
+Venue: Gainbridge Fieldhouse  
+Location: Indianapolis, IN  
 
 ---
-**Atlanta Hawks** vs **New Orleans Pelicans**  
-Status: Final  
-Time: 2026-10-31T23:00Z  
-Venue: Smoothie King Center  
-Location: New Orleans, LA  
+**LA Clippers** vs **Golden State Warriors**  
+Status: Scheduled  
+Time: 2026-11-02T01:30Z  
+Venue: Chase Center  
+Location: San Francisco, CA  
 
 ---
-**Sacramento Kings** vs **Memphis Grizzlies**  
-Status: Final  
-Time: 2026-11-01T00:00Z  
-Venue: FedExForum  
-Location: Memphis, TN  
-
----
-**Cleveland Cavaliers** vs **Milwaukee Bucks**  
-Status: Final  
-Time: 2026-11-01T00:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
-
----
-**Minnesota Timberwolves** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-11-01T00:00Z  
-Venue: Frost Bank Center  
-Location: San Antonio, TX  
-
----
-**Oklahoma City Thunder** vs **Houston Rockets**  
-Status: Final  
-Time: 2026-11-01T00:30Z  
-Venue: Toyota Center (Houston)  
-Location: Houston, TX  
+**Toronto Raptors** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-11-02T02:00Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
 
 ---
 
 ## 🏈 NFL
 **Baltimore Ravens** vs **Buffalo Bills**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
 
 ---
 **Tennessee Titans** vs **Cincinnati Bengals**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: Paycor Stadium  
 Location: Cincinnati, OH  
 
 ---
 **Arizona Cardinals** vs **Dallas Cowboys**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: AT&T Stadium  
 Location: Arlington, TX  
 
 ---
 **Minnesota Vikings** vs **Detroit Lions**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: Ford Field  
 Location: Detroit, MI  
 
 ---
 **Las Vegas Raiders** vs **New York Jets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
 
 ---
 **Cleveland Browns** vs **Pittsburgh Steelers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: Acrisure Stadium  
 Location: Pittsburgh, PA  
 
 ---
 **Atlanta Falcons** vs **Tampa Bay Buccaneers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: Raymond James Stadium  
 Location: Tampa, FL  
 
 ---
 **Indianapolis Colts** vs **Jacksonville Jaguars**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T18:00Z  
 Venue: EverBank Stadium  
 Location: Jacksonville, FL  
@@ -192,7 +171,7 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | November 01, 2026 at 06:57 AM |
+| Last update | November 01, 2026 at 06:12 PM |
 | Daily location | Boston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

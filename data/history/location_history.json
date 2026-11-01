@@ -566,5 +566,13 @@
         "latitude": 36.1699,
         "longitude": -115.1398,
         "timezone": "America/Los_Angeles"
+    },
+    "2026-11-01": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "country": "USA",
+        "latitude": 42.3601,
+        "longitude": -71.0589,
+        "timezone": "America/New_York"
     }
 }

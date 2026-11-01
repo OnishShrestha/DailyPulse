@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 56.4 °F |
-| Feels Like | 49.2 °F |
-| Humidity | 40% |
-| Wind | 8.1 mph |
+| Temperature | 49.3 °F |
+| Feels Like | 42.6 °F |
+| Humidity | 44% |
+| Wind | 5.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,14 +37,14 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Boston Celtics** vs **Orlando Magic**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T20:30Z  
 Venue: Kia Center  
 Location: Orlando, FL  
 
 ---
 **Brooklyn Nets** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T22:00Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
@@ -66,81 +66,81 @@ Location: Los Angeles, CA
 ---
 
 ## 🏈 NFL
-**Baltimore Ravens** vs **Buffalo Bills**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: Highmark Stadium  
-Location: Orchard Park, NY  
-
----
-**Tennessee Titans** vs **Cincinnati Bengals**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: Paycor Stadium  
-Location: Cincinnati, OH  
-
----
-**Arizona Cardinals** vs **Dallas Cowboys**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: AT&T Stadium  
-Location: Arlington, TX  
-
----
-**Minnesota Vikings** vs **Detroit Lions**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: Ford Field  
-Location: Detroit, MI  
-
----
-**Las Vegas Raiders** vs **New York Jets**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: MetLife Stadium  
-Location: East Rutherford, NJ  
-
----
-**Cleveland Browns** vs **Pittsburgh Steelers**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: Acrisure Stadium  
-Location: Pittsburgh, PA  
-
----
-**Atlanta Falcons** vs **Tampa Bay Buccaneers**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: Raymond James Stadium  
-Location: Tampa, FL  
-
----
-**Indianapolis Colts** vs **Jacksonville Jaguars**  
-Status: In Progress  
-Time: 2026-11-01T18:00Z  
-Venue: EverBank Stadium  
-Location: Jacksonville, FL  
-
----
 **Los Angeles Chargers** vs **Los Angeles Rams**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-01T21:05Z  
 Venue: SoFi Stadium  
 Location: Inglewood, CA  
 
 ---
 **Kansas City Chiefs** vs **Denver Broncos**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T21:25Z  
 Venue: Empower Field at Mile High  
 Location: Denver, CO  
 
 ---
 **New England Patriots** vs **Miami Dolphins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-01T21:25Z  
 Venue: Hard Rock Stadium  
 Location: Miami Gardens, FL  
+
+---
+**Baltimore Ravens** vs **Buffalo Bills**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: Highmark Stadium  
+Location: Orchard Park, NY  
+
+---
+**Tennessee Titans** vs **Cincinnati Bengals**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: Paycor Stadium  
+Location: Cincinnati, OH  
+
+---
+**Arizona Cardinals** vs **Dallas Cowboys**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: AT&T Stadium  
+Location: Arlington, TX  
+
+---
+**Minnesota Vikings** vs **Detroit Lions**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: Ford Field  
+Location: Detroit, MI  
+
+---
+**Las Vegas Raiders** vs **New York Jets**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
+
+---
+**Cleveland Browns** vs **Pittsburgh Steelers**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: Acrisure Stadium  
+Location: Pittsburgh, PA  
+
+---
+**Atlanta Falcons** vs **Tampa Bay Buccaneers**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: Raymond James Stadium  
+Location: Tampa, FL  
+
+---
+**Indianapolis Colts** vs **Jacksonville Jaguars**  
+Status: Final  
+Time: 2026-11-01T18:00Z  
+Venue: EverBank Stadium  
+Location: Jacksonville, FL  
 
 ---
 **Philadelphia Eagles** vs **Washington Commanders**  
@@ -171,7 +171,7 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | November 01, 2026 at 06:12 PM |
+| Last update | November 01, 2026 at 10:34 PM |
 | Daily location | Boston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Boston, Massachusetts
+### Los Angeles, California
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 49.3 °F |
-| Feels Like | 42.6 °F |
-| Humidity | 44% |
-| Wind | 5.6 mph |
+| Temperature | 57.8 °F |
+| Feels Like | 54.5 °F |
+| Humidity | 62% |
+| Wind | 4.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,28 +37,28 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Boston Celtics** vs **Orlando Magic**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-01T20:30Z  
 Venue: Kia Center  
 Location: Orlando, FL  
 
 ---
 **Brooklyn Nets** vs **Indiana Pacers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-01T22:00Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **LA Clippers** vs **Golden State Warriors**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-02T01:30Z  
 Venue: Chase Center  
 Location: San Francisco, CA  
 
 ---
 **Toronto Raptors** vs **Los Angeles Lakers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-02T02:00Z  
 Venue: crypto.com Arena  
 Location: Los Angeles, CA  
@@ -66,25 +66,18 @@ Location: Los Angeles, CA
 ---
 
 ## 🏈 NFL
-**Los Angeles Chargers** vs **Los Angeles Rams**  
-Status: Halftime  
-Time: 2026-11-01T21:05Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
+**Chicago Bears** vs **Seattle Seahawks**  
+Status: Scheduled  
+Time: 2026-11-03T01:15Z  
+Venue: Lumen Field  
+Location: Seattle, WA  
 
 ---
-**Kansas City Chiefs** vs **Denver Broncos**  
-Status: In Progress  
-Time: 2026-11-01T21:25Z  
-Venue: Empower Field at Mile High  
-Location: Denver, CO  
-
----
-**New England Patriots** vs **Miami Dolphins**  
-Status: In Progress  
-Time: 2026-11-01T21:25Z  
-Venue: Hard Rock Stadium  
-Location: Miami Gardens, FL  
+**Carolina Panthers** vs **Green Bay Packers**  
+Status: Final  
+Time: 2026-10-30T00:15Z  
+Venue: Lambeau Field  
+Location: Green Bay, WI  
 
 ---
 **Baltimore Ravens** vs **Buffalo Bills**  
@@ -143,25 +136,32 @@ Venue: EverBank Stadium
 Location: Jacksonville, FL  
 
 ---
+**Los Angeles Chargers** vs **Los Angeles Rams**  
+Status: Final  
+Time: 2026-11-01T21:05Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
+**Kansas City Chiefs** vs **Denver Broncos**  
+Status: Final  
+Time: 2026-11-01T21:25Z  
+Venue: Empower Field at Mile High  
+Location: Denver, CO  
+
+---
+**New England Patriots** vs **Miami Dolphins**  
+Status: Final  
+Time: 2026-11-01T21:25Z  
+Venue: Hard Rock Stadium  
+Location: Miami Gardens, FL  
+
+---
 **Philadelphia Eagles** vs **Washington Commanders**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-02T01:20Z  
 Venue: Northwest Stadium  
 Location: Landover, MD  
-
----
-**Carolina Panthers** vs **Green Bay Packers**  
-Status: Final  
-Time: 2026-10-30T00:15Z  
-Venue: Lambeau Field  
-Location: Green Bay, WI  
-
----
-**Chicago Bears** vs **Seattle Seahawks**  
-Status: Scheduled  
-Time: 2026-11-03T01:15Z  
-Venue: Lumen Field  
-Location: Seattle, WA  
 
 ---
 
@@ -171,8 +171,8 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | November 01, 2026 at 10:34 PM |
-| Daily location | Boston |
+| Last update | November 02, 2026 at 06:56 AM |
+| Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

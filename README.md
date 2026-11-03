@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 64.9 °F |
-| Feels Like | 58.6 °F |
-| Humidity | 29% |
-| Wind | 5.9 mph |
+| Temperature | 65.5 °F |
+| Feels Like | 60.1 °F |
+| Humidity | 34% |
+| Wind | 5.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -241,7 +241,7 @@ Location: Seattle, WA
 
 | Item | Value |
 |---|---|
-| Last update | November 03, 2026 at 07:54 PM |
+| Last update | November 03, 2026 at 11:51 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

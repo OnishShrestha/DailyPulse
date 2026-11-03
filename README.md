@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Los Angeles, California
+### Las Vegas, Nevada
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 76.1 °F |
-| Feels Like | 72.9 °F |
-| Humidity | 33% |
-| Wind | 4.6 mph |
+| Temperature | 63.3 °F |
+| Feels Like | 58.8 °F |
+| Humidity | 34% |
+| Wind | 2.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,63 +37,63 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Oklahoma City Thunder** vs **Cleveland Cavaliers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T00:00Z  
 Venue: Rocket Arena  
 Location: Cleveland, OH  
 
 ---
 **Detroit Pistons** vs **Charlotte Hornets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T00:30Z  
 Venue: Spectrum Center  
 Location: Charlotte, NC  
 
 ---
 **Atlanta Hawks** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T00:30Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Brooklyn Nets** vs **New York Knicks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T00:30Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Washington Wizards** vs **Orlando Magic**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T00:30Z  
 Venue: Kia Center  
 Location: Orlando, FL  
 
 ---
 **Chicago Bulls** vs **Philadelphia 76ers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T00:30Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Sacramento Kings** vs **Dallas Mavericks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T01:00Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
 **New Orleans Pelicans** vs **Memphis Grizzlies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T01:00Z  
 Venue: FedExForum  
 Location: Memphis, TN  
 
 ---
 **Milwaukee Bucks** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T01:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
@@ -144,7 +144,7 @@ Location: Los Angeles, CA
 
 ## 🏈 NFL
 **Chicago Bears** vs **Seattle Seahawks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-03T01:15Z  
 Venue: Lumen Field  
 Location: Seattle, WA  
@@ -248,8 +248,8 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 02, 2026 at 10:02 PM |
-| Daily location | Los Angeles |
+| Last update | November 03, 2026 at 01:26 AM |
+| Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

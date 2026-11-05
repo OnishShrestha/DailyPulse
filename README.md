@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 70.2 °F |
-| Feels Like | 72.6 °F |
-| Humidity | 89% |
-| Wind | 9.3 mph |
+| Temperature | 68.4 °F |
+| Feels Like | 70.5 °F |
+| Humidity | 86% |
+| Wind | 7.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -164,7 +164,7 @@ Location: Minneapolis, MN
 
 | Item | Value |
 |---|---|
-| Last update | November 05, 2026 at 08:24 PM |
+| Last update | November 05, 2026 at 11:55 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

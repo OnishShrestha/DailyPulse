@@ -16,9 +16,9 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.6 °F |
-| Feels Like | 63.7 °F |
-| Humidity | 86% |
+| Temperature | 69.2 °F |
+| Feels Like | 66.6 °F |
+| Humidity | 53% |
 | Wind | 7.1 mph |
 | Precipitation | 0.0 in |
 
@@ -36,18 +36,67 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Orlando Magic** vs **Phoenix Suns**  
-Status: Final  
-Time: 2026-11-06T02:00Z  
-Venue: Mortgage Matchup Center  
-Location: Phoenix, AZ  
+**Washington Wizards** vs **Atlanta Hawks**  
+Status: Scheduled  
+Time: 2026-11-07T00:00Z  
+Venue: State Farm Arena  
+Location: Atlanta, GA  
 
 ---
-**Miami Heat** vs **Golden State Warriors**  
-Status: Final  
-Time: 2026-11-06T03:00Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
+**Boston Celtics** vs **Charlotte Hornets**  
+Status: Scheduled  
+Time: 2026-11-07T00:00Z  
+Venue: Spectrum Center  
+Location: Charlotte, NC  
+
+---
+**Philadelphia 76ers** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-11-07T00:30Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
+
+---
+**Utah Jazz** vs **Dallas Mavericks**  
+Status: Scheduled  
+Time: 2026-11-07T01:00Z  
+Venue: American Airlines Center  
+Location: Dallas, TX  
+
+---
+**Oklahoma City Thunder** vs **Memphis Grizzlies**  
+Status: Scheduled  
+Time: 2026-11-07T01:00Z  
+Venue: FedExForum  
+Location: Memphis, TN  
+
+---
+**Toronto Raptors** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-11-07T01:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
+
+---
+**Minnesota Timberwolves** vs **New Orleans Pelicans**  
+Status: Scheduled  
+Time: 2026-11-07T01:00Z  
+Venue: Smoothie King Center  
+Location: New Orleans, LA  
+
+---
+**Portland Trail Blazers** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-11-07T03:00Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
+
+---
+**San Antonio Spurs** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-11-07T03:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
@@ -164,7 +213,7 @@ Location: Minneapolis, MN
 
 | Item | Value |
 |---|---|
-| Last update | November 06, 2026 at 07:28 AM |
+| Last update | November 06, 2026 at 07:46 PM |
 | Daily location | Dallas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

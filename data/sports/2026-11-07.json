@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-07T17:54:38.189544",
+    "timestamp": "2026-11-07T22:28:33.312745",
     "location": {
         "city": "Minneapolis",
         "state": "Minnesota",
@@ -34,15 +34,15 @@
                 "name": "Denver Nuggets at Indiana Pacers",
                 "short_name": "DEN VS IND",
                 "date": "2026-11-07T22:00Z",
-                "status": "Scheduled",
+                "status": "In Progress",
                 "state": "",
-                "detail": "Sat, November 7th at 5:00 PM EST",
+                "detail": "5:34 - 1st Quarter",
                 "home_team": "Indiana Pacers",
                 "home_abbreviation": "IND",
-                "home_score": "0",
+                "home_score": "11",
                 "away_team": "Denver Nuggets",
                 "away_abbreviation": "DEN",
-                "away_score": "0",
+                "away_score": "16",
                 "venue": "Arena CDMX",
                 "city": "Mexico City"
             },

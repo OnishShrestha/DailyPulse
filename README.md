@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 44.0 °F |
-| Feels Like | 37.9 °F |
+| Temperature | 48.6 °F |
+| Feels Like | 44.0 °F |
 | Humidity | 82% |
-| Wind | 8.1 mph |
+| Wind | 6.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,7 +37,7 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Denver Nuggets** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-07T22:00Z  
 Venue: Arena CDMX  
 Location: Mexico City,   
@@ -199,7 +199,7 @@ Location: Minneapolis, MN
 
 | Item | Value |
 |---|---|
-| Last update | November 07, 2026 at 05:54 PM |
+| Last update | November 07, 2026 at 10:28 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 55.4 °F |
-| Feels Like | 50.1 °F |
-| Humidity | 39% |
-| Wind | 3.2 mph |
+| Temperature | 68.4 °F |
+| Feels Like | 63.6 °F |
+| Humidity | 28% |
+| Wind | 3.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,108 +36,108 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Denver Nuggets** vs **Indiana Pacers**  
-Status: Final  
-Time: 2026-11-07T22:00Z  
-Venue: Arena CDMX  
-Location: Mexico City,   
+**Philadelphia 76ers** vs **Chicago Bulls**  
+Status: Scheduled  
+Time: 2026-11-08T20:30Z  
+Venue: United Center  
+Location: Chicago, IL  
 
 ---
-**Brooklyn Nets** vs **Atlanta Hawks**  
-Status: Final  
-Time: 2026-11-08T00:30Z  
-Venue: State Farm Arena  
-Location: Atlanta, GA  
+**Los Angeles Lakers** vs **Detroit Pistons**  
+Status: Scheduled  
+Time: 2026-11-08T23:00Z  
+Venue: Little Caesars Arena  
+Location: Detroit, MI  
 
 ---
-**New York Knicks** vs **Cleveland Cavaliers**  
-Status: Final  
-Time: 2026-11-08T01:00Z  
-Venue: Rocket Arena  
-Location: Cleveland, OH  
+**Utah Jazz** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-11-09T00:00Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
 
 ---
-**Washington Wizards** vs **Oklahoma City Thunder**  
-Status: Final  
-Time: 2026-11-08T01:00Z  
-Venue: Paycom Center  
-Location: Oklahoma City, OK  
+**Brooklyn Nets** vs **Dallas Mavericks**  
+Status: Scheduled  
+Time: 2026-11-09T00:30Z  
+Venue: American Airlines Center  
+Location: Dallas, TX  
 
 ---
-**Orlando Magic** vs **Golden State Warriors**  
-Status: Final  
-Time: 2026-11-08T01:30Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
+**Boston Celtics** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-11-09T01:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
 
 ---
-**Houston Rockets** vs **Phoenix Suns**  
-Status: Final  
-Time: 2026-11-08T02:00Z  
-Venue: Mortgage Matchup Center  
-Location: Phoenix, AZ  
+**New Orleans Pelicans** vs **LA Clippers**  
+Status: Scheduled  
+Time: 2026-11-09T02:00Z  
+Venue: Intuit Dome  
+Location: Inglewood, CA  
 
 ---
-**San Antonio Spurs** vs **Portland Trail Blazers**  
-Status: Final  
-Time: 2026-11-08T03:00Z  
-Venue: Moda Center  
-Location: Portland, OR  
+**Miami Heat** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-11-09T02:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
 ## 🏈 NFL
 **Cincinnati Bengals** vs **Atlanta Falcons**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-08T14:30Z  
 Venue: Santiago Bernabéu  
 Location: Madrid,   
 
 ---
 **Dallas Cowboys** vs **Indianapolis Colts**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T18:00Z  
 Venue: Lucas Oil Stadium  
 Location: Indianapolis, IN  
 
 ---
 **New York Jets** vs **Kansas City Chiefs**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T18:00Z  
 Venue: Arrowhead Stadium  
 Location: Kansas City, MO  
 
 ---
 **Detroit Lions** vs **Miami Dolphins**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T18:00Z  
 Venue: Hard Rock Stadium  
 Location: Miami Gardens, FL  
 
 ---
 **Cleveland Browns** vs **New Orleans Saints**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T18:00Z  
 Venue: Caesars Superdome  
 Location: New Orleans, LA  
 
 ---
 **New York Giants** vs **Philadelphia Eagles**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T18:00Z  
 Venue: Lincoln Financial Field  
 Location: Philadelphia, PA  
 
 ---
 **Los Angeles Rams** vs **Washington Commanders**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T18:00Z  
 Venue: Northwest Stadium  
 Location: Landover, MD  
 
 ---
 **Denver Broncos** vs **Carolina Panthers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T18:00Z  
 Venue: Bank of America Stadium  
 Location: Charlotte, NC  
@@ -199,7 +199,7 @@ Location: Minneapolis, MN
 
 | Item | Value |
 |---|---|
-| Last update | November 08, 2026 at 06:47 AM |
+| Last update | November 08, 2026 at 06:09 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

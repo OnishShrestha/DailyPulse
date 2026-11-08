@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 68.4 °F |
-| Feels Like | 63.6 °F |
-| Humidity | 28% |
-| Wind | 3.3 mph |
+| Temperature | 74.7 °F |
+| Feels Like | 68.1 °F |
+| Humidity | 18% |
+| Wind | 5.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,7 +37,7 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Philadelphia 76ers** vs **Chicago Bulls**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-08T20:30Z  
 Venue: United Center  
 Location: Chicago, IL  
@@ -87,6 +87,34 @@ Location: Sacramento, CA
 ---
 
 ## 🏈 NFL
+**Houston Texans** vs **Los Angeles Chargers**  
+Status: In Progress  
+Time: 2026-11-08T21:05Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
+**Green Bay Packers** vs **New England Patriots**  
+Status: In Progress  
+Time: 2026-11-08T21:25Z  
+Venue: Gillette Stadium  
+Location: Foxborough, MA  
+
+---
+**Las Vegas Raiders** vs **San Francisco 49ers**  
+Status: Halftime  
+Time: 2026-11-08T21:25Z  
+Venue: Levi's Stadium  
+Location: Santa Clara, CA  
+
+---
+**Arizona Cardinals** vs **Seattle Seahawks**  
+Status: In Progress  
+Time: 2026-11-08T21:25Z  
+Venue: Lumen Field  
+Location: Seattle, WA  
+
+---
 **Cincinnati Bengals** vs **Atlanta Falcons**  
 Status: Final  
 Time: 2026-11-08T14:30Z  
@@ -95,80 +123,52 @@ Location: Madrid,
 
 ---
 **Dallas Cowboys** vs **Indianapolis Colts**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T18:00Z  
 Venue: Lucas Oil Stadium  
 Location: Indianapolis, IN  
 
 ---
 **New York Jets** vs **Kansas City Chiefs**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T18:00Z  
 Venue: Arrowhead Stadium  
 Location: Kansas City, MO  
 
 ---
 **Detroit Lions** vs **Miami Dolphins**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T18:00Z  
 Venue: Hard Rock Stadium  
 Location: Miami Gardens, FL  
 
 ---
 **Cleveland Browns** vs **New Orleans Saints**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T18:00Z  
 Venue: Caesars Superdome  
 Location: New Orleans, LA  
 
 ---
 **New York Giants** vs **Philadelphia Eagles**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T18:00Z  
 Venue: Lincoln Financial Field  
 Location: Philadelphia, PA  
 
 ---
 **Los Angeles Rams** vs **Washington Commanders**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T18:00Z  
 Venue: Northwest Stadium  
 Location: Landover, MD  
 
 ---
 **Denver Broncos** vs **Carolina Panthers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T18:00Z  
 Venue: Bank of America Stadium  
 Location: Charlotte, NC  
-
----
-**Houston Texans** vs **Los Angeles Chargers**  
-Status: Scheduled  
-Time: 2026-11-08T21:05Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
-
----
-**Green Bay Packers** vs **New England Patriots**  
-Status: Scheduled  
-Time: 2026-11-08T21:25Z  
-Venue: Gillette Stadium  
-Location: Foxborough, MA  
-
----
-**Las Vegas Raiders** vs **San Francisco 49ers**  
-Status: Scheduled  
-Time: 2026-11-08T21:25Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
-
----
-**Arizona Cardinals** vs **Seattle Seahawks**  
-Status: Scheduled  
-Time: 2026-11-08T21:25Z  
-Venue: Lumen Field  
-Location: Seattle, WA  
 
 ---
 **Tampa Bay Buccaneers** vs **Chicago Bears**  
@@ -199,7 +199,7 @@ Location: Minneapolis, MN
 
 | Item | Value |
 |---|---|
-| Last update | November 08, 2026 at 06:09 PM |
+| Last update | November 08, 2026 at 10:38 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -630,5 +630,13 @@
         "latitude": 36.1699,
         "longitude": -115.1398,
         "timezone": "America/Los_Angeles"
+    },
+    "2026-11-09": {
+        "city": "New York",
+        "state": "New York",
+        "country": "USA",
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "timezone": "America/New_York"
     }
 }

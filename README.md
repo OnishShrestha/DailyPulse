@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Las Vegas, Nevada
+### New York, New York
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 74.7 °F |
-| Feels Like | 68.1 °F |
-| Humidity | 18% |
-| Wind | 5.3 mph |
+| Temperature | 49.8 °F |
+| Feels Like | 41.2 °F |
+| Humidity | 47% |
+| Wind | 10.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,49 +37,49 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Philadelphia 76ers** vs **Chicago Bulls**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-08T20:30Z  
 Venue: United Center  
 Location: Chicago, IL  
 
 ---
 **Los Angeles Lakers** vs **Detroit Pistons**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-08T23:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
 **Utah Jazz** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-09T00:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **Brooklyn Nets** vs **Dallas Mavericks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-09T00:30Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
 **Boston Celtics** vs **Milwaukee Bucks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-09T01:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
 
 ---
 **New Orleans Pelicans** vs **LA Clippers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-09T02:00Z  
 Venue: Intuit Dome  
 Location: Inglewood, CA  
 
 ---
 **Miami Heat** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-09T02:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
@@ -87,32 +87,18 @@ Location: Sacramento, CA
 ---
 
 ## 🏈 NFL
-**Houston Texans** vs **Los Angeles Chargers**  
-Status: In Progress  
-Time: 2026-11-08T21:05Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
+**Buffalo Bills** vs **Minnesota Vikings**  
+Status: Scheduled  
+Time: 2026-11-10T01:15Z  
+Venue: U.S. Bank Stadium  
+Location: Minneapolis, MN  
 
 ---
-**Green Bay Packers** vs **New England Patriots**  
-Status: In Progress  
-Time: 2026-11-08T21:25Z  
-Venue: Gillette Stadium  
-Location: Foxborough, MA  
-
----
-**Las Vegas Raiders** vs **San Francisco 49ers**  
-Status: Halftime  
-Time: 2026-11-08T21:25Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
-
----
-**Arizona Cardinals** vs **Seattle Seahawks**  
-Status: In Progress  
-Time: 2026-11-08T21:25Z  
-Venue: Lumen Field  
-Location: Seattle, WA  
+**Jacksonville Jaguars** vs **Baltimore Ravens**  
+Status: Final  
+Time: 2026-11-06T01:15Z  
+Venue: M&T Bank Stadium  
+Location: Baltimore, MD  
 
 ---
 **Cincinnati Bengals** vs **Atlanta Falcons**  
@@ -171,25 +157,39 @@ Venue: Bank of America Stadium
 Location: Charlotte, NC  
 
 ---
+**Houston Texans** vs **Los Angeles Chargers**  
+Status: Final  
+Time: 2026-11-08T21:05Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
+
+---
+**Green Bay Packers** vs **New England Patriots**  
+Status: Final  
+Time: 2026-11-08T21:25Z  
+Venue: Gillette Stadium  
+Location: Foxborough, MA  
+
+---
+**Las Vegas Raiders** vs **San Francisco 49ers**  
+Status: Final  
+Time: 2026-11-08T21:25Z  
+Venue: Levi's Stadium  
+Location: Santa Clara, CA  
+
+---
+**Arizona Cardinals** vs **Seattle Seahawks**  
+Status: Final  
+Time: 2026-11-08T21:25Z  
+Venue: Lumen Field  
+Location: Seattle, WA  
+
+---
 **Tampa Bay Buccaneers** vs **Chicago Bears**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-09T01:20Z  
 Venue: Soldier Field  
 Location: Chicago, IL  
-
----
-**Jacksonville Jaguars** vs **Baltimore Ravens**  
-Status: Final  
-Time: 2026-11-06T01:15Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
-
----
-**Buffalo Bills** vs **Minnesota Vikings**  
-Status: Scheduled  
-Time: 2026-11-10T01:15Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
 
 ---
 
@@ -199,8 +199,8 @@ Location: Minneapolis, MN
 
 | Item | Value |
 |---|---|
-| Last update | November 08, 2026 at 10:38 PM |
-| Daily location | Las Vegas |
+| Last update | November 09, 2026 at 07:21 AM |
+| Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

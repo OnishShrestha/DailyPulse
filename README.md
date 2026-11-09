@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 49.8 °F |
-| Feels Like | 41.2 °F |
-| Humidity | 47% |
-| Wind | 10.7 mph |
+| Temperature | 52.5 °F |
+| Feels Like | 45.1 °F |
+| Humidity | 51% |
+| Wind | 9.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,53 +36,60 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Philadelphia 76ers** vs **Chicago Bulls**  
-Status: Final  
-Time: 2026-11-08T20:30Z  
-Venue: United Center  
-Location: Chicago, IL  
+**Los Angeles Lakers** vs **Atlanta Hawks**  
+Status: Scheduled  
+Time: 2026-11-10T00:00Z  
+Venue: State Farm Arena  
+Location: Atlanta, GA  
 
 ---
-**Los Angeles Lakers** vs **Detroit Pistons**  
-Status: Final  
-Time: 2026-11-08T23:00Z  
+**Cleveland Cavaliers** vs **Charlotte Hornets**  
+Status: Scheduled  
+Time: 2026-11-10T00:00Z  
+Venue: Spectrum Center  
+Location: Charlotte, NC  
+
+---
+**Washington Wizards** vs **Detroit Pistons**  
+Status: Scheduled  
+Time: 2026-11-10T00:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
-**Utah Jazz** vs **Minnesota Timberwolves**  
-Status: Final  
-Time: 2026-11-09T00:00Z  
-Venue: Target Center  
-Location: Minneapolis, MN  
+**Memphis Grizzlies** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-11-10T00:30Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
 
 ---
-**Brooklyn Nets** vs **Dallas Mavericks**  
-Status: Final  
-Time: 2026-11-09T00:30Z  
+**Indiana Pacers** vs **Dallas Mavericks**  
+Status: Scheduled  
+Time: 2026-11-10T01:00Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
-**Boston Celtics** vs **Milwaukee Bucks**  
-Status: Final  
-Time: 2026-11-09T01:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
+**Denver Nuggets** vs **Houston Rockets**  
+Status: Scheduled  
+Time: 2026-11-10T01:30Z  
+Venue: Toyota Center (Houston)  
+Location: Houston, TX  
 
 ---
-**New Orleans Pelicans** vs **LA Clippers**  
-Status: Final  
-Time: 2026-11-09T02:00Z  
-Venue: Intuit Dome  
-Location: Inglewood, CA  
+**San Antonio Spurs** vs **Phoenix Suns**  
+Status: Scheduled  
+Time: 2026-11-10T02:00Z  
+Venue: Mortgage Matchup Center  
+Location: Phoenix, AZ  
 
 ---
-**Miami Heat** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-11-09T02:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**New Orleans Pelicans** vs **Golden State Warriors**  
+Status: Scheduled  
+Time: 2026-11-10T03:00Z  
+Venue: Chase Center  
+Location: San Francisco, CA  
 
 ---
 
@@ -199,7 +206,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | November 09, 2026 at 07:21 AM |
+| Last update | November 09, 2026 at 10:48 PM |
 | Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

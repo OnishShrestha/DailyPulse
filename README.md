@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### New York, New York
+### Philadelphia, Pennsylvania
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 52.5 °F |
-| Feels Like | 45.1 °F |
-| Humidity | 51% |
-| Wind | 9.4 mph |
+| Temperature | 51.8 °F |
+| Feels Like | 46.7 °F |
+| Humidity | 52% |
+| Wind | 4.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,42 +37,42 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Los Angeles Lakers** vs **Atlanta Hawks**  
-Status: Scheduled  
+Status: End of Period  
 Time: 2026-11-10T00:00Z  
 Venue: State Farm Arena  
 Location: Atlanta, GA  
 
 ---
 **Cleveland Cavaliers** vs **Charlotte Hornets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-10T00:00Z  
 Venue: Spectrum Center  
 Location: Charlotte, NC  
 
 ---
 **Washington Wizards** vs **Detroit Pistons**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-10T00:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
 **Memphis Grizzlies** vs **Toronto Raptors**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-10T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **Indiana Pacers** vs **Dallas Mavericks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-10T01:00Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
 **Denver Nuggets** vs **Houston Rockets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-10T01:30Z  
 Venue: Toyota Center (Houston)  
 Location: Houston, TX  
@@ -95,7 +95,7 @@ Location: San Francisco, CA
 
 ## 🏈 NFL
 **Buffalo Bills** vs **Minnesota Vikings**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-10T01:15Z  
 Venue: U.S. Bank Stadium  
 Location: Minneapolis, MN  
@@ -206,8 +206,8 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | November 09, 2026 at 10:48 PM |
-| Daily location | New York |
+| Last update | November 10, 2026 at 01:51 AM |
+| Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

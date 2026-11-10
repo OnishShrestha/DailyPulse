@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 51.8 °F |
-| Feels Like | 46.7 °F |
-| Humidity | 52% |
-| Wind | 4.1 mph |
+| Temperature | 47.2 °F |
+| Feels Like | 42.9 °F |
+| Humidity | 69% |
+| Wind | 3.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,56 +37,56 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Los Angeles Lakers** vs **Atlanta Hawks**  
-Status: End of Period  
+Status: Final  
 Time: 2026-11-10T00:00Z  
 Venue: State Farm Arena  
 Location: Atlanta, GA  
 
 ---
 **Cleveland Cavaliers** vs **Charlotte Hornets**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-10T00:00Z  
 Venue: Spectrum Center  
 Location: Charlotte, NC  
 
 ---
 **Washington Wizards** vs **Detroit Pistons**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-10T00:00Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
 **Memphis Grizzlies** vs **Toronto Raptors**  
-Status: Halftime  
+Status: Final  
 Time: 2026-11-10T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **Indiana Pacers** vs **Dallas Mavericks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-10T01:00Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
 **Denver Nuggets** vs **Houston Rockets**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-10T01:30Z  
 Venue: Toyota Center (Houston)  
 Location: Houston, TX  
 
 ---
 **San Antonio Spurs** vs **Phoenix Suns**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-10T02:00Z  
 Venue: Mortgage Matchup Center  
 Location: Phoenix, AZ  
 
 ---
 **New Orleans Pelicans** vs **Golden State Warriors**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-10T03:00Z  
 Venue: Chase Center  
 Location: San Francisco, CA  
@@ -94,13 +94,6 @@ Location: San Francisco, CA
 ---
 
 ## 🏈 NFL
-**Buffalo Bills** vs **Minnesota Vikings**  
-Status: In Progress  
-Time: 2026-11-10T01:15Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
-
----
 **Jacksonville Jaguars** vs **Baltimore Ravens**  
 Status: Final  
 Time: 2026-11-06T01:15Z  
@@ -199,6 +192,13 @@ Venue: Soldier Field
 Location: Chicago, IL  
 
 ---
+**Buffalo Bills** vs **Minnesota Vikings**  
+Status: Final  
+Time: 2026-11-10T01:15Z  
+Venue: U.S. Bank Stadium  
+Location: Minneapolis, MN  
+
+---
 
 ---
 
@@ -206,7 +206,7 @@ Location: Chicago, IL
 
 | Item | Value |
 |---|---|
-| Last update | November 10, 2026 at 01:51 AM |
+| Last update | November 10, 2026 at 07:51 AM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Philadelphia, Pennsylvania
+### Minneapolis, Minnesota
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 58.6 °F |
-| Feels Like | 52.5 °F |
-| Humidity | 47% |
-| Wind | 8.1 mph |
+| Temperature | 46.4 °F |
+| Feels Like | 42.0 °F |
+| Humidity | 64% |
+| Wind | 2.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,42 +37,42 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Milwaukee Bucks** vs **New York Knicks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-11T00:30Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Boston Celtics** vs **Philadelphia 76ers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-11T01:00Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **LA Clippers** vs **Phoenix Suns**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-11T02:00Z  
 Venue: Mortgage Matchup Center  
 Location: Phoenix, AZ  
 
 ---
 **Miami Heat** vs **Utah Jazz**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-11T02:00Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
 
 ---
 **Orlando Magic** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-11T03:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
 
 ---
 **Oklahoma City Thunder** vs **Portland Trail Blazers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-11T04:00Z  
 Venue: Moda Center  
 Location: Portland, OR  
@@ -80,109 +80,102 @@ Location: Portland, OR
 ---
 
 ## 🏈 NFL
-**Jacksonville Jaguars** vs **Baltimore Ravens**  
-Status: Final  
-Time: 2026-11-06T01:15Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
+**Washington Commanders** vs **New York Giants**  
+Status: Scheduled  
+Time: 2026-11-13T01:15Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
 
 ---
-**Cincinnati Bengals** vs **Atlanta Falcons**  
-Status: Final  
-Time: 2026-11-08T14:30Z  
-Venue: Santiago Bernabéu  
-Location: Madrid,   
+**New England Patriots** vs **Detroit Lions**  
+Status: Scheduled  
+Time: 2026-11-15T14:30Z  
+Venue: FC Bayern Munich Stadium  
+Location: Munich,   
 
 ---
-**Dallas Cowboys** vs **Indianapolis Colts**  
-Status: Final  
-Time: 2026-11-08T18:00Z  
+**Kansas City Chiefs** vs **Atlanta Falcons**  
+Status: Scheduled  
+Time: 2026-11-15T18:00Z  
+Venue: Mercedes-Benz Stadium  
+Location: Atlanta, GA  
+
+---
+**Houston Texans** vs **Cleveland Browns**  
+Status: Scheduled  
+Time: 2026-11-15T18:00Z  
+Venue: Huntington Bank Field  
+Location: Cleveland, OH  
+
+---
+**Minnesota Vikings** vs **Green Bay Packers**  
+Status: Scheduled  
+Time: 2026-11-15T18:00Z  
+Venue: Lambeau Field  
+Location: Green Bay, WI  
+
+---
+**Jacksonville Jaguars** vs **Tennessee Titans**  
+Status: Scheduled  
+Time: 2026-11-15T18:00Z  
+Venue: Nissan Stadium  
+Location: Nashville, TN  
+
+---
+**Miami Dolphins** vs **Indianapolis Colts**  
+Status: Scheduled  
+Time: 2026-11-15T18:00Z  
 Venue: Lucas Oil Stadium  
 Location: Indianapolis, IN  
 
 ---
-**New York Jets** vs **Kansas City Chiefs**  
-Status: Final  
-Time: 2026-11-08T18:00Z  
-Venue: Arrowhead Stadium  
-Location: Kansas City, MO  
-
----
-**Detroit Lions** vs **Miami Dolphins**  
-Status: Final  
-Time: 2026-11-08T18:00Z  
-Venue: Hard Rock Stadium  
-Location: Miami Gardens, FL  
-
----
-**Cleveland Browns** vs **New Orleans Saints**  
-Status: Final  
-Time: 2026-11-08T18:00Z  
+**Carolina Panthers** vs **New Orleans Saints**  
+Status: Scheduled  
+Time: 2026-11-15T18:00Z  
 Venue: Caesars Superdome  
 Location: New Orleans, LA  
 
 ---
-**New York Giants** vs **Philadelphia Eagles**  
-Status: Final  
-Time: 2026-11-08T18:00Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
+**Buffalo Bills** vs **New York Jets**  
+Status: Scheduled  
+Time: 2026-11-15T18:00Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
 
 ---
-**Los Angeles Rams** vs **Washington Commanders**  
-Status: Final  
-Time: 2026-11-08T18:00Z  
-Venue: Northwest Stadium  
-Location: Landover, MD  
+**Seattle Seahawks** vs **Las Vegas Raiders**  
+Status: Scheduled  
+Time: 2026-11-15T21:05Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
 
 ---
-**Denver Broncos** vs **Carolina Panthers**  
-Status: Final  
-Time: 2026-11-08T18:00Z  
-Venue: Bank of America Stadium  
-Location: Charlotte, NC  
+**Los Angeles Rams** vs **Arizona Cardinals**  
+Status: Scheduled  
+Time: 2026-11-15T21:05Z  
+Venue: State Farm Stadium  
+Location: Glendale, AZ  
 
 ---
-**Houston Texans** vs **Los Angeles Chargers**  
-Status: Final  
-Time: 2026-11-08T21:05Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
+**San Francisco 49ers** vs **Dallas Cowboys**  
+Status: Scheduled  
+Time: 2026-11-15T21:25Z  
+Venue: AT&T Stadium  
+Location: Arlington, TX  
 
 ---
-**Green Bay Packers** vs **New England Patriots**  
-Status: Final  
-Time: 2026-11-08T21:25Z  
-Venue: Gillette Stadium  
-Location: Foxborough, MA  
+**Pittsburgh Steelers** vs **Cincinnati Bengals**  
+Status: Scheduled  
+Time: 2026-11-16T01:20Z  
+Venue: Paycor Stadium  
+Location: Cincinnati, OH  
 
 ---
-**Las Vegas Raiders** vs **San Francisco 49ers**  
-Status: Final  
-Time: 2026-11-08T21:25Z  
-Venue: Levi's Stadium  
-Location: Santa Clara, CA  
-
----
-**Arizona Cardinals** vs **Seattle Seahawks**  
-Status: Final  
-Time: 2026-11-08T21:25Z  
-Venue: Lumen Field  
-Location: Seattle, WA  
-
----
-**Tampa Bay Buccaneers** vs **Chicago Bears**  
-Status: Final  
-Time: 2026-11-09T01:20Z  
-Venue: Soldier Field  
-Location: Chicago, IL  
-
----
-**Buffalo Bills** vs **Minnesota Vikings**  
-Status: Final  
-Time: 2026-11-10T01:15Z  
-Venue: U.S. Bank Stadium  
-Location: Minneapolis, MN  
+**Los Angeles Chargers** vs **Baltimore Ravens**  
+Status: Scheduled  
+Time: 2026-11-17T01:15Z  
+Venue: M&T Bank Stadium  
+Location: Baltimore, MD  
 
 ---
 
@@ -192,8 +185,8 @@ Location: Minneapolis, MN
 
 | Item | Value |
 |---|---|
-| Last update | November 10, 2026 at 11:53 PM |
-| Daily location | Philadelphia |
+| Last update | November 11, 2026 at 07:19 AM |
+| Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

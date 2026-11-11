@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 46.4 °F |
-| Feels Like | 42.0 °F |
-| Humidity | 64% |
-| Wind | 2.4 mph |
+| Temperature | 54.5 °F |
+| Feels Like | 47.6 °F |
+| Humidity | 59% |
+| Wind | 10.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,44 +36,72 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Milwaukee Bucks** vs **New York Knicks**  
-Status: Final  
-Time: 2026-11-11T00:30Z  
+**Washington Wizards** vs **Indiana Pacers**  
+Status: Scheduled  
+Time: 2026-11-12T00:00Z  
+Venue: Gainbridge Fieldhouse  
+Location: Indianapolis, IN  
+
+---
+**Cleveland Cavaliers** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-11-12T00:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
-**Boston Celtics** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-11-11T01:00Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
+**Boston Celtics** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-11-12T00:00Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
 
 ---
-**LA Clippers** vs **Phoenix Suns**  
-Status: Final  
-Time: 2026-11-11T02:00Z  
-Venue: Mortgage Matchup Center  
-Location: Phoenix, AZ  
+**San Antonio Spurs** vs **Chicago Bulls**  
+Status: Scheduled  
+Time: 2026-11-12T01:00Z  
+Venue: United Center  
+Location: Chicago, IL  
 
 ---
-**Miami Heat** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-11-11T02:00Z  
+**Denver Nuggets** vs **Memphis Grizzlies**  
+Status: Scheduled  
+Time: 2026-11-12T01:00Z  
+Venue: FedExForum  
+Location: Memphis, TN  
+
+---
+**Los Angeles Lakers** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-11-12T01:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
+
+---
+**Brooklyn Nets** vs **New Orleans Pelicans**  
+Status: Scheduled  
+Time: 2026-11-12T01:00Z  
+Venue: Smoothie King Center  
+Location: New Orleans, LA  
+
+---
+**Orlando Magic** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-11-12T02:00Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
 
 ---
-**Orlando Magic** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-11-11T03:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**Golden State Warriors** vs **Houston Rockets**  
+Status: Scheduled  
+Time: 2026-11-12T02:30Z  
+Venue: Toyota Center (Houston)  
+Location: Houston, TX  
 
 ---
 **Oklahoma City Thunder** vs **Portland Trail Blazers**  
-Status: Final  
-Time: 2026-11-11T04:00Z  
+Status: Scheduled  
+Time: 2026-11-12T03:00Z  
 Venue: Moda Center  
 Location: Portland, OR  
 
@@ -185,7 +213,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 11, 2026 at 07:19 AM |
+| Last update | November 11, 2026 at 07:56 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

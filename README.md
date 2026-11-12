@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.6 °F |
-| Feels Like | 67.1 °F |
-| Humidity | 100% |
-| Wind | 3.4 mph |
+| Temperature | 69.6 °F |
+| Feels Like | 65.7 °F |
+| Humidity | 37% |
+| Wind | 4.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,74 +36,32 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Washington Wizards** vs **Indiana Pacers**  
-Status: Final  
-Time: 2026-11-12T00:00Z  
-Venue: Gainbridge Fieldhouse  
-Location: Indianapolis, IN  
+**Toronto Raptors** vs **Philadelphia 76ers**  
+Status: Scheduled  
+Time: 2026-11-13T00:00Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
 
 ---
-**Cleveland Cavaliers** vs **New York Knicks**  
-Status: Final  
-Time: 2026-11-12T00:00Z  
-Venue: Madison Square Garden  
-Location: New York, NY  
+**Detroit Pistons** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-11-13T00:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
 
 ---
-**Boston Celtics** vs **Toronto Raptors**  
-Status: Final  
-Time: 2026-11-12T00:00Z  
-Venue: Scotiabank Arena  
-Location: Toronto, ON  
+**Dallas Mavericks** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-11-13T01:00Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
 
 ---
-**San Antonio Spurs** vs **Chicago Bulls**  
-Status: Final  
-Time: 2026-11-12T01:00Z  
-Venue: United Center  
-Location: Chicago, IL  
-
----
-**Denver Nuggets** vs **Memphis Grizzlies**  
-Status: Final  
-Time: 2026-11-12T01:00Z  
-Venue: FedExForum  
-Location: Memphis, TN  
-
----
-**Los Angeles Lakers** vs **Milwaukee Bucks**  
-Status: Final  
-Time: 2026-11-12T01:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
-
----
-**Brooklyn Nets** vs **New Orleans Pelicans**  
-Status: Final  
-Time: 2026-11-12T01:00Z  
-Venue: Smoothie King Center  
-Location: New Orleans, LA  
-
----
-**Orlando Magic** vs **Utah Jazz**  
-Status: Final  
-Time: 2026-11-12T02:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
-
----
-**Golden State Warriors** vs **Houston Rockets**  
-Status: Final  
-Time: 2026-11-12T02:30Z  
-Venue: Toyota Center (Houston)  
-Location: Houston, TX  
-
----
-**Oklahoma City Thunder** vs **Portland Trail Blazers**  
-Status: Final  
-Time: 2026-11-12T03:00Z  
-Venue: Moda Center  
-Location: Portland, OR  
+**Charlotte Hornets** vs **Phoenix Suns**  
+Status: Scheduled  
+Time: 2026-11-13T02:00Z  
+Venue: Mortgage Matchup Center  
+Location: Phoenix, AZ  
 
 ---
 
@@ -213,7 +171,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 12, 2026 at 07:49 AM |
+| Last update | November 12, 2026 at 11:57 PM |
 | Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

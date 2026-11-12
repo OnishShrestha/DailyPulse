@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Minneapolis, Minnesota
+### Houston, Texas
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 54.5 °F |
-| Feels Like | 47.6 °F |
-| Humidity | 59% |
-| Wind | 10.8 mph |
+| Temperature | 69.2 °F |
+| Feels Like | 74.1 °F |
+| Humidity | 91% |
+| Wind | 3.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,49 +37,49 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Washington Wizards** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-12T00:00Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Cleveland Cavaliers** vs **New York Knicks**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-12T00:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Boston Celtics** vs **Toronto Raptors**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-12T00:00Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **San Antonio Spurs** vs **Chicago Bulls**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-12T01:00Z  
 Venue: United Center  
 Location: Chicago, IL  
 
 ---
 **Denver Nuggets** vs **Memphis Grizzlies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-12T01:00Z  
 Venue: FedExForum  
 Location: Memphis, TN  
 
 ---
 **Los Angeles Lakers** vs **Milwaukee Bucks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-12T01:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
 
 ---
 **Brooklyn Nets** vs **New Orleans Pelicans**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-12T01:00Z  
 Venue: Smoothie King Center  
 Location: New Orleans, LA  
@@ -213,8 +213,8 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 11, 2026 at 07:56 PM |
-| Daily location | Minneapolis |
+| Last update | November 12, 2026 at 01:17 AM |
+| Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

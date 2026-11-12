@@ -654,5 +654,13 @@
         "latitude": 44.9778,
         "longitude": -93.265,
         "timezone": "America/Chicago"
+    },
+    "2026-11-12": {
+        "city": "Houston",
+        "state": "Texas",
+        "country": "USA",
+        "latitude": 29.7604,
+        "longitude": -95.3698,
+        "timezone": "America/Chicago"
     }
 }

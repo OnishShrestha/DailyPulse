@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 69.2 °F |
-| Feels Like | 74.1 °F |
-| Humidity | 91% |
-| Wind | 3.1 mph |
+| Temperature | 63.6 °F |
+| Feels Like | 67.1 °F |
+| Humidity | 100% |
+| Wind | 3.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,70 +37,70 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Washington Wizards** vs **Indiana Pacers**  
-Status: Halftime  
+Status: Final  
 Time: 2026-11-12T00:00Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Cleveland Cavaliers** vs **New York Knicks**  
-Status: Halftime  
+Status: Final  
 Time: 2026-11-12T00:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Boston Celtics** vs **Toronto Raptors**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-12T00:00Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **San Antonio Spurs** vs **Chicago Bulls**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-12T01:00Z  
 Venue: United Center  
 Location: Chicago, IL  
 
 ---
 **Denver Nuggets** vs **Memphis Grizzlies**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-12T01:00Z  
 Venue: FedExForum  
 Location: Memphis, TN  
 
 ---
 **Los Angeles Lakers** vs **Milwaukee Bucks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-12T01:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
 
 ---
 **Brooklyn Nets** vs **New Orleans Pelicans**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-12T01:00Z  
 Venue: Smoothie King Center  
 Location: New Orleans, LA  
 
 ---
 **Orlando Magic** vs **Utah Jazz**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-12T02:00Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
 
 ---
 **Golden State Warriors** vs **Houston Rockets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-12T02:30Z  
 Venue: Toyota Center (Houston)  
 Location: Houston, TX  
 
 ---
 **Oklahoma City Thunder** vs **Portland Trail Blazers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-12T03:00Z  
 Venue: Moda Center  
 Location: Portland, OR  
@@ -213,7 +213,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 12, 2026 at 01:17 AM |
+| Last update | November 12, 2026 at 07:49 AM |
 | Daily location | Houston |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

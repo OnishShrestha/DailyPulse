@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 32.9 °F |
-| Feels Like | 26.6 °F |
-| Humidity | 71% |
-| Wind | 3.6 mph |
+| Temperature | 28.7 °F |
+| Feels Like | 22.5 °F |
+| Humidity | 86% |
+| Wind | 3.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,63 +37,63 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **New York Knicks** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T00:00Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Milwaukee Bucks** vs **Orlando Magic**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T00:00Z  
 Venue: Kia Center  
 Location: Orlando, FL  
 
 ---
 **Cleveland Cavaliers** vs **Miami Heat**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T01:00Z  
 Venue: Kaseya Center  
 Location: Miami, FL  
 
 ---
 **Atlanta Hawks** vs **Chicago Bulls**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T01:00Z  
 Venue: United Center  
 Location: Chicago, IL  
 
 ---
 **Memphis Grizzlies** vs **New Orleans Pelicans**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T01:00Z  
 Venue: Smoothie King Center  
 Location: New Orleans, LA  
 
 ---
 **Utah Jazz** vs **Houston Rockets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T01:30Z  
 Venue: Toyota Center (Houston)  
 Location: Houston, TX  
 
 ---
 **Golden State Warriors** vs **San Antonio Spurs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T02:30Z  
 Venue: Frost Bank Center  
 Location: San Antonio, TX  
 
 ---
 **Portland Trail Blazers** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T03:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
 
 ---
 **Oklahoma City Thunder** vs **LA Clippers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-14T03:30Z  
 Venue: Intuit Dome  
 Location: Inglewood, CA  
@@ -206,7 +206,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 14, 2026 at 12:08 AM |
+| Last update | November 14, 2026 at 07:07 AM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

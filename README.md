@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 28.7 °F |
-| Feels Like | 22.5 °F |
-| Humidity | 86% |
-| Wind | 3.4 mph |
+| Temperature | 40.7 °F |
+| Feels Like | 34.4 °F |
+| Humidity | 46% |
+| Wind | 2.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,67 +36,39 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**New York Knicks** vs **Indiana Pacers**  
-Status: Final  
-Time: 2026-11-14T00:00Z  
-Venue: Gainbridge Fieldhouse  
-Location: Indianapolis, IN  
-
----
-**Milwaukee Bucks** vs **Orlando Magic**  
-Status: Final  
-Time: 2026-11-14T00:00Z  
-Venue: Kia Center  
-Location: Orlando, FL  
-
----
-**Cleveland Cavaliers** vs **Miami Heat**  
-Status: Final  
-Time: 2026-11-14T01:00Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
-
----
-**Atlanta Hawks** vs **Chicago Bulls**  
-Status: Final  
-Time: 2026-11-14T01:00Z  
-Venue: United Center  
-Location: Chicago, IL  
-
----
-**Memphis Grizzlies** vs **New Orleans Pelicans**  
-Status: Final  
-Time: 2026-11-14T01:00Z  
+**Denver Nuggets** vs **New Orleans Pelicans**  
+Status: Scheduled  
+Time: 2026-11-15T00:00Z  
 Venue: Smoothie King Center  
 Location: New Orleans, LA  
 
 ---
-**Utah Jazz** vs **Houston Rockets**  
-Status: Final  
-Time: 2026-11-14T01:30Z  
-Venue: Toyota Center (Houston)  
-Location: Houston, TX  
+**Dallas Mavericks** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-11-15T00:30Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
 
 ---
-**Golden State Warriors** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-11-14T02:30Z  
-Venue: Frost Bank Center  
-Location: San Antonio, TX  
+**Detroit Pistons** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-11-15T01:00Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
 
 ---
-**Portland Trail Blazers** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-11-14T03:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**Brooklyn Nets** vs **Memphis Grizzlies**  
+Status: Scheduled  
+Time: 2026-11-15T01:00Z  
+Venue: FedExForum  
+Location: Memphis, TN  
 
 ---
-**Oklahoma City Thunder** vs **LA Clippers**  
-Status: Final  
-Time: 2026-11-14T03:30Z  
-Venue: Intuit Dome  
-Location: Inglewood, CA  
+**Chicago Bulls** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-11-15T01:00Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
 
 ---
 
@@ -206,7 +178,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 14, 2026 at 07:07 AM |
+| Last update | November 14, 2026 at 06:36 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

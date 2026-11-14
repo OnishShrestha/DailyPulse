@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 40.7 °F |
-| Feels Like | 34.4 °F |
+| Temperature | 40.0 °F |
+| Feels Like | 33.7 °F |
 | Humidity | 46% |
-| Wind | 2.7 mph |
+| Wind | 2.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -178,7 +178,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 14, 2026 at 06:36 PM |
+| Last update | November 14, 2026 at 10:51 PM |
 | Daily location | Minneapolis |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

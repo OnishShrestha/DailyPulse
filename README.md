@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 53.2 °F |
-| Feels Like | 46.8 °F |
-| Humidity | 42% |
-| Wind | 5.8 mph |
+| Temperature | 65.3 °F |
+| Feels Like | 61.3 °F |
+| Humidity | 40% |
+| Wind | 4.3 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,97 +36,125 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Denver Nuggets** vs **New Orleans Pelicans**  
-Status: Final  
-Time: 2026-11-15T00:00Z  
-Venue: Smoothie King Center  
-Location: New Orleans, LA  
+**Indiana Pacers** vs **Philadelphia 76ers**  
+Status: Halftime  
+Time: 2026-11-15T18:00Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
 
 ---
-**Dallas Mavericks** vs **Cleveland Cavaliers**  
-Status: Final  
-Time: 2026-11-15T00:30Z  
-Venue: Rocket Arena  
-Location: Cleveland, OH  
+**Los Angeles Lakers** vs **Phoenix Suns**  
+Status: Scheduled  
+Time: 2026-11-15T21:00Z  
+Venue: Mortgage Matchup Center  
+Location: Phoenix, AZ  
 
 ---
-**Detroit Pistons** vs **Miami Heat**  
-Status: Final  
-Time: 2026-11-15T01:00Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
+**Charlotte Hornets** vs **LA Clippers**  
+Status: Scheduled  
+Time: 2026-11-15T21:30Z  
+Venue: Intuit Dome  
+Location: Inglewood, CA  
 
 ---
-**Brooklyn Nets** vs **Memphis Grizzlies**  
-Status: Final  
-Time: 2026-11-15T01:00Z  
-Venue: FedExForum  
-Location: Memphis, TN  
+**San Antonio Spurs** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-11-15T22:00Z  
+Venue: Delta Center  
+Location: Salt Lake City, UT  
 
 ---
-**Chicago Bulls** vs **Minnesota Timberwolves**  
-Status: Final  
-Time: 2026-11-15T01:00Z  
-Venue: Target Center  
-Location: Minneapolis, MN  
+**Dallas Mavericks** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-11-15T23:00Z  
+Venue: TD Garden  
+Location: Boston, MA  
+
+---
+**New York Knicks** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-11-15T23:00Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
+
+---
+**Houston Rockets** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-11-16T00:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
+
+---
+**Atlanta Hawks** vs **Milwaukee Bucks**  
+Status: Scheduled  
+Time: 2026-11-16T01:00Z  
+Venue: Fiserv Forum  
+Location: Milwaukee, WI  
+
+---
+**Oklahoma City Thunder** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-11-16T02:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
 ## 🏈 NFL
-**New England Patriots** vs **Detroit Lions**  
-Status: Scheduled  
-Time: 2026-11-15T14:30Z  
-Venue: FC Bayern Munich Stadium  
-Location: Munich,   
-
----
 **Kansas City Chiefs** vs **Atlanta Falcons**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-15T18:00Z  
 Venue: Mercedes-Benz Stadium  
 Location: Atlanta, GA  
 
 ---
 **Houston Texans** vs **Cleveland Browns**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-15T18:00Z  
 Venue: Huntington Bank Field  
 Location: Cleveland, OH  
 
 ---
 **Minnesota Vikings** vs **Green Bay Packers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-15T18:00Z  
 Venue: Lambeau Field  
 Location: Green Bay, WI  
 
 ---
 **Jacksonville Jaguars** vs **Tennessee Titans**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-15T18:00Z  
 Venue: Nissan Stadium  
 Location: Nashville, TN  
 
 ---
 **Miami Dolphins** vs **Indianapolis Colts**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-15T18:00Z  
 Venue: Lucas Oil Stadium  
 Location: Indianapolis, IN  
 
 ---
 **Carolina Panthers** vs **New Orleans Saints**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-15T18:00Z  
 Venue: Caesars Superdome  
 Location: New Orleans, LA  
 
 ---
 **Buffalo Bills** vs **New York Jets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-15T18:00Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
+
+---
+**New England Patriots** vs **Detroit Lions**  
+Status: Final  
+Time: 2026-11-15T14:30Z  
+Venue: FC Bayern Munich Stadium  
+Location: Munich,   
 
 ---
 **Seattle Seahawks** vs **Las Vegas Raiders**  
@@ -178,7 +206,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 15, 2026 at 07:18 AM |
+| Last update | November 15, 2026 at 07:11 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

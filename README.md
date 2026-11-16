@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 66.8 °F |
-| Feels Like | 62.4 °F |
-| Humidity | 43% |
-| Wind | 6.6 mph |
+| Temperature | 64.8 °F |
+| Feels Like | 62.5 °F |
+| Humidity | 49% |
+| Wind | 2.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,90 +36,76 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Indiana Pacers** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-11-15T18:00Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
-
----
-**Los Angeles Lakers** vs **Phoenix Suns**  
-Status: In Progress  
-Time: 2026-11-15T21:00Z  
-Venue: Mortgage Matchup Center  
-Location: Phoenix, AZ  
-
----
-**Charlotte Hornets** vs **LA Clippers**  
-Status: In Progress  
-Time: 2026-11-15T21:30Z  
-Venue: Intuit Dome  
-Location: Inglewood, CA  
-
----
-**San Antonio Spurs** vs **Utah Jazz**  
-Status: Halftime  
-Time: 2026-11-15T22:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
-
----
-**Dallas Mavericks** vs **Boston Celtics**  
-Status: In Progress  
-Time: 2026-11-15T23:00Z  
+**Orlando Magic** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-11-17T00:00Z  
 Venue: TD Garden  
 Location: Boston, MA  
 
 ---
-**New York Knicks** vs **Toronto Raptors**  
-Status: In Progress  
-Time: 2026-11-15T23:00Z  
-Venue: Scotiabank Arena  
-Location: Toronto, ON  
+**Chicago Bulls** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-11-17T00:00Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
 
 ---
-**Houston Rockets** vs **Washington Wizards**  
+**Memphis Grizzlies** vs **Washington Wizards**  
 Status: Scheduled  
-Time: 2026-11-16T00:00Z  
+Time: 2026-11-17T00:00Z  
 Venue: Capital One Arena  
 Location: Washington, DC  
 
 ---
-**Atlanta Hawks** vs **Milwaukee Bucks**  
+**Philadelphia 76ers** vs **Brooklyn Nets**  
 Status: Scheduled  
-Time: 2026-11-16T01:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
+Time: 2026-11-17T00:30Z  
+Venue: Barclays Center  
+Location: Brooklyn, NY  
 
 ---
-**Oklahoma City Thunder** vs **Sacramento Kings**  
+**Houston Rockets** vs **Miami Heat**  
 Status: Scheduled  
-Time: 2026-11-16T02:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+Time: 2026-11-17T00:30Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
+
+---
+**Portland Trail Blazers** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-11-17T01:00Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
+
+---
+**Golden State Warriors** vs **New Orleans Pelicans**  
+Status: Scheduled  
+Time: 2026-11-17T01:00Z  
+Venue: Smoothie King Center  
+Location: New Orleans, LA  
+
+---
+**Phoenix Suns** vs **Denver Nuggets**  
+Status: Scheduled  
+Time: 2026-11-17T02:00Z  
+Venue: Ball Arena  
+Location: Denver, CO  
 
 ---
 
 ## 🏈 NFL
-**Seattle Seahawks** vs **Las Vegas Raiders**  
-Status: In Progress  
-Time: 2026-11-15T21:05Z  
-Venue: Allegiant Stadium  
-Location: Las Vegas, NV  
+**Los Angeles Chargers** vs **Baltimore Ravens**  
+Status: Scheduled  
+Time: 2026-11-17T01:15Z  
+Venue: M&T Bank Stadium  
+Location: Baltimore, MD  
 
 ---
-**Los Angeles Rams** vs **Arizona Cardinals**  
-Status: In Progress  
-Time: 2026-11-15T21:05Z  
-Venue: State Farm Stadium  
-Location: Glendale, AZ  
-
----
-**San Francisco 49ers** vs **Dallas Cowboys**  
-Status: In Progress  
-Time: 2026-11-15T21:25Z  
-Venue: AT&T Stadium  
-Location: Arlington, TX  
+**Washington Commanders** vs **New York Giants**  
+Status: Final  
+Time: 2026-11-13T01:15Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
 
 ---
 **New England Patriots** vs **Detroit Lions**  
@@ -178,25 +164,32 @@ Venue: MetLife Stadium
 Location: East Rutherford, NJ  
 
 ---
+**Seattle Seahawks** vs **Las Vegas Raiders**  
+Status: Final  
+Time: 2026-11-15T21:05Z  
+Venue: Allegiant Stadium  
+Location: Las Vegas, NV  
+
+---
+**Los Angeles Rams** vs **Arizona Cardinals**  
+Status: Final  
+Time: 2026-11-15T21:05Z  
+Venue: State Farm Stadium  
+Location: Glendale, AZ  
+
+---
+**San Francisco 49ers** vs **Dallas Cowboys**  
+Status: Final  
+Time: 2026-11-15T21:25Z  
+Venue: AT&T Stadium  
+Location: Arlington, TX  
+
+---
 **Pittsburgh Steelers** vs **Cincinnati Bengals**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-16T01:20Z  
 Venue: Paycor Stadium  
 Location: Cincinnati, OH  
-
----
-**Washington Commanders** vs **New York Giants**  
-Status: Final  
-Time: 2026-11-13T01:15Z  
-Venue: MetLife Stadium  
-Location: East Rutherford, NJ  
-
----
-**Los Angeles Chargers** vs **Baltimore Ravens**  
-Status: Scheduled  
-Time: 2026-11-17T01:15Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
 
 ---
 
@@ -206,7 +199,7 @@ Location: Baltimore, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 15, 2026 at 11:19 PM |
+| Last update | November 16, 2026 at 10:40 PM |
 | Daily location | Las Vegas |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

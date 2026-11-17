@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.2 °F |
-| Feels Like | 63.4 °F |
-| Humidity | 71% |
-| Wind | 2.1 mph |
+| Temperature | 69.5 °F |
+| Feels Like | 62.0 °F |
+| Humidity | 18% |
+| Wind | 6.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,71 +36,43 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Orlando Magic** vs **Boston Celtics**  
-Status: In Progress  
-Time: 2026-11-17T00:00Z  
-Venue: TD Garden  
-Location: Boston, MA  
-
----
-**Chicago Bulls** vs **Cleveland Cavaliers**  
-Status: In Progress  
-Time: 2026-11-17T00:00Z  
-Venue: Rocket Arena  
-Location: Cleveland, OH  
-
----
-**Memphis Grizzlies** vs **Washington Wizards**  
-Status: In Progress  
-Time: 2026-11-17T00:00Z  
-Venue: Capital One Arena  
-Location: Washington, DC  
-
----
-**Philadelphia 76ers** vs **Brooklyn Nets**  
-Status: In Progress  
-Time: 2026-11-17T00:30Z  
-Venue: Barclays Center  
-Location: Brooklyn, NY  
-
----
-**Houston Rockets** vs **Miami Heat**  
-Status: In Progress  
-Time: 2026-11-17T00:30Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
+**New York Knicks** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-11-18T00:30Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
 
 ---
 **Portland Trail Blazers** vs **Minnesota Timberwolves**  
-Status: Halftime  
-Time: 2026-11-17T01:00Z  
+Status: Scheduled  
+Time: 2026-11-18T01:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
-**Golden State Warriors** vs **New Orleans Pelicans**  
-Status: Halftime  
-Time: 2026-11-17T01:00Z  
-Venue: Smoothie King Center  
-Location: New Orleans, LA  
+**Detroit Pistons** vs **San Antonio Spurs**  
+Status: Scheduled  
+Time: 2026-11-18T01:00Z  
+Venue: Frost Bank Center  
+Location: San Antonio, TX  
 
 ---
-**Phoenix Suns** vs **Denver Nuggets**  
-Status: In Progress  
-Time: 2026-11-17T02:00Z  
-Venue: Ball Arena  
-Location: Denver, CO  
+**Utah Jazz** vs **LA Clippers**  
+Status: Scheduled  
+Time: 2026-11-18T03:30Z  
+Venue: Intuit Dome  
+Location: Inglewood, CA  
+
+---
+**Charlotte Hornets** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-11-18T04:00Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
 
 ---
 
 ## 🏈 NFL
-**Los Angeles Chargers** vs **Baltimore Ravens**  
-Status: In Progress  
-Time: 2026-11-17T01:15Z  
-Venue: M&T Bank Stadium  
-Location: Baltimore, MD  
-
----
 **Washington Commanders** vs **New York Giants**  
 Status: Final  
 Time: 2026-11-13T01:15Z  
@@ -192,6 +164,13 @@ Venue: Paycor Stadium
 Location: Cincinnati, OH  
 
 ---
+**Los Angeles Chargers** vs **Baltimore Ravens**  
+Status: Final  
+Time: 2026-11-17T01:15Z  
+Venue: M&T Bank Stadium  
+Location: Baltimore, MD  
+
+---
 
 ---
 
@@ -199,7 +178,7 @@ Location: Cincinnati, OH
 
 | Item | Value |
 |---|---|
-| Last update | November 17, 2026 at 02:17 AM |
+| Last update | November 17, 2026 at 09:27 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

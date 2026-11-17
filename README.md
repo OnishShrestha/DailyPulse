@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Las Vegas, Nevada
+### Los Angeles, California
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 64.8 °F |
-| Feels Like | 62.5 °F |
-| Humidity | 49% |
-| Wind | 2.6 mph |
+| Temperature | 63.2 °F |
+| Feels Like | 63.4 °F |
+| Humidity | 71% |
+| Wind | 2.1 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,56 +37,56 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Orlando Magic** vs **Boston Celtics**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-17T00:00Z  
 Venue: TD Garden  
 Location: Boston, MA  
 
 ---
 **Chicago Bulls** vs **Cleveland Cavaliers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-17T00:00Z  
 Venue: Rocket Arena  
 Location: Cleveland, OH  
 
 ---
 **Memphis Grizzlies** vs **Washington Wizards**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-17T00:00Z  
 Venue: Capital One Arena  
 Location: Washington, DC  
 
 ---
 **Philadelphia 76ers** vs **Brooklyn Nets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-17T00:30Z  
 Venue: Barclays Center  
 Location: Brooklyn, NY  
 
 ---
 **Houston Rockets** vs **Miami Heat**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-17T00:30Z  
 Venue: Kaseya Center  
 Location: Miami, FL  
 
 ---
 **Portland Trail Blazers** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-17T01:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **Golden State Warriors** vs **New Orleans Pelicans**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-17T01:00Z  
 Venue: Smoothie King Center  
 Location: New Orleans, LA  
 
 ---
 **Phoenix Suns** vs **Denver Nuggets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-17T02:00Z  
 Venue: Ball Arena  
 Location: Denver, CO  
@@ -95,7 +95,7 @@ Location: Denver, CO
 
 ## 🏈 NFL
 **Los Angeles Chargers** vs **Baltimore Ravens**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-17T01:15Z  
 Venue: M&T Bank Stadium  
 Location: Baltimore, MD  
@@ -199,8 +199,8 @@ Location: Cincinnati, OH
 
 | Item | Value |
 |---|---|
-| Last update | November 16, 2026 at 10:40 PM |
-| Daily location | Las Vegas |
+| Last update | November 17, 2026 at 02:17 AM |
+| Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

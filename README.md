@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 38.0 °F |
-| Feels Like | 32.7 °F |
-| Humidity | 85% |
-| Wind | 4.0 mph |
+| Temperature | 61.6 °F |
+| Feels Like | 54.9 °F |
+| Humidity | 26% |
+| Wind | 4.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,39 +36,88 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**New York Knicks** vs **Toronto Raptors**  
-Status: Final  
-Time: 2026-11-18T00:30Z  
+**Memphis Grizzlies** vs **Cleveland Cavaliers**  
+Status: Scheduled  
+Time: 2026-11-19T00:00Z  
+Venue: Rocket Arena  
+Location: Cleveland, OH  
+
+---
+**Houston Rockets** vs **Indiana Pacers**  
+Status: Scheduled  
+Time: 2026-11-19T00:00Z  
+Venue: Gainbridge Fieldhouse  
+Location: Indianapolis, IN  
+
+---
+**Milwaukee Bucks** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-11-19T00:00Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
+
+---
+**Philadelphia 76ers** vs **Orlando Magic**  
+Status: Scheduled  
+Time: 2026-11-19T00:00Z  
+Venue: Kia Center  
+Location: Orlando, FL  
+
+---
+**Chicago Bulls** vs **Brooklyn Nets**  
+Status: Scheduled  
+Time: 2026-11-19T00:30Z  
+Venue: Barclays Center  
+Location: Brooklyn, NY  
+
+---
+**Washington Wizards** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-11-19T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
-**Portland Trail Blazers** vs **Minnesota Timberwolves**  
-Status: Final  
-Time: 2026-11-18T01:00Z  
-Venue: Target Center  
-Location: Minneapolis, MN  
+**Detroit Pistons** vs **New Orleans Pelicans**  
+Status: Scheduled  
+Time: 2026-11-19T01:00Z  
+Venue: Smoothie King Center  
+Location: New Orleans, LA  
 
 ---
-**Detroit Pistons** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-11-18T01:00Z  
-Venue: Frost Bank Center  
-Location: San Antonio, TX  
+**Atlanta Hawks** vs **Oklahoma City Thunder**  
+Status: Scheduled  
+Time: 2026-11-19T01:00Z  
+Venue: Paycom Center  
+Location: Oklahoma City, OK  
 
 ---
-**Utah Jazz** vs **LA Clippers**  
-Status: Final  
-Time: 2026-11-18T03:30Z  
-Venue: Intuit Dome  
-Location: Inglewood, CA  
+**Golden State Warriors** vs **Dallas Mavericks**  
+Status: Scheduled  
+Time: 2026-11-19T01:00Z  
+Venue: American Airlines Center  
+Location: Dallas, TX  
 
 ---
-**Charlotte Hornets** vs **Los Angeles Lakers**  
-Status: Final  
-Time: 2026-11-18T04:00Z  
+**Boston Celtics** vs **Denver Nuggets**  
+Status: Scheduled  
+Time: 2026-11-19T02:30Z  
+Venue: Ball Arena  
+Location: Denver, CO  
+
+---
+**Utah Jazz** vs **Los Angeles Lakers**  
+Status: Scheduled  
+Time: 2026-11-19T03:00Z  
 Venue: crypto.com Arena  
 Location: Los Angeles, CA  
+
+---
+**Phoenix Suns** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-11-19T03:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
@@ -171,7 +220,7 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 18, 2026 at 08:01 AM |
+| Last update | November 18, 2026 at 09:01 PM |
 | Daily location | Philadelphia |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

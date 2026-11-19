@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Philadelphia, Pennsylvania
+### Miami, Florida
 
 🇺🇸 USA
 
@@ -16,11 +16,11 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 61.6 °F |
-| Feels Like | 54.9 °F |
-| Humidity | 26% |
-| Wind | 4.9 mph |
-| Precipitation | 0.0 in |
+| Temperature | 71.8 °F |
+| Feels Like | 73.9 °F |
+| Humidity | 90% |
+| Wind | 12.4 mph |
+| Precipitation | 0.004 in |
 
 ---
 
@@ -37,42 +37,42 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Memphis Grizzlies** vs **Cleveland Cavaliers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-19T00:00Z  
 Venue: Rocket Arena  
 Location: Cleveland, OH  
 
 ---
 **Houston Rockets** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-19T00:00Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Milwaukee Bucks** vs **Miami Heat**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-19T00:00Z  
 Venue: Kaseya Center  
 Location: Miami, FL  
 
 ---
 **Philadelphia 76ers** vs **Orlando Magic**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-19T00:00Z  
 Venue: Kia Center  
 Location: Orlando, FL  
 
 ---
 **Chicago Bulls** vs **Brooklyn Nets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-19T00:30Z  
 Venue: Barclays Center  
 Location: Brooklyn, NY  
 
 ---
 **Washington Wizards** vs **Toronto Raptors**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-19T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
@@ -220,8 +220,8 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 18, 2026 at 09:01 PM |
-| Daily location | Philadelphia |
+| Last update | November 19, 2026 at 12:56 AM |
+| Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

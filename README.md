@@ -16,11 +16,11 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 71.8 °F |
-| Feels Like | 73.9 °F |
-| Humidity | 90% |
-| Wind | 12.4 mph |
-| Precipitation | 0.004 in |
+| Temperature | 73.0 °F |
+| Feels Like | 77.6 °F |
+| Humidity | 89% |
+| Wind | 7.5 mph |
+| Precipitation | 0.0 in |
 
 ---
 
@@ -37,84 +37,84 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Memphis Grizzlies** vs **Cleveland Cavaliers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-19T00:00Z  
 Venue: Rocket Arena  
 Location: Cleveland, OH  
 
 ---
 **Houston Rockets** vs **Indiana Pacers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-19T00:00Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Milwaukee Bucks** vs **Miami Heat**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-19T00:00Z  
 Venue: Kaseya Center  
 Location: Miami, FL  
 
 ---
 **Philadelphia 76ers** vs **Orlando Magic**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-19T00:00Z  
 Venue: Kia Center  
 Location: Orlando, FL  
 
 ---
 **Chicago Bulls** vs **Brooklyn Nets**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-19T00:30Z  
 Venue: Barclays Center  
 Location: Brooklyn, NY  
 
 ---
 **Washington Wizards** vs **Toronto Raptors**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-19T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **Detroit Pistons** vs **New Orleans Pelicans**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-19T01:00Z  
 Venue: Smoothie King Center  
 Location: New Orleans, LA  
 
 ---
 **Atlanta Hawks** vs **Oklahoma City Thunder**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-19T01:00Z  
 Venue: Paycom Center  
 Location: Oklahoma City, OK  
 
 ---
 **Golden State Warriors** vs **Dallas Mavericks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-19T01:00Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
 **Boston Celtics** vs **Denver Nuggets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-19T02:30Z  
 Venue: Ball Arena  
 Location: Denver, CO  
 
 ---
 **Utah Jazz** vs **Los Angeles Lakers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-19T03:00Z  
 Venue: crypto.com Arena  
 Location: Los Angeles, CA  
 
 ---
 **Phoenix Suns** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-19T03:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
@@ -220,7 +220,7 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 19, 2026 at 12:56 AM |
+| Last update | November 19, 2026 at 08:06 AM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

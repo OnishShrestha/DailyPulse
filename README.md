@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 43.2 °F |
-| Feels Like | 38.1 °F |
-| Humidity | 77% |
-| Wind | 4.9 mph |
+| Temperature | 35.3 °F |
+| Feels Like | 29.2 °F |
+| Humidity | 79% |
+| Wind | 4.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,28 +37,28 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Golden State Warriors** vs **Memphis Grizzlies**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-20T01:00Z  
 Venue: FedExForum  
 Location: Memphis, TN  
 
 ---
 **Portland Trail Blazers** vs **Milwaukee Bucks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-20T01:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
 
 ---
 **New York Knicks** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-20T01:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **LA Clippers** vs **San Antonio Spurs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-20T01:00Z  
 Venue: Frost Bank Center  
 Location: San Antonio, TX  
@@ -67,7 +67,7 @@ Location: San Antonio, TX
 
 ## 🏈 NFL
 **Indianapolis Colts** vs **Houston Texans**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-20T01:15Z  
 Venue: Reliant Stadium  
 Location: Houston, TX  
@@ -164,7 +164,7 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 20, 2026 at 01:00 AM |
+| Last update | November 20, 2026 at 07:52 AM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

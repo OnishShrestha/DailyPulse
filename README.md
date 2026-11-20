@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Miami, Florida
+### Seattle, Washington
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 77.9 °F |
-| Feels Like | 84.5 °F |
-| Humidity | 84% |
-| Wind | 7.0 mph |
+| Temperature | 43.2 °F |
+| Feels Like | 38.1 °F |
+| Humidity | 77% |
+| Wind | 4.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -164,8 +164,8 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 19, 2026 at 09:05 PM |
-| Daily location | Miami |
+| Last update | November 20, 2026 at 01:00 AM |
+| Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

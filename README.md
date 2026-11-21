@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 56.5 °F |
-| Feels Like | 52.1 °F |
-| Humidity | 49% |
-| Wind | 3.6 mph |
+| Temperature | 63.9 °F |
+| Feels Like | 58.2 °F |
+| Humidity | 41% |
+| Wind | 7.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,67 +36,46 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Charlotte Hornets** vs **Atlanta Hawks**  
+**Milwaukee Bucks** vs **Philadelphia 76ers**  
 Status: In Progress  
-Time: 2026-11-21T00:00Z  
-Venue: State Farm Arena  
-Location: Atlanta, GA  
+Time: 2026-11-21T18:00Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
 
 ---
-**Orlando Magic** vs **Brooklyn Nets**  
+**Portland Trail Blazers** vs **New York Knicks**  
 Status: Scheduled  
-Time: 2026-11-21T00:30Z  
-Venue: Barclays Center  
-Location: Brooklyn, NY  
+Time: 2026-11-22T00:30Z  
+Venue: Madison Square Garden  
+Location: New York, NY  
 
 ---
-**Indiana Pacers** vs **Cleveland Cavaliers**  
+**LA Clippers** vs **Dallas Mavericks**  
 Status: Scheduled  
-Time: 2026-11-21T00:30Z  
-Venue: Rocket Arena  
-Location: Cleveland, OH  
+Time: 2026-11-22T01:00Z  
+Venue: American Airlines Center  
+Location: Dallas, TX  
 
 ---
-**Toronto Raptors** vs **Detroit Pistons**  
+**Memphis Grizzlies** vs **Minnesota Timberwolves**  
 Status: Scheduled  
-Time: 2026-11-21T00:30Z  
-Venue: Little Caesars Arena  
-Location: Detroit, MI  
+Time: 2026-11-22T01:00Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
 
 ---
-**Washington Wizards** vs **Chicago Bulls**  
+**New Orleans Pelicans** vs **San Antonio Spurs**  
 Status: Scheduled  
-Time: 2026-11-21T01:00Z  
-Venue: United Center  
-Location: Chicago, IL  
+Time: 2026-11-22T01:00Z  
+Venue: Frost Bank Center  
+Location: San Antonio, TX  
 
 ---
-**New Orleans Pelicans** vs **Oklahoma City Thunder**  
+**Boston Celtics** vs **Sacramento Kings**  
 Status: Scheduled  
-Time: 2026-11-21T01:00Z  
-Venue: Paycom Center  
-Location: Oklahoma City, OK  
-
----
-**Phoenix Suns** vs **Utah Jazz**  
-Status: Scheduled  
-Time: 2026-11-21T02:30Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
-
----
-**Houston Rockets** vs **Denver Nuggets**  
-Status: Scheduled  
-Time: 2026-11-21T03:00Z  
-Venue: Ball Arena  
-Location: Denver, CO  
-
----
-**Sacramento Kings** vs **Los Angeles Lakers**  
-Status: Scheduled  
-Time: 2026-11-21T03:00Z  
-Venue: crypto.com Arena  
-Location: Los Angeles, CA  
+Time: 2026-11-22T03:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
@@ -199,7 +178,7 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 21, 2026 at 12:34 AM |
+| Last update | November 21, 2026 at 07:53 PM |
 | Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

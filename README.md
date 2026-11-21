@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Seattle, Washington
+### New York, New York
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 41.4 °F |
-| Feels Like | 37.3 °F |
-| Humidity | 90% |
-| Wind | 3.2 mph |
+| Temperature | 56.5 °F |
+| Feels Like | 52.1 °F |
+| Humidity | 49% |
+| Wind | 3.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,7 +37,7 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Charlotte Hornets** vs **Atlanta Hawks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-21T00:00Z  
 Venue: State Farm Arena  
 Location: Atlanta, GA  
@@ -199,8 +199,8 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 20, 2026 at 08:51 PM |
-| Daily location | Seattle |
+| Last update | November 21, 2026 at 12:34 AM |
+| Daily location | New York |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

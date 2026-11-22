@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 81.0 °F |
-| Feels Like | 87.3 °F |
-| Humidity | 71% |
-| Wind | 5.0 mph |
+| Temperature | 74.6 °F |
+| Feels Like | 79.0 °F |
+| Humidity | 77% |
+| Wind | 4.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,14 +37,14 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Detroit Pistons** vs **Atlanta Hawks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-22T20:30Z  
 Venue: State Farm Arena  
 Location: Atlanta, GA  
 
 ---
 **Oklahoma City Thunder** vs **Miami Heat**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T23:00Z  
 Venue: Kaseya Center  
 Location: Miami, FL  
@@ -87,74 +87,74 @@ Location: San Francisco, CA
 ---
 
 ## 🏈 NFL
-**Miami Dolphins** vs **Buffalo Bills**  
-Status: In Progress  
-Time: 2026-11-22T18:00Z  
-Venue: Highmark Stadium  
-Location: Orchard Park, NY  
-
----
-**New Orleans Saints** vs **Chicago Bears**  
-Status: In Progress  
-Time: 2026-11-22T18:00Z  
-Venue: Soldier Field  
-Location: Chicago, IL  
-
----
-**Tennessee Titans** vs **Dallas Cowboys**  
-Status: In Progress  
-Time: 2026-11-22T18:00Z  
-Venue: AT&T Stadium  
-Location: Arlington, TX  
-
----
-**Tampa Bay Buccaneers** vs **Detroit Lions**  
-Status: In Progress  
-Time: 2026-11-22T18:00Z  
-Venue: Ford Field  
-Location: Detroit, MI  
-
----
-**Arizona Cardinals** vs **Kansas City Chiefs**  
-Status: In Progress  
-Time: 2026-11-22T18:00Z  
-Venue: Arrowhead Stadium  
-Location: Kansas City, MO  
-
----
-**Pittsburgh Steelers** vs **Philadelphia Eagles**  
-Status: In Progress  
-Time: 2026-11-22T18:00Z  
-Venue: Lincoln Financial Field  
-Location: Philadelphia, PA  
-
----
-**Baltimore Ravens** vs **Carolina Panthers**  
-Status: In Progress  
-Time: 2026-11-22T18:00Z  
-Venue: Bank of America Stadium  
-Location: Charlotte, NC  
-
----
-**New York Jets** vs **Los Angeles Chargers**  
-Status: Scheduled  
-Time: 2026-11-22T21:05Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
-
----
 **Las Vegas Raiders** vs **Denver Broncos**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T21:25Z  
 Venue: Empower Field at Mile High  
 Location: Denver, CO  
 
 ---
 **Jacksonville Jaguars** vs **New York Giants**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T21:25Z  
 Venue: MetLife Stadium  
 Location: East Rutherford, NJ  
+
+---
+**Miami Dolphins** vs **Buffalo Bills**  
+Status: Final  
+Time: 2026-11-22T18:00Z  
+Venue: Highmark Stadium  
+Location: Orchard Park, NY  
+
+---
+**New Orleans Saints** vs **Chicago Bears**  
+Status: Final  
+Time: 2026-11-22T18:00Z  
+Venue: Soldier Field  
+Location: Chicago, IL  
+
+---
+**Tennessee Titans** vs **Dallas Cowboys**  
+Status: Final  
+Time: 2026-11-22T18:00Z  
+Venue: AT&T Stadium  
+Location: Arlington, TX  
+
+---
+**Tampa Bay Buccaneers** vs **Detroit Lions**  
+Status: Final  
+Time: 2026-11-22T18:00Z  
+Venue: Ford Field  
+Location: Detroit, MI  
+
+---
+**Arizona Cardinals** vs **Kansas City Chiefs**  
+Status: Final  
+Time: 2026-11-22T18:00Z  
+Venue: Arrowhead Stadium  
+Location: Kansas City, MO  
+
+---
+**Pittsburgh Steelers** vs **Philadelphia Eagles**  
+Status: Final  
+Time: 2026-11-22T18:00Z  
+Venue: Lincoln Financial Field  
+Location: Philadelphia, PA  
+
+---
+**Baltimore Ravens** vs **Carolina Panthers**  
+Status: Final  
+Time: 2026-11-22T18:00Z  
+Venue: Bank of America Stadium  
+Location: Charlotte, NC  
+
+---
+**New York Jets** vs **Los Angeles Chargers**  
+Status: Final  
+Time: 2026-11-22T21:05Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
 
 ---
 **Minnesota Vikings** vs **San Francisco 49ers**  
@@ -185,7 +185,7 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 22, 2026 at 08:04 PM |
+| Last update | November 22, 2026 at 11:58 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

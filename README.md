@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### New York, New York
+### Miami, Florida
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 63.9 °F |
-| Feels Like | 58.2 °F |
-| Humidity | 41% |
-| Wind | 7.6 mph |
+| Temperature | 73.6 °F |
+| Feels Like | 78.9 °F |
+| Humidity | 91% |
+| Wind | 7.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,42 +37,42 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Milwaukee Bucks** vs **Philadelphia 76ers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-21T18:00Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Portland Trail Blazers** vs **New York Knicks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-22T00:30Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **LA Clippers** vs **Dallas Mavericks**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-22T01:00Z  
 Venue: American Airlines Center  
 Location: Dallas, TX  
 
 ---
 **Memphis Grizzlies** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-22T01:00Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **New Orleans Pelicans** vs **San Antonio Spurs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-22T01:00Z  
 Venue: Frost Bank Center  
 Location: San Antonio, TX  
 
 ---
 **Boston Celtics** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-22T03:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
@@ -80,13 +80,6 @@ Location: Sacramento, CA
 ---
 
 ## 🏈 NFL
-**Indianapolis Colts** vs **Houston Texans**  
-Status: Final  
-Time: 2026-11-20T01:15Z  
-Venue: Reliant Stadium  
-Location: Houston, TX  
-
----
 **Miami Dolphins** vs **Buffalo Bills**  
 Status: Scheduled  
 Time: 2026-11-22T18:00Z  
@@ -164,6 +157,13 @@ Venue: Estadio Banorte
 Location: Mexico City,   
 
 ---
+**Indianapolis Colts** vs **Houston Texans**  
+Status: Final  
+Time: 2026-11-20T01:15Z  
+Venue: Reliant Stadium  
+Location: Houston, TX  
+
+---
 **Cincinnati Bengals** vs **Washington Commanders**  
 Status: Scheduled  
 Time: 2026-11-24T01:15Z  
@@ -178,8 +178,8 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 21, 2026 at 07:53 PM |
-| Daily location | New York |
+| Last update | November 22, 2026 at 07:35 AM |
+| Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

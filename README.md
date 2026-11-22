@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 73.6 °F |
-| Feels Like | 78.9 °F |
-| Humidity | 91% |
-| Wind | 7.4 mph |
+| Temperature | 81.0 °F |
+| Feels Like | 87.3 °F |
+| Humidity | 71% |
+| Wind | 5.0 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,94 +36,101 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Milwaukee Bucks** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-11-21T18:00Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
+**Detroit Pistons** vs **Atlanta Hawks**  
+Status: Scheduled  
+Time: 2026-11-22T20:30Z  
+Venue: State Farm Arena  
+Location: Atlanta, GA  
 
 ---
-**Portland Trail Blazers** vs **New York Knicks**  
-Status: Final  
-Time: 2026-11-22T00:30Z  
+**Oklahoma City Thunder** vs **Miami Heat**  
+Status: Scheduled  
+Time: 2026-11-22T23:00Z  
+Venue: Kaseya Center  
+Location: Miami, FL  
+
+---
+**Orlando Magic** vs **Washington Wizards**  
+Status: Scheduled  
+Time: 2026-11-23T00:00Z  
+Venue: Capital One Arena  
+Location: Washington, DC  
+
+---
+**Denver Nuggets** vs **Chicago Bulls**  
+Status: Scheduled  
+Time: 2026-11-23T00:00Z  
+Venue: United Center  
+Location: Chicago, IL  
+
+---
+**Dallas Mavericks** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-11-23T00:00Z  
+Venue: Delta Center  
+Location: Salt Lake City, UT  
+
+---
+**Indiana Pacers** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-11-23T01:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
-**LA Clippers** vs **Dallas Mavericks**  
-Status: Final  
-Time: 2026-11-22T01:00Z  
-Venue: American Airlines Center  
-Location: Dallas, TX  
-
----
-**Memphis Grizzlies** vs **Minnesota Timberwolves**  
-Status: Final  
-Time: 2026-11-22T01:00Z  
-Venue: Target Center  
-Location: Minneapolis, MN  
-
----
-**New Orleans Pelicans** vs **San Antonio Spurs**  
-Status: Final  
-Time: 2026-11-22T01:00Z  
-Venue: Frost Bank Center  
-Location: San Antonio, TX  
-
----
-**Boston Celtics** vs **Sacramento Kings**  
-Status: Final  
-Time: 2026-11-22T03:00Z  
-Venue: Golden 1 Center  
-Location: Sacramento, CA  
+**Boston Celtics** vs **Golden State Warriors**  
+Status: Scheduled  
+Time: 2026-11-23T01:30Z  
+Venue: Chase Center  
+Location: San Francisco, CA  
 
 ---
 
 ## 🏈 NFL
 **Miami Dolphins** vs **Buffalo Bills**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T18:00Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
 
 ---
 **New Orleans Saints** vs **Chicago Bears**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T18:00Z  
 Venue: Soldier Field  
 Location: Chicago, IL  
 
 ---
 **Tennessee Titans** vs **Dallas Cowboys**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T18:00Z  
 Venue: AT&T Stadium  
 Location: Arlington, TX  
 
 ---
 **Tampa Bay Buccaneers** vs **Detroit Lions**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T18:00Z  
 Venue: Ford Field  
 Location: Detroit, MI  
 
 ---
 **Arizona Cardinals** vs **Kansas City Chiefs**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T18:00Z  
 Venue: Arrowhead Stadium  
 Location: Kansas City, MO  
 
 ---
 **Pittsburgh Steelers** vs **Philadelphia Eagles**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T18:00Z  
 Venue: Lincoln Financial Field  
 Location: Philadelphia, PA  
 
 ---
 **Baltimore Ravens** vs **Carolina Panthers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-22T18:00Z  
 Venue: Bank of America Stadium  
 Location: Charlotte, NC  
@@ -178,7 +185,7 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 22, 2026 at 07:35 AM |
+| Last update | November 22, 2026 at 08:04 PM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

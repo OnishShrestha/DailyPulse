@@ -16,11 +16,11 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 47.6 °F |
-| Feels Like | 38.9 °F |
-| Humidity | 55% |
-| Wind | 11.6 mph |
-| Precipitation | 0.0 in |
+| Temperature | 45.9 °F |
+| Feels Like | 39.2 °F |
+| Humidity | 75% |
+| Wind | 9.7 mph |
+| Precipitation | 0.008 in |
 
 ---
 
@@ -93,14 +93,14 @@ Location: Houston, TX
 
 ---
 **Utah Jazz** vs **Los Angeles Lakers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-24T03:00Z  
 Venue: crypto.com Arena  
 Location: Los Angeles, CA  
 
 ---
 **San Antonio Spurs** vs **Sacramento Kings**  
-Status: Halftime  
+Status: Final  
 Time: 2026-11-24T03:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
@@ -108,13 +108,6 @@ Location: Sacramento, CA
 ---
 
 ## 🏈 NFL
-**Cincinnati Bengals** vs **Washington Commanders**  
-Status: In Progress  
-Time: 2026-11-24T01:15Z  
-Venue: Northwest Stadium  
-Location: Landover, MD  
-
----
 **Indianapolis Colts** vs **Houston Texans**  
 Status: Final  
 Time: 2026-11-20T01:15Z  
@@ -199,6 +192,13 @@ Venue: Estadio Banorte
 Location: Mexico City,   
 
 ---
+**Cincinnati Bengals** vs **Washington Commanders**  
+Status: Final  
+Time: 2026-11-24T01:15Z  
+Venue: Northwest Stadium  
+Location: Landover, MD  
+
+---
 
 ---
 
@@ -206,7 +206,7 @@ Location: Mexico City,
 
 | Item | Value |
 |---|---|
-| Last update | November 24, 2026 at 04:10 AM |
+| Last update | November 24, 2026 at 10:31 AM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

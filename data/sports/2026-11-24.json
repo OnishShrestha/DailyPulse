@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-24T04:10:01.471135",
+    "timestamp": "2026-11-24T10:31:30.513789",
     "location": {
         "city": "Seattle",
         "state": "Washington",
@@ -170,15 +170,15 @@
                 "name": "Utah Jazz at Los Angeles Lakers",
                 "short_name": "UTAH @ LAL",
                 "date": "2026-11-24T03:00Z",
-                "status": "In Progress",
+                "status": "Final",
                 "state": "CA",
-                "detail": "30.3 - 2nd Quarter",
+                "detail": "Final",
                 "home_team": "Los Angeles Lakers",
                 "home_abbreviation": "LAL",
-                "home_score": "51",
+                "home_score": "109",
                 "away_team": "Utah Jazz",
                 "away_abbreviation": "UTAH",
-                "away_score": "40",
+                "away_score": "94",
                 "venue": "crypto.com Arena",
                 "city": "Los Angeles"
             },
@@ -187,37 +187,20 @@
                 "name": "San Antonio Spurs at Sacramento Kings",
                 "short_name": "SA @ SAC",
                 "date": "2026-11-24T03:00Z",
-                "status": "Halftime",
+                "status": "Final",
                 "state": "CA",
-                "detail": "Halftime",
+                "detail": "Final",
                 "home_team": "Sacramento Kings",
                 "home_abbreviation": "SAC",
-                "home_score": "51",
+                "home_score": "107",
                 "away_team": "San Antonio Spurs",
                 "away_abbreviation": "SA",
-                "away_score": "60",
+                "away_score": "123",
                 "venue": "Golden 1 Center",
                 "city": "Sacramento"
             }
         ],
         "NFL": [
-            {
-                "id": "401873078",
-                "name": "Cincinnati Bengals at Washington Commanders",
-                "short_name": "CIN @ WSH",
-                "date": "2026-11-24T01:15Z",
-                "status": "In Progress",
-                "state": "MD",
-                "detail": "1:39 - 4th Quarter",
-                "home_team": "Washington Commanders",
-                "home_abbreviation": "WSH",
-                "home_score": "19",
-                "away_team": "Cincinnati Bengals",
-                "away_abbreviation": "CIN",
-                "away_score": "17",
-                "venue": "Northwest Stadium",
-                "city": "Landover"
-            },
             {
                 "id": "401873066",
                 "name": "Indianapolis Colts at Houston Texans",
@@ -421,6 +404,23 @@
                 "away_score": "10",
                 "venue": "Estadio Banorte",
                 "city": "Mexico City"
+            },
+            {
+                "id": "401873078",
+                "name": "Cincinnati Bengals at Washington Commanders",
+                "short_name": "CIN @ WSH",
+                "date": "2026-11-24T01:15Z",
+                "status": "Final",
+                "state": "MD",
+                "detail": "Final",
+                "home_team": "Washington Commanders",
+                "home_abbreviation": "WSH",
+                "home_score": "22",
+                "away_team": "Cincinnati Bengals",
+                "away_abbreviation": "CIN",
+                "away_score": "20",
+                "venue": "Northwest Stadium",
+                "city": "Landover"
             }
         ]
     }

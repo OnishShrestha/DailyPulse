@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 47.4 °F |
-| Feels Like | 40.9 °F |
-| Humidity | 65% |
-| Wind | 7.9 mph |
+| Temperature | 47.6 °F |
+| Feels Like | 38.9 °F |
+| Humidity | 55% |
+| Wind | 11.6 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,70 +37,70 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Memphis Grizzlies** vs **Charlotte Hornets**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-24T00:00Z  
 Venue: Spectrum Center  
 Location: Charlotte, NC  
 
 ---
 **Portland Trail Blazers** vs **Philadelphia 76ers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-24T00:00Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Oklahoma City Thunder** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-24T00:30Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Milwaukee Bucks** vs **Toronto Raptors**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-24T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **Brooklyn Nets** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-24T00:30Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **Cleveland Cavaliers** vs **Chicago Bulls**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-24T01:00Z  
 Venue: United Center  
 Location: Chicago, IL  
 
 ---
 **Phoenix Suns** vs **New Orleans Pelicans**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-24T01:00Z  
 Venue: Smoothie King Center  
 Location: New Orleans, LA  
 
 ---
 **LA Clippers** vs **Houston Rockets**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-24T01:30Z  
 Venue: Toyota Center (Houston)  
 Location: Houston, TX  
 
 ---
 **Utah Jazz** vs **Los Angeles Lakers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-24T03:00Z  
 Venue: crypto.com Arena  
 Location: Los Angeles, CA  
 
 ---
 **San Antonio Spurs** vs **Sacramento Kings**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-24T03:00Z  
 Venue: Golden 1 Center  
 Location: Sacramento, CA  
@@ -109,7 +109,7 @@ Location: Sacramento, CA
 
 ## 🏈 NFL
 **Cincinnati Bengals** vs **Washington Commanders**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-24T01:15Z  
 Venue: Northwest Stadium  
 Location: Landover, MD  
@@ -206,7 +206,7 @@ Location: Mexico City,
 
 | Item | Value |
 |---|---|
-| Last update | November 24, 2026 at 12:30 AM |
+| Last update | November 24, 2026 at 04:10 AM |
 | Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

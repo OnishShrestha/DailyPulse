@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Miami, Florida
+### Seattle, Washington
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 74.6 °F |
-| Feels Like | 79.0 °F |
-| Humidity | 77% |
-| Wind | 4.8 mph |
+| Temperature | 47.4 °F |
+| Feels Like | 40.9 °F |
+| Humidity | 65% |
+| Wind | 7.9 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,69 +36,90 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Detroit Pistons** vs **Atlanta Hawks**  
-Status: Final  
-Time: 2026-11-22T20:30Z  
-Venue: State Farm Arena  
-Location: Atlanta, GA  
-
----
-**Oklahoma City Thunder** vs **Miami Heat**  
+**Memphis Grizzlies** vs **Charlotte Hornets**  
 Status: In Progress  
-Time: 2026-11-22T23:00Z  
-Venue: Kaseya Center  
-Location: Miami, FL  
+Time: 2026-11-24T00:00Z  
+Venue: Spectrum Center  
+Location: Charlotte, NC  
 
 ---
-**Orlando Magic** vs **Washington Wizards**  
-Status: Scheduled  
-Time: 2026-11-23T00:00Z  
-Venue: Capital One Arena  
-Location: Washington, DC  
+**Portland Trail Blazers** vs **Philadelphia 76ers**  
+Status: In Progress  
+Time: 2026-11-24T00:00Z  
+Venue: Xfinity Mobile Arena  
+Location: Philadelphia, PA  
 
 ---
-**Denver Nuggets** vs **Chicago Bulls**  
+**Oklahoma City Thunder** vs **Indiana Pacers**  
 Status: Scheduled  
-Time: 2026-11-23T00:00Z  
+Time: 2026-11-24T00:30Z  
+Venue: Gainbridge Fieldhouse  
+Location: Indianapolis, IN  
+
+---
+**Milwaukee Bucks** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-11-24T00:30Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
+
+---
+**Brooklyn Nets** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-11-24T00:30Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
+
+---
+**Cleveland Cavaliers** vs **Chicago Bulls**  
+Status: Scheduled  
+Time: 2026-11-24T01:00Z  
 Venue: United Center  
 Location: Chicago, IL  
 
 ---
-**Dallas Mavericks** vs **Utah Jazz**  
+**Phoenix Suns** vs **New Orleans Pelicans**  
 Status: Scheduled  
-Time: 2026-11-23T00:00Z  
-Venue: Delta Center  
-Location: Salt Lake City, UT  
+Time: 2026-11-24T01:00Z  
+Venue: Smoothie King Center  
+Location: New Orleans, LA  
 
 ---
-**Indiana Pacers** vs **New York Knicks**  
+**LA Clippers** vs **Houston Rockets**  
 Status: Scheduled  
-Time: 2026-11-23T01:00Z  
-Venue: Madison Square Garden  
-Location: New York, NY  
+Time: 2026-11-24T01:30Z  
+Venue: Toyota Center (Houston)  
+Location: Houston, TX  
 
 ---
-**Boston Celtics** vs **Golden State Warriors**  
+**Utah Jazz** vs **Los Angeles Lakers**  
 Status: Scheduled  
-Time: 2026-11-23T01:30Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
+Time: 2026-11-24T03:00Z  
+Venue: crypto.com Arena  
+Location: Los Angeles, CA  
+
+---
+**San Antonio Spurs** vs **Sacramento Kings**  
+Status: Scheduled  
+Time: 2026-11-24T03:00Z  
+Venue: Golden 1 Center  
+Location: Sacramento, CA  
 
 ---
 
 ## 🏈 NFL
-**Las Vegas Raiders** vs **Denver Broncos**  
-Status: In Progress  
-Time: 2026-11-22T21:25Z  
-Venue: Empower Field at Mile High  
-Location: Denver, CO  
+**Cincinnati Bengals** vs **Washington Commanders**  
+Status: Scheduled  
+Time: 2026-11-24T01:15Z  
+Venue: Northwest Stadium  
+Location: Landover, MD  
 
 ---
-**Jacksonville Jaguars** vs **New York Giants**  
-Status: In Progress  
-Time: 2026-11-22T21:25Z  
-Venue: MetLife Stadium  
-Location: East Rutherford, NJ  
+**Indianapolis Colts** vs **Houston Texans**  
+Status: Final  
+Time: 2026-11-20T01:15Z  
+Venue: Reliant Stadium  
+Location: Houston, TX  
 
 ---
 **Miami Dolphins** vs **Buffalo Bills**  
@@ -157,25 +178,25 @@ Venue: SoFi Stadium
 Location: Inglewood, CA  
 
 ---
+**Las Vegas Raiders** vs **Denver Broncos**  
+Status: Final  
+Time: 2026-11-22T21:25Z  
+Venue: Empower Field at Mile High  
+Location: Denver, CO  
+
+---
+**Jacksonville Jaguars** vs **New York Giants**  
+Status: Final  
+Time: 2026-11-22T21:25Z  
+Venue: MetLife Stadium  
+Location: East Rutherford, NJ  
+
+---
 **Minnesota Vikings** vs **San Francisco 49ers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-23T01:20Z  
 Venue: Estadio Banorte  
 Location: Mexico City,   
-
----
-**Indianapolis Colts** vs **Houston Texans**  
-Status: Final  
-Time: 2026-11-20T01:15Z  
-Venue: Reliant Stadium  
-Location: Houston, TX  
-
----
-**Cincinnati Bengals** vs **Washington Commanders**  
-Status: Scheduled  
-Time: 2026-11-24T01:15Z  
-Venue: Northwest Stadium  
-Location: Landover, MD  
 
 ---
 
@@ -185,8 +206,8 @@ Location: Landover, MD
 
 | Item | Value |
 |---|---|
-| Last update | November 22, 2026 at 11:58 PM |
-| Daily location | Miami |
+| Last update | November 24, 2026 at 12:30 AM |
+| Daily location | Seattle |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

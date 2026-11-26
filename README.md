@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### Houston, Texas
+### Los Angeles, California
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 53.0 °F |
-| Feels Like | 46.4 °F |
-| Humidity | 50% |
-| Wind | 7.8 mph |
+| Temperature | 64.1 °F |
+| Feels Like | 60.4 °F |
+| Humidity | 47% |
+| Wind | 4.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,49 +37,49 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Miami Heat** vs **Philadelphia 76ers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-25T22:00Z  
 Venue: Xfinity Mobile Arena  
 Location: Philadelphia, PA  
 
 ---
 **Chicago Bulls** vs **Charlotte Hornets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T00:00Z  
 Venue: Spectrum Center  
 Location: Charlotte, NC  
 
 ---
 **Cleveland Cavaliers** vs **New York Knicks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T00:30Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Minnesota Timberwolves** vs **Oklahoma City Thunder**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T00:30Z  
 Venue: Paycom Center  
 Location: Oklahoma City, OK  
 
 ---
 **LA Clippers** vs **Memphis Grizzlies**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T01:00Z  
 Venue: FedExForum  
 Location: Memphis, TN  
 
 ---
 **Brooklyn Nets** vs **Milwaukee Bucks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T01:00Z  
 Venue: Fiserv Forum  
 Location: Milwaukee, WI  
 
 ---
 **Phoenix Suns** vs **Houston Rockets**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T01:30Z  
 Venue: Toyota Center (Houston)  
 Location: Houston, TX  
@@ -102,7 +102,7 @@ Location: Portland, OR
 
 ## 🏈 NFL
 **Green Bay Packers** vs **Los Angeles Rams**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T01:00Z  
 Venue: SoFi Stadium  
 Location: Inglewood, CA  
@@ -220,8 +220,8 @@ Location: Tampa, FL
 
 | Item | Value |
 |---|---|
-| Last update | November 25, 2026 at 10:04 PM |
-| Daily location | Houston |
+| Last update | November 26, 2026 at 02:01 AM |
+| Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

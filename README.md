@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 64.1 °F |
-| Feels Like | 60.4 °F |
-| Humidity | 47% |
-| Wind | 4.8 mph |
+| Temperature | 82.7 °F |
+| Feels Like | 77.5 °F |
+| Humidity | 17% |
+| Wind | 3.8 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -36,90 +36,97 @@ Location: St. Petersburg, Florida
 ---
 
 ## 🏀 NBA
-**Miami Heat** vs **Philadelphia 76ers**  
-Status: Final  
-Time: 2026-11-25T22:00Z  
-Venue: Xfinity Mobile Arena  
-Location: Philadelphia, PA  
-
----
-**Chicago Bulls** vs **Charlotte Hornets**  
-Status: In Progress  
-Time: 2026-11-26T00:00Z  
-Venue: Spectrum Center  
-Location: Charlotte, NC  
-
----
-**Cleveland Cavaliers** vs **New York Knicks**  
-Status: In Progress  
-Time: 2026-11-26T00:30Z  
+**Miami Heat** vs **New York Knicks**  
+Status: Scheduled  
+Time: 2026-11-28T00:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
-**Minnesota Timberwolves** vs **Oklahoma City Thunder**  
-Status: In Progress  
-Time: 2026-11-26T00:30Z  
-Venue: Paycom Center  
-Location: Oklahoma City, OK  
-
----
-**LA Clippers** vs **Memphis Grizzlies**  
-Status: In Progress  
-Time: 2026-11-26T01:00Z  
-Venue: FedExForum  
-Location: Memphis, TN  
-
----
-**Brooklyn Nets** vs **Milwaukee Bucks**  
-Status: In Progress  
-Time: 2026-11-26T01:00Z  
-Venue: Fiserv Forum  
-Location: Milwaukee, WI  
-
----
-**Phoenix Suns** vs **Houston Rockets**  
-Status: In Progress  
-Time: 2026-11-26T01:30Z  
-Venue: Toyota Center (Houston)  
-Location: Houston, TX  
-
----
-**Sacramento Kings** vs **Golden State Warriors**  
+**Milwaukee Bucks** vs **Detroit Pistons**  
 Status: Scheduled  
-Time: 2026-11-26T03:00Z  
-Venue: Chase Center  
-Location: San Francisco, CA  
+Time: 2026-11-28T00:30Z  
+Venue: Little Caesars Arena  
+Location: Detroit, MI  
 
 ---
-**San Antonio Spurs** vs **Portland Trail Blazers**  
+**Philadelphia 76ers** vs **Indiana Pacers**  
 Status: Scheduled  
-Time: 2026-11-26T03:00Z  
+Time: 2026-11-28T00:30Z  
+Venue: Gainbridge Fieldhouse  
+Location: Indianapolis, IN  
+
+---
+**Brooklyn Nets** vs **Toronto Raptors**  
+Status: Scheduled  
+Time: 2026-11-28T00:30Z  
+Venue: Scotiabank Arena  
+Location: Toronto, ON  
+
+---
+**Atlanta Hawks** vs **Boston Celtics**  
+Status: Scheduled  
+Time: 2026-11-28T01:00Z  
+Venue: TD Garden  
+Location: Boston, MA  
+
+---
+**Memphis Grizzlies** vs **Minnesota Timberwolves**  
+Status: Scheduled  
+Time: 2026-11-28T01:30Z  
+Venue: Target Center  
+Location: Minneapolis, MN  
+
+---
+**Dallas Mavericks** vs **Phoenix Suns**  
+Status: Scheduled  
+Time: 2026-11-28T02:00Z  
+Venue: Mortgage Matchup Center  
+Location: Phoenix, AZ  
+
+---
+**Los Angeles Lakers** vs **San Antonio Spurs**  
+Status: Scheduled  
+Time: 2026-11-28T02:30Z  
+Venue: Frost Bank Center  
+Location: San Antonio, TX  
+
+---
+**Denver Nuggets** vs **Utah Jazz**  
+Status: Scheduled  
+Time: 2026-11-28T02:30Z  
+Venue: Delta Center  
+Location: Salt Lake City, UT  
+
+---
+**New Orleans Pelicans** vs **LA Clippers**  
+Status: Scheduled  
+Time: 2026-11-28T02:30Z  
+Venue: Intuit Dome  
+Location: Inglewood, CA  
+
+---
+**Golden State Warriors** vs **Portland Trail Blazers**  
+Status: Scheduled  
+Time: 2026-11-28T02:30Z  
 Venue: Moda Center  
 Location: Portland, OR  
 
 ---
 
 ## 🏈 NFL
-**Green Bay Packers** vs **Los Angeles Rams**  
-Status: In Progress  
-Time: 2026-11-26T01:00Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
-
----
-**Chicago Bears** vs **Detroit Lions**  
-Status: Scheduled  
-Time: 2026-11-26T18:00Z  
-Venue: Ford Field  
-Location: Detroit, MI  
-
----
 **Philadelphia Eagles** vs **Dallas Cowboys**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-26T21:30Z  
 Venue: AT&T Stadium  
 Location: Arlington, TX  
+
+---
+**Chicago Bears** vs **Detroit Lions**  
+Status: Final  
+Time: 2026-11-26T18:00Z  
+Venue: Ford Field  
+Location: Detroit, MI  
 
 ---
 **Kansas City Chiefs** vs **Buffalo Bills**  
@@ -127,6 +134,13 @@ Status: Scheduled
 Time: 2026-11-27T01:20Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
+
+---
+**Green Bay Packers** vs **Los Angeles Rams**  
+Status: Final  
+Time: 2026-11-26T01:00Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
 
 ---
 **Denver Broncos** vs **Pittsburgh Steelers**  
@@ -220,7 +234,7 @@ Location: Tampa, FL
 
 | Item | Value |
 |---|---|
-| Last update | November 26, 2026 at 02:01 AM |
+| Last update | November 26, 2026 at 10:02 PM |
 | Daily location | Los Angeles |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

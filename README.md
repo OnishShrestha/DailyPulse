@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 56.4 °F |
-| Feels Like | 53.9 °F |
-| Humidity | 80% |
-| Wind | 6.3 mph |
+| Temperature | 51.6 °F |
+| Feels Like | 48.4 °F |
+| Humidity | 79% |
+| Wind | 4.7 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -115,11 +115,18 @@ Location: Portland, OR
 ---
 
 ## 🏈 NFL
-**Kansas City Chiefs** vs **Buffalo Bills**  
-Status: In Progress  
-Time: 2026-11-27T01:20Z  
-Venue: Highmark Stadium  
-Location: Orchard Park, NY  
+**Denver Broncos** vs **Pittsburgh Steelers**  
+Status: Scheduled  
+Time: 2026-11-27T20:00Z  
+Venue: Acrisure Stadium  
+Location: Pittsburgh, PA  
+
+---
+**Green Bay Packers** vs **Los Angeles Rams**  
+Status: Final  
+Time: 2026-11-26T01:00Z  
+Venue: SoFi Stadium  
+Location: Inglewood, CA  
 
 ---
 **Chicago Bears** vs **Detroit Lions**  
@@ -136,18 +143,11 @@ Venue: AT&T Stadium
 Location: Arlington, TX  
 
 ---
-**Green Bay Packers** vs **Los Angeles Rams**  
+**Kansas City Chiefs** vs **Buffalo Bills**  
 Status: Final  
-Time: 2026-11-26T01:00Z  
-Venue: SoFi Stadium  
-Location: Inglewood, CA  
-
----
-**Denver Broncos** vs **Pittsburgh Steelers**  
-Status: Scheduled  
-Time: 2026-11-27T20:00Z  
-Venue: Acrisure Stadium  
-Location: Pittsburgh, PA  
+Time: 2026-11-27T01:20Z  
+Venue: Highmark Stadium  
+Location: Orchard Park, NY  
 
 ---
 **New Orleans Saints** vs **Cincinnati Bengals**  
@@ -234,7 +234,7 @@ Location: Tampa, FL
 
 | Item | Value |
 |---|---|
-| Last update | November 27, 2026 at 02:01 AM |
+| Last update | November 27, 2026 at 09:12 AM |
 | Daily location | San Francisco |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

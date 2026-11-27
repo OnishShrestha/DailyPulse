@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 51.6 °F |
-| Feels Like | 48.4 °F |
-| Humidity | 79% |
-| Wind | 4.7 mph |
+| Temperature | 59.7 °F |
+| Feels Like | 58.1 °F |
+| Humidity | 87% |
+| Wind | 8.2 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -116,7 +116,7 @@ Location: Portland, OR
 
 ## 🏈 NFL
 **Denver Broncos** vs **Pittsburgh Steelers**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-27T20:00Z  
 Venue: Acrisure Stadium  
 Location: Pittsburgh, PA  
@@ -234,7 +234,7 @@ Location: Tampa, FL
 
 | Item | Value |
 |---|---|
-| Last update | November 27, 2026 at 09:12 AM |
+| Last update | November 27, 2026 at 09:45 PM |
 | Daily location | San Francisco |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

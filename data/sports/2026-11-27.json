@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-27T09:12:06.192588",
+    "timestamp": "2026-11-27T21:45:03.494162",
     "location": {
         "city": "San Francisco",
         "state": "California",
@@ -223,15 +223,15 @@
                 "name": "Denver Broncos at Pittsburgh Steelers",
                 "short_name": "DEN @ PIT",
                 "date": "2026-11-27T20:00Z",
-                "status": "Scheduled",
+                "status": "In Progress",
                 "state": "PA",
-                "detail": "Fri, November 27th at 3:00 PM EST",
+                "detail": "12:30 - 3rd Quarter",
                 "home_team": "Pittsburgh Steelers",
                 "home_abbreviation": "PIT",
-                "home_score": "0",
+                "home_score": "24",
                 "away_team": "Denver Broncos",
                 "away_abbreviation": "DEN",
-                "away_score": "0",
+                "away_score": "5",
                 "venue": "Acrisure Stadium",
                 "city": "Pittsburgh"
             },

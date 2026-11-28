@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 65.4 °F |
-| Feels Like | 64.4 °F |
-| Humidity | 57% |
-| Wind | 2.4 mph |
+| Temperature | 60.8 °F |
+| Feels Like | 60.1 °F |
+| Humidity | 82% |
+| Wind | 5.5 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,77 +37,77 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Miami Heat** vs **New York Knicks**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-28T00:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Milwaukee Bucks** vs **Detroit Pistons**  
-Status: Halftime  
+Status: Final  
 Time: 2026-11-28T00:30Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
 **Philadelphia 76ers** vs **Indiana Pacers**  
-Status: Halftime  
+Status: Final  
 Time: 2026-11-28T00:30Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Brooklyn Nets** vs **Toronto Raptors**  
-Status: Halftime  
+Status: Final  
 Time: 2026-11-28T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **Atlanta Hawks** vs **Boston Celtics**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-28T01:00Z  
 Venue: TD Garden  
 Location: Boston, MA  
 
 ---
 **Memphis Grizzlies** vs **Minnesota Timberwolves**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-28T01:30Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
 
 ---
 **Dallas Mavericks** vs **Phoenix Suns**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-28T02:00Z  
 Venue: Mortgage Matchup Center  
 Location: Phoenix, AZ  
 
 ---
 **Los Angeles Lakers** vs **San Antonio Spurs**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-28T02:30Z  
 Venue: Frost Bank Center  
 Location: San Antonio, TX  
 
 ---
 **Denver Nuggets** vs **Utah Jazz**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-28T02:30Z  
 Venue: Delta Center  
 Location: Salt Lake City, UT  
 
 ---
 **New Orleans Pelicans** vs **LA Clippers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-28T02:30Z  
 Venue: Intuit Dome  
 Location: Inglewood, CA  
 
 ---
 **Golden State Warriors** vs **Portland Trail Blazers**  
-Status: Scheduled  
+Status: Final  
 Time: 2026-11-28T02:30Z  
 Venue: Moda Center  
 Location: Portland, OR  
@@ -115,13 +115,6 @@ Location: Portland, OR
 ---
 
 ## 🏈 NFL
-**Denver Broncos** vs **Pittsburgh Steelers**  
-Status: Final  
-Time: 2026-11-27T20:00Z  
-Venue: Acrisure Stadium  
-Location: Pittsburgh, PA  
-
----
 **Green Bay Packers** vs **Los Angeles Rams**  
 Status: Final  
 Time: 2026-11-26T01:00Z  
@@ -148,6 +141,13 @@ Status: Final
 Time: 2026-11-27T01:20Z  
 Venue: Highmark Stadium  
 Location: Orchard Park, NY  
+
+---
+**Denver Broncos** vs **Pittsburgh Steelers**  
+Status: Final  
+Time: 2026-11-27T20:00Z  
+Venue: Acrisure Stadium  
+Location: Pittsburgh, PA  
 
 ---
 **New Orleans Saints** vs **Cincinnati Bengals**  
@@ -234,7 +234,7 @@ Location: Tampa, FL
 
 | Item | Value |
 |---|---|
-| Last update | November 28, 2026 at 01:45 AM |
+| Last update | November 28, 2026 at 08:32 AM |
 | Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |

@@ -6,7 +6,7 @@
 
 ## 📍 Location of the Day
 
-### San Francisco, California
+### Miami, Florida
 
 🇺🇸 USA
 
@@ -16,10 +16,10 @@
 
 | Metric | Value |
 |---|---:|
-| Temperature | 59.7 °F |
-| Feels Like | 58.1 °F |
-| Humidity | 87% |
-| Wind | 8.2 mph |
+| Temperature | 65.4 °F |
+| Feels Like | 64.4 °F |
+| Humidity | 57% |
+| Wind | 2.4 mph |
 | Precipitation | 0.0 in |
 
 ---
@@ -37,42 +37,42 @@ Location: St. Petersburg, Florida
 
 ## 🏀 NBA
 **Miami Heat** vs **New York Knicks**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-28T00:00Z  
 Venue: Madison Square Garden  
 Location: New York, NY  
 
 ---
 **Milwaukee Bucks** vs **Detroit Pistons**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-28T00:30Z  
 Venue: Little Caesars Arena  
 Location: Detroit, MI  
 
 ---
 **Philadelphia 76ers** vs **Indiana Pacers**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-28T00:30Z  
 Venue: Gainbridge Fieldhouse  
 Location: Indianapolis, IN  
 
 ---
 **Brooklyn Nets** vs **Toronto Raptors**  
-Status: Scheduled  
+Status: Halftime  
 Time: 2026-11-28T00:30Z  
 Venue: Scotiabank Arena  
 Location: Toronto, ON  
 
 ---
 **Atlanta Hawks** vs **Boston Celtics**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-28T01:00Z  
 Venue: TD Garden  
 Location: Boston, MA  
 
 ---
 **Memphis Grizzlies** vs **Minnesota Timberwolves**  
-Status: Scheduled  
+Status: In Progress  
 Time: 2026-11-28T01:30Z  
 Venue: Target Center  
 Location: Minneapolis, MN  
@@ -116,7 +116,7 @@ Location: Portland, OR
 
 ## 🏈 NFL
 **Denver Broncos** vs **Pittsburgh Steelers**  
-Status: In Progress  
+Status: Final  
 Time: 2026-11-27T20:00Z  
 Venue: Acrisure Stadium  
 Location: Pittsburgh, PA  
@@ -234,8 +234,8 @@ Location: Tampa, FL
 
 | Item | Value |
 |---|---|
-| Last update | November 27, 2026 at 09:45 PM |
-| Daily location | San Francisco |
+| Last update | November 28, 2026 at 01:45 AM |
+| Daily location | Miami |
 | Weather source | Open-Meteo |
 | Sports source | ESPN public scoreboard |
 | Updates per day | 3 |

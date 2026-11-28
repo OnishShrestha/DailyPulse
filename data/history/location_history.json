@@ -774,5 +774,13 @@
         "latitude": 37.7749,
         "longitude": -122.4194,
         "timezone": "America/Los_Angeles"
+    },
+    "2026-11-28": {
+        "city": "Miami",
+        "state": "Florida",
+        "country": "USA",
+        "latitude": 25.7617,
+        "longitude": -80.1918,
+        "timezone": "America/New_York"
     }
 }
